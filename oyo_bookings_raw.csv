@@ -1,0 +1,3001 @@
+booking_id,hotel_type,lead_time,room_price,payment_type,customer_type,booking_channel,cancellation_status,cancellation_reason
+1,Budget,29,2557,Pay at Hotel,New,Website,1,No Show
+2,City,21,2466,Pay at Hotel,Returning,Agent,1,Payment Failure
+3,Budget,27,3585,Prepaid,Returning,Website,1,No Show
+4,Budget,6,1519,Pay at Hotel,New,App,1,Change of Plan
+5,City,34,1205,Prepaid,New,App,1,Unknown
+6,City,54,3094,Prepaid,New,Website,1,Payment Failure
+7,Budget,27,871,Prepaid,New,Website,1,Better Alternative
+8,Resort,13,2853,Pay at Hotel,New,Website,1,Change of Plan
+9,Budget,55,2029,Pay at Hotel,Returning,App,1,Price Issue
+10,Budget,9,2367,Pay at Hotel,New,Website,1,Price Issue
+11,Budget,15,4482,Prepaid,New,Website,0,Not Cancelled
+12,Budget,15,3753,Pay at Hotel,Returning,Agent,1,Unknown
+13,City,53,5282,Prepaid,New,Website,1,No Show
+14,Budget,30,1498,Prepaid,Returning,Agent,1,Better Alternative
+15,Resort,41,1626,Prepaid,New,Agent,1,Better Alternative
+16,City,24,1148,Prepaid,Returning,Agent,1,Price Issue
+17,Resort,12,4708,Prepaid,New,App,0,Not Cancelled
+18,Resort,5,1107,Prepaid,Returning,Agent,0,Not Cancelled
+19,Resort,43,4216,Pay at Hotel,Returning,Website,1,Price Issue
+20,Resort,8,3134,Prepaid,New,App,0,Not Cancelled
+21,City,44,5661,Pay at Hotel,New,App,1,No Show
+22,City,35,5620,Prepaid,New,App,1,Better Alternative
+23,Resort,55,3609,Pay at Hotel,Returning,App,1,Unknown
+24,Resort,42,4358,Pay at Hotel,Returning,App,1,Better Alternative
+25,City,19,5278,Pay at Hotel,Returning,App,1,Better Alternative
+26,City,17,4277,Pay at Hotel,New,App,1,Price Issue
+27,City,57,5420,Prepaid,New,Agent,1,Payment Failure
+28,Budget,42,3486,Prepaid,Returning,Website,1,Price Issue
+29,Budget,56,3785,Prepaid,New,Website,1,Change of Plan
+30,Budget,20,1075,Prepaid,Returning,Agent,0,Not Cancelled
+31,Resort,3,3347,Pay at Hotel,New,Agent,1,Better Alternative
+32,Budget,49,3564,Pay at Hotel,New,App,1,Change of Plan
+33,Resort,32,1136,Pay at Hotel,Returning,App,1,Better Alternative
+34,Resort,26,2773,Prepaid,New,Agent,1,Better Alternative
+35,Budget,6,3779,Pay at Hotel,New,App,1,Unknown
+36,Resort,5,5376,Prepaid,New,Website,0,Not Cancelled
+37,Budget,14,4768,Pay at Hotel,New,Website,1,Change of Plan
+38,Budget,17,1710,Pay at Hotel,New,App,1,Price Issue
+39,City,31,2796,Pay at Hotel,Returning,App,1,Better Alternative
+40,Budget,55,3929,Pay at Hotel,New,App,1,Payment Failure
+41,City,10,5004,Pay at Hotel,Returning,Website,1,Change of Plan
+42,Budget,19,4557,Prepaid,New,App,0,Not Cancelled
+43,Budget,23,1127,Pay at Hotel,New,Agent,1,Unknown
+44,City,14,2599,Prepaid,Returning,App,0,Not Cancelled
+45,City,47,1114,Prepaid,Returning,Agent,1,Price Issue
+46,Budget,6,4345,Prepaid,New,App,0,Not Cancelled
+47,Resort,20,1934,Prepaid,New,App,0,Not Cancelled
+48,City,41,3546,Prepaid,Returning,Website,1,Unknown
+49,Resort,25,5676,Prepaid,Returning,Agent,1,Payment Failure
+50,Resort,43,2320,Prepaid,Returning,Agent,1,No Show
+51,Resort,55,955,Prepaid,Returning,Agent,1,Change of Plan
+52,City,13,2524,Pay at Hotel,New,Website,1,No Show
+53,Resort,56,4143,Pay at Hotel,New,Agent,1,Change of Plan
+54,City,36,1686,Prepaid,New,Website,1,Payment Failure
+55,Resort,57,3873,Prepaid,New,App,1,Payment Failure
+56,Budget,20,3605,Prepaid,New,App,0,Not Cancelled
+57,Budget,17,1521,Pay at Hotel,Returning,Agent,1,Payment Failure
+58,City,4,1712,Pay at Hotel,Returning,App,1,Better Alternative
+59,Budget,2,4157,Prepaid,Returning,App,0,Not Cancelled
+60,Budget,22,1670,Prepaid,New,Agent,1,No Show
+61,Resort,25,4908,Pay at Hotel,Returning,App,1,Change of Plan
+62,City,36,1297,Pay at Hotel,New,Agent,1,Payment Failure
+63,Resort,23,2556,Prepaid,New,Agent,1,Price Issue
+64,Resort,48,1917,Prepaid,New,App,1,Price Issue
+65,Resort,18,4209,Prepaid,Returning,App,0,Not Cancelled
+66,Resort,50,3628,Prepaid,New,App,1,Unknown
+67,Resort,24,2447,Pay at Hotel,New,App,1,Better Alternative
+68,Resort,20,3783,Pay at Hotel,Returning,App,1,Payment Failure
+69,Resort,11,942,Prepaid,New,Website,0,Not Cancelled
+70,City,56,3561,Prepaid,Returning,App,1,Better Alternative
+71,Budget,40,4235,Prepaid,New,Website,1,No Show
+72,Resort,32,5460,Pay at Hotel,Returning,Agent,1,Change of Plan
+73,Resort,49,3231,Prepaid,New,App,1,Payment Failure
+74,Resort,52,5312,Prepaid,New,App,1,Payment Failure
+75,Resort,3,2648,Prepaid,Returning,App,0,Not Cancelled
+76,Resort,41,3496,Pay at Hotel,New,Agent,1,No Show
+77,Resort,56,2517,Prepaid,Returning,Website,1,Payment Failure
+78,Budget,6,3872,Pay at Hotel,New,Website,1,Unknown
+79,Budget,21,1867,Prepaid,Returning,App,1,Unknown
+80,Resort,54,3586,Prepaid,New,App,1,Unknown
+81,Budget,32,4591,Prepaid,New,App,1,Payment Failure
+82,City,16,2088,Pay at Hotel,New,App,1,Payment Failure
+83,Resort,23,4671,Prepaid,Returning,Agent,1,Payment Failure
+84,City,33,2606,Prepaid,Returning,App,1,Better Alternative
+85,City,27,2304,Pay at Hotel,Returning,Agent,1,Unknown
+86,Resort,57,4108,Pay at Hotel,Returning,App,1,Better Alternative
+87,Budget,42,5912,Pay at Hotel,Returning,Website,1,Change of Plan
+88,City,40,5848,Prepaid,New,Website,1,Payment Failure
+89,Resort,38,3751,Pay at Hotel,New,App,1,No Show
+90,City,21,871,Prepaid,New,App,1,Price Issue
+91,City,48,2490,Pay at Hotel,New,Agent,1,Change of Plan
+92,City,16,2144,Pay at Hotel,New,App,1,Price Issue
+93,City,33,4103,Pay at Hotel,Returning,App,1,Price Issue
+94,Budget,5,3913,Prepaid,New,App,0,Not Cancelled
+95,City,45,1682,Prepaid,Returning,Website,1,No Show
+96,City,5,5034,Prepaid,New,Agent,0,Not Cancelled
+97,City,33,3462,Prepaid,Returning,Website,1,Unknown
+98,Budget,0,2304,Prepaid,Returning,Agent,0,Not Cancelled
+99,City,9,3263,Prepaid,Returning,Website,0,Not Cancelled
+100,City,20,3353,Prepaid,New,App,0,Not Cancelled
+101,Budget,4,1532,Prepaid,New,Website,0,Not Cancelled
+102,Budget,1,2548,Prepaid,New,Website,0,Not Cancelled
+103,Budget,21,4724,Pay at Hotel,New,Agent,1,No Show
+104,City,47,1223,Pay at Hotel,Returning,Agent,1,Change of Plan
+105,Budget,56,4278,Prepaid,Returning,Website,1,Change of Plan
+106,Budget,1,2391,Prepaid,Returning,Agent,0,Not Cancelled
+107,City,9,5285,Prepaid,Returning,Agent,0,Not Cancelled
+108,Budget,33,5237,Prepaid,New,Agent,1,Payment Failure
+109,City,15,5841,Pay at Hotel,Returning,Agent,1,Price Issue
+110,Resort,47,5509,Pay at Hotel,New,Agent,1,No Show
+111,Budget,50,1292,Prepaid,Returning,Website,1,Change of Plan
+112,Resort,38,991,Pay at Hotel,Returning,Agent,1,Price Issue
+113,City,21,1298,Pay at Hotel,Returning,App,1,Price Issue
+114,Budget,11,5717,Prepaid,New,Website,0,Not Cancelled
+115,City,23,2056,Prepaid,New,Website,1,Unknown
+116,Resort,46,2768,Prepaid,Returning,Website,1,No Show
+117,City,39,5122,Prepaid,Returning,Agent,1,Unknown
+118,Budget,37,2986,Pay at Hotel,Returning,App,1,No Show
+119,Budget,59,1616,Prepaid,New,Agent,1,Change of Plan
+120,Resort,58,4020,Pay at Hotel,New,Website,1,Change of Plan
+121,City,9,2273,Prepaid,New,Website,0,Not Cancelled
+122,Budget,34,1886,Pay at Hotel,Returning,Website,1,No Show
+123,Resort,50,4999,Prepaid,New,Website,1,No Show
+124,Budget,48,2674,Prepaid,Returning,Agent,1,Unknown
+125,Budget,31,1670,Pay at Hotel,New,App,1,Change of Plan
+126,City,6,5563,Pay at Hotel,Returning,App,1,Better Alternative
+127,Budget,20,2842,Pay at Hotel,Returning,Website,1,Price Issue
+128,City,19,1072,Prepaid,New,App,0,Not Cancelled
+129,Budget,25,1829,Pay at Hotel,Returning,Website,1,Payment Failure
+130,Resort,3,4018,Pay at Hotel,Returning,Website,1,Payment Failure
+131,Budget,45,4869,Pay at Hotel,Returning,App,1,Better Alternative
+132,City,51,1851,Pay at Hotel,New,Website,1,Change of Plan
+133,City,21,4833,Pay at Hotel,Returning,App,1,Change of Plan
+134,Resort,14,2373,Pay at Hotel,New,Website,1,Change of Plan
+135,Budget,55,3990,Pay at Hotel,New,App,1,Unknown
+136,Budget,39,5188,Pay at Hotel,Returning,Website,1,Payment Failure
+137,Resort,20,4597,Pay at Hotel,New,App,1,Change of Plan
+138,Budget,14,4089,Prepaid,Returning,Website,0,Not Cancelled
+139,Budget,21,4547,Prepaid,New,Website,1,Better Alternative
+140,City,51,2905,Pay at Hotel,Returning,Website,1,Price Issue
+141,Budget,27,1107,Prepaid,New,App,1,Unknown
+142,Budget,13,4159,Prepaid,Returning,Agent,0,Not Cancelled
+143,Resort,26,5872,Pay at Hotel,Returning,Website,1,Better Alternative
+144,Resort,40,3976,Pay at Hotel,Returning,Website,1,Payment Failure
+145,City,39,2051,Pay at Hotel,Returning,App,1,Better Alternative
+146,Budget,57,3547,Pay at Hotel,New,Website,1,No Show
+147,Budget,27,2317,Pay at Hotel,New,Website,1,Unknown
+148,Budget,25,2178,Pay at Hotel,Returning,Website,1,Price Issue
+149,City,48,5691,Prepaid,New,Website,1,No Show
+150,City,1,5792,Pay at Hotel,Returning,Agent,1,Unknown
+151,Resort,24,2761,Prepaid,Returning,Agent,1,Payment Failure
+152,City,55,5105,Pay at Hotel,New,Website,1,No Show
+153,Budget,2,3663,Pay at Hotel,New,Website,1,Better Alternative
+154,Budget,7,3456,Prepaid,Returning,Website,0,Not Cancelled
+155,City,43,3294,Pay at Hotel,New,Agent,1,Better Alternative
+156,Budget,32,5863,Pay at Hotel,Returning,Agent,1,Payment Failure
+157,Budget,41,5367,Prepaid,New,App,1,Price Issue
+158,City,51,4805,Pay at Hotel,New,App,1,No Show
+159,City,34,4363,Prepaid,New,Website,1,Price Issue
+160,Budget,5,1722,Pay at Hotel,New,Website,1,Payment Failure
+161,Budget,38,5032,Pay at Hotel,New,Agent,1,No Show
+162,Budget,51,5262,Prepaid,Returning,Website,1,Unknown
+163,Resort,22,3759,Pay at Hotel,New,Website,1,Unknown
+164,Resort,24,983,Prepaid,New,Agent,1,Better Alternative
+165,Resort,58,4158,Prepaid,Returning,Agent,1,Better Alternative
+166,City,49,2198,Prepaid,Returning,Agent,1,Payment Failure
+167,Resort,42,3596,Pay at Hotel,Returning,Agent,1,Unknown
+168,City,18,1336,Pay at Hotel,New,App,1,No Show
+169,City,4,2073,Prepaid,New,Agent,0,Not Cancelled
+170,Resort,50,3767,Pay at Hotel,Returning,Agent,1,Better Alternative
+171,Resort,10,3849,Pay at Hotel,Returning,Website,1,Payment Failure
+172,Resort,55,1896,Pay at Hotel,Returning,Website,1,Unknown
+173,Budget,11,2105,Prepaid,Returning,Website,0,Not Cancelled
+174,Resort,9,1715,Pay at Hotel,New,App,1,Unknown
+175,Budget,7,3881,Prepaid,New,Agent,0,Not Cancelled
+176,City,23,5047,Pay at Hotel,New,Agent,1,Unknown
+177,Budget,59,1828,Pay at Hotel,New,App,1,Better Alternative
+178,Resort,27,2777,Prepaid,New,Agent,1,No Show
+179,City,40,4154,Pay at Hotel,Returning,Website,1,Better Alternative
+180,City,35,3311,Prepaid,New,App,1,Better Alternative
+181,City,36,1070,Pay at Hotel,Returning,Agent,1,Better Alternative
+182,Budget,20,1986,Prepaid,Returning,App,0,Not Cancelled
+183,Resort,7,5355,Pay at Hotel,Returning,App,1,Change of Plan
+184,City,54,5000,Pay at Hotel,New,Agent,1,Change of Plan
+185,City,8,4564,Pay at Hotel,Returning,Website,1,Price Issue
+186,City,46,3198,Prepaid,New,Agent,1,Better Alternative
+187,Budget,14,5329,Prepaid,Returning,Agent,0,Not Cancelled
+188,Budget,47,5035,Prepaid,New,Website,1,Price Issue
+189,Resort,45,4982,Pay at Hotel,Returning,Agent,1,Payment Failure
+190,Budget,39,2511,Prepaid,New,Agent,1,Better Alternative
+191,City,17,3030,Prepaid,Returning,Agent,0,Not Cancelled
+192,Resort,41,928,Prepaid,Returning,App,1,Payment Failure
+193,City,59,2069,Prepaid,Returning,App,1,Price Issue
+194,City,19,4472,Prepaid,Returning,App,0,Not Cancelled
+195,Budget,5,2401,Prepaid,New,Agent,0,Not Cancelled
+196,Resort,11,5565,Prepaid,New,Website,0,Not Cancelled
+197,Budget,1,4770,Prepaid,New,App,0,Not Cancelled
+198,Budget,6,5044,Prepaid,Returning,Website,0,Not Cancelled
+199,Resort,15,5880,Prepaid,Returning,Agent,0,Not Cancelled
+200,City,2,5747,Pay at Hotel,Returning,App,1,Payment Failure
+201,City,44,1427,Pay at Hotel,Returning,Agent,1,No Show
+202,Resort,2,4597,Prepaid,Returning,Website,0,Not Cancelled
+203,City,26,2844,Pay at Hotel,Returning,App,1,Better Alternative
+204,Resort,49,4352,Pay at Hotel,New,App,1,No Show
+205,Resort,42,5779,Prepaid,New,App,1,Payment Failure
+206,Budget,39,3141,Prepaid,New,App,1,Better Alternative
+207,Resort,37,4014,Prepaid,New,Website,1,No Show
+208,Budget,32,1049,Pay at Hotel,New,App,1,Better Alternative
+209,City,27,3725,Prepaid,New,Agent,1,Unknown
+210,City,0,5843,Pay at Hotel,New,App,1,No Show
+211,City,54,1774,Prepaid,New,Website,1,Unknown
+212,City,7,2125,Pay at Hotel,Returning,App,1,Price Issue
+213,Budget,36,1783,Pay at Hotel,Returning,Website,1,Price Issue
+214,City,31,1688,Prepaid,Returning,Website,1,Payment Failure
+215,Resort,59,3737,Prepaid,Returning,Agent,1,Change of Plan
+216,Resort,47,2917,Pay at Hotel,Returning,App,1,Unknown
+217,Resort,42,3472,Pay at Hotel,Returning,App,1,Unknown
+218,Budget,36,5770,Prepaid,Returning,App,1,Price Issue
+219,City,3,2126,Prepaid,New,Agent,0,Not Cancelled
+220,City,29,1270,Pay at Hotel,New,Agent,1,Change of Plan
+221,City,5,2787,Prepaid,Returning,Website,0,Not Cancelled
+222,Budget,45,890,Pay at Hotel,New,Website,1,Better Alternative
+223,Resort,53,1329,Prepaid,New,Website,1,Change of Plan
+224,Resort,18,5556,Prepaid,New,Agent,0,Not Cancelled
+225,City,31,4859,Prepaid,New,Agent,1,Unknown
+226,Resort,8,5634,Pay at Hotel,New,Agent,1,Unknown
+227,Resort,11,3573,Prepaid,Returning,Website,0,Not Cancelled
+228,Budget,10,5767,Pay at Hotel,New,Agent,1,No Show
+229,Budget,45,2486,Prepaid,Returning,Website,1,Change of Plan
+230,Budget,54,991,Pay at Hotel,Returning,Website,1,Change of Plan
+231,Budget,15,2786,Pay at Hotel,Returning,App,1,Change of Plan
+232,City,0,4423,Prepaid,New,App,0,Not Cancelled
+233,Budget,44,2985,Pay at Hotel,Returning,App,1,Change of Plan
+234,Resort,54,5240,Pay at Hotel,Returning,Website,1,Unknown
+235,City,52,1808,Pay at Hotel,Returning,App,1,Payment Failure
+236,Resort,20,4583,Pay at Hotel,Returning,App,1,Price Issue
+237,Resort,29,5098,Prepaid,New,App,1,Unknown
+238,Resort,12,5468,Prepaid,Returning,Agent,0,Not Cancelled
+239,Budget,33,5087,Prepaid,Returning,Website,1,No Show
+240,Budget,3,2852,Pay at Hotel,Returning,App,1,Price Issue
+241,City,27,4108,Pay at Hotel,Returning,Agent,1,Change of Plan
+242,City,37,2516,Prepaid,New,Agent,1,Price Issue
+243,Budget,57,1110,Prepaid,Returning,Agent,1,Payment Failure
+244,Resort,30,5338,Pay at Hotel,Returning,App,1,Better Alternative
+245,City,58,2060,Prepaid,Returning,Agent,1,Unknown
+246,Budget,54,5765,Prepaid,Returning,Website,1,Price Issue
+247,Budget,26,4732,Pay at Hotel,Returning,Agent,1,No Show
+248,Budget,4,4068,Prepaid,Returning,Agent,0,Not Cancelled
+249,Resort,24,1384,Pay at Hotel,New,Agent,1,Better Alternative
+250,Budget,2,3599,Prepaid,Returning,Agent,0,Not Cancelled
+251,Budget,32,1159,Pay at Hotel,New,Website,1,Change of Plan
+252,Budget,3,3666,Pay at Hotel,New,App,1,Better Alternative
+253,Budget,24,2811,Pay at Hotel,Returning,Website,1,No Show
+254,City,19,5739,Pay at Hotel,New,Website,1,Better Alternative
+255,City,33,4806,Pay at Hotel,Returning,App,1,No Show
+256,Budget,25,2425,Prepaid,New,Agent,1,Change of Plan
+257,Resort,4,3564,Prepaid,Returning,App,0,Not Cancelled
+258,City,34,1690,Prepaid,New,App,1,Payment Failure
+259,Budget,27,5855,Pay at Hotel,New,Website,1,Price Issue
+260,City,28,1531,Prepaid,Returning,App,1,Payment Failure
+261,City,8,4761,Pay at Hotel,New,Agent,1,Unknown
+262,Resort,51,5501,Pay at Hotel,New,Website,1,Payment Failure
+263,Budget,37,3304,Prepaid,New,Agent,1,Better Alternative
+264,Budget,49,1414,Pay at Hotel,New,Website,1,Change of Plan
+265,Resort,5,4606,Prepaid,New,Agent,0,Not Cancelled
+266,Resort,18,2519,Pay at Hotel,Returning,App,1,Unknown
+267,Budget,59,5569,Pay at Hotel,New,App,1,Unknown
+268,Budget,43,2387,Prepaid,New,App,1,Price Issue
+269,Resort,56,2411,Pay at Hotel,Returning,Agent,1,No Show
+270,City,10,1696,Prepaid,Returning,Website,0,Not Cancelled
+271,City,1,1077,Pay at Hotel,Returning,Website,1,Change of Plan
+272,Resort,46,5447,Prepaid,New,Website,1,Price Issue
+273,City,43,2436,Pay at Hotel,New,App,1,Payment Failure
+274,Resort,43,2958,Prepaid,New,Agent,1,Change of Plan
+275,City,8,3232,Prepaid,New,Website,0,Not Cancelled
+276,City,20,4704,Pay at Hotel,Returning,Agent,1,Change of Plan
+277,Budget,23,5656,Prepaid,Returning,Website,1,Change of Plan
+278,Budget,33,4062,Pay at Hotel,New,App,1,Payment Failure
+279,City,21,2249,Pay at Hotel,New,Agent,1,No Show
+280,City,2,5300,Prepaid,New,Website,0,Not Cancelled
+281,Budget,11,2032,Prepaid,New,Website,0,Not Cancelled
+282,Budget,27,4917,Prepaid,Returning,Website,1,No Show
+283,Budget,29,1477,Prepaid,Returning,Website,1,Price Issue
+284,Resort,25,3458,Prepaid,New,App,1,Unknown
+285,City,47,2828,Pay at Hotel,Returning,Website,1,Better Alternative
+286,Budget,20,4558,Prepaid,New,Website,0,Not Cancelled
+287,City,27,5424,Pay at Hotel,New,App,1,Payment Failure
+288,Resort,55,2837,Prepaid,Returning,Website,1,No Show
+289,Resort,25,3449,Prepaid,New,Agent,1,Unknown
+290,Budget,32,1456,Prepaid,Returning,Agent,1,Change of Plan
+291,Resort,20,965,Pay at Hotel,New,Website,1,Better Alternative
+292,City,34,5744,Prepaid,Returning,App,1,Unknown
+293,Budget,51,5391,Pay at Hotel,New,App,1,Change of Plan
+294,City,33,1389,Pay at Hotel,Returning,App,1,Unknown
+295,City,40,5324,Pay at Hotel,New,Website,1,Price Issue
+296,Resort,50,3621,Prepaid,New,Website,1,Change of Plan
+297,Resort,46,5058,Pay at Hotel,Returning,Agent,1,Change of Plan
+298,Resort,17,2062,Prepaid,New,App,0,Not Cancelled
+299,Resort,57,871,Pay at Hotel,Returning,Website,1,Payment Failure
+300,Resort,10,4316,Prepaid,Returning,Website,0,Not Cancelled
+301,Budget,56,5550,Pay at Hotel,New,Website,1,No Show
+302,City,22,4380,Prepaid,New,App,1,Price Issue
+303,City,47,1068,Prepaid,New,App,1,Payment Failure
+304,City,21,2576,Prepaid,New,Agent,1,Unknown
+305,City,16,3262,Pay at Hotel,Returning,App,1,Payment Failure
+306,Resort,4,2068,Pay at Hotel,New,Website,1,No Show
+307,City,43,1815,Prepaid,New,Agent,1,Better Alternative
+308,Budget,10,3522,Pay at Hotel,New,App,1,No Show
+309,Budget,29,1883,Pay at Hotel,Returning,App,1,Change of Plan
+310,City,14,4901,Pay at Hotel,New,App,1,Change of Plan
+311,City,26,5877,Pay at Hotel,Returning,App,1,Payment Failure
+312,Budget,34,1206,Pay at Hotel,New,Website,1,Payment Failure
+313,Budget,32,3876,Pay at Hotel,Returning,App,1,No Show
+314,Resort,19,1785,Pay at Hotel,New,Website,1,No Show
+315,Budget,15,4403,Prepaid,New,Website,0,Not Cancelled
+316,Resort,33,5285,Prepaid,Returning,Website,1,Price Issue
+317,Resort,1,1509,Pay at Hotel,New,Agent,1,Unknown
+318,Resort,34,3418,Prepaid,New,Website,1,Change of Plan
+319,Resort,39,5649,Prepaid,New,App,1,Unknown
+320,Resort,55,2211,Prepaid,Returning,Agent,1,No Show
+321,City,27,5421,Pay at Hotel,New,App,1,Unknown
+322,Budget,46,2285,Pay at Hotel,Returning,Website,1,Better Alternative
+323,Resort,38,3750,Pay at Hotel,Returning,App,1,Price Issue
+324,Budget,5,5451,Pay at Hotel,Returning,Agent,1,No Show
+325,Budget,8,3734,Pay at Hotel,New,Agent,1,Payment Failure
+326,Resort,19,4914,Prepaid,Returning,App,0,Not Cancelled
+327,City,59,5470,Pay at Hotel,Returning,App,1,No Show
+328,Resort,0,1803,Prepaid,New,App,0,Not Cancelled
+329,City,7,3266,Pay at Hotel,Returning,Agent,1,Payment Failure
+330,Budget,54,3266,Prepaid,Returning,Website,1,Change of Plan
+331,City,22,2738,Pay at Hotel,New,App,1,Change of Plan
+332,City,2,2739,Pay at Hotel,New,Website,1,No Show
+333,City,3,2435,Pay at Hotel,Returning,Agent,1,No Show
+334,Budget,57,2498,Pay at Hotel,New,App,1,Better Alternative
+335,Budget,24,5327,Pay at Hotel,New,App,1,Price Issue
+336,City,46,2891,Pay at Hotel,New,Agent,1,Price Issue
+337,City,37,2695,Prepaid,Returning,App,1,No Show
+338,Resort,14,5040,Pay at Hotel,Returning,Website,1,Change of Plan
+339,City,20,4198,Prepaid,New,Agent,0,Not Cancelled
+340,Resort,34,1873,Pay at Hotel,Returning,Agent,1,Better Alternative
+341,City,56,5984,Prepaid,New,App,1,Price Issue
+342,Resort,52,3202,Prepaid,New,Agent,1,No Show
+343,Budget,52,5695,Prepaid,New,App,1,Change of Plan
+344,City,45,4012,Prepaid,New,App,1,Change of Plan
+345,City,51,4837,Prepaid,New,Agent,1,Change of Plan
+346,City,13,1951,Prepaid,Returning,App,0,Not Cancelled
+347,City,35,3245,Pay at Hotel,Returning,Website,1,Payment Failure
+348,Resort,11,2756,Prepaid,Returning,Website,0,Not Cancelled
+349,City,16,5358,Pay at Hotel,Returning,App,1,Change of Plan
+350,Budget,38,4707,Pay at Hotel,New,Website,1,No Show
+351,Budget,8,1607,Prepaid,New,App,0,Not Cancelled
+352,City,34,986,Prepaid,Returning,Website,1,Unknown
+353,Budget,59,5627,Pay at Hotel,Returning,Agent,1,No Show
+354,City,12,5324,Prepaid,New,App,0,Not Cancelled
+355,City,14,2107,Prepaid,New,App,0,Not Cancelled
+356,Budget,17,3084,Prepaid,New,App,0,Not Cancelled
+357,City,50,5666,Prepaid,Returning,App,1,Price Issue
+358,Budget,32,1557,Prepaid,New,App,1,No Show
+359,Resort,5,5031,Prepaid,New,App,0,Not Cancelled
+360,City,58,5687,Prepaid,Returning,Agent,1,No Show
+361,Resort,26,4654,Pay at Hotel,Returning,Agent,1,Better Alternative
+362,Budget,22,5066,Prepaid,Returning,Website,1,Better Alternative
+363,Resort,58,3006,Pay at Hotel,New,App,1,No Show
+364,Resort,26,4358,Pay at Hotel,New,Website,1,Better Alternative
+365,Budget,33,2380,Pay at Hotel,Returning,Website,1,Unknown
+366,Resort,55,1761,Pay at Hotel,New,Agent,1,Change of Plan
+367,Resort,45,4647,Prepaid,New,Website,1,Better Alternative
+368,Budget,37,4375,Pay at Hotel,New,Agent,1,Unknown
+369,Resort,13,1675,Pay at Hotel,Returning,Website,1,Better Alternative
+370,Budget,35,3218,Pay at Hotel,Returning,App,1,Unknown
+371,Resort,52,4998,Pay at Hotel,New,Website,1,No Show
+372,Budget,7,1801,Pay at Hotel,New,Agent,1,Price Issue
+373,Budget,34,4184,Prepaid,New,Agent,1,Payment Failure
+374,Resort,18,4866,Prepaid,New,Agent,0,Not Cancelled
+375,Resort,29,3645,Pay at Hotel,Returning,Website,1,Payment Failure
+376,Resort,13,2281,Prepaid,Returning,Website,0,Not Cancelled
+377,City,58,4101,Prepaid,New,Agent,1,No Show
+378,City,19,1457,Pay at Hotel,New,App,1,No Show
+379,City,48,3580,Pay at Hotel,Returning,App,1,Unknown
+380,Budget,24,1222,Pay at Hotel,New,Website,1,Better Alternative
+381,Resort,39,4481,Prepaid,Returning,Website,1,No Show
+382,Budget,23,5066,Pay at Hotel,New,Agent,1,No Show
+383,City,13,3510,Prepaid,Returning,Website,0,Not Cancelled
+384,Resort,25,1252,Prepaid,New,Website,1,Unknown
+385,Budget,37,3197,Prepaid,New,Agent,1,Unknown
+386,Resort,22,2775,Pay at Hotel,Returning,Agent,1,Unknown
+387,Budget,21,2457,Prepaid,Returning,Website,1,Unknown
+388,Resort,47,3341,Pay at Hotel,New,App,1,Price Issue
+389,City,56,3875,Pay at Hotel,New,Website,1,Better Alternative
+390,City,18,3964,Pay at Hotel,Returning,App,1,Price Issue
+391,Resort,45,3766,Pay at Hotel,Returning,App,1,No Show
+392,Budget,50,2853,Pay at Hotel,New,App,1,Price Issue
+393,City,2,1087,Prepaid,New,Agent,0,Not Cancelled
+394,City,41,4017,Prepaid,Returning,Agent,1,No Show
+395,City,18,4654,Prepaid,Returning,Agent,0,Not Cancelled
+396,Resort,8,2247,Prepaid,Returning,Website,0,Not Cancelled
+397,Resort,27,1407,Prepaid,Returning,Agent,1,Better Alternative
+398,Budget,19,5352,Pay at Hotel,Returning,Agent,1,Price Issue
+399,Budget,44,2564,Pay at Hotel,New,Website,1,No Show
+400,Budget,6,2025,Prepaid,New,Website,0,Not Cancelled
+401,Resort,13,2035,Prepaid,Returning,App,0,Not Cancelled
+402,Resort,8,1829,Prepaid,New,Website,0,Not Cancelled
+403,Budget,58,3471,Pay at Hotel,New,Website,1,Better Alternative
+404,Budget,59,4762,Pay at Hotel,Returning,Agent,1,Payment Failure
+405,Resort,54,5342,Pay at Hotel,New,App,1,Better Alternative
+406,Budget,56,5730,Prepaid,New,App,1,Unknown
+407,City,59,3977,Prepaid,New,Website,1,Payment Failure
+408,Resort,18,4522,Prepaid,Returning,Agent,0,Not Cancelled
+409,Budget,46,5706,Prepaid,Returning,Agent,1,Better Alternative
+410,Resort,51,5854,Pay at Hotel,New,Agent,1,No Show
+411,City,13,2275,Prepaid,New,Agent,0,Not Cancelled
+412,Resort,55,3696,Prepaid,New,Website,1,No Show
+413,Resort,37,1608,Prepaid,New,Agent,1,Unknown
+414,Resort,52,1778,Pay at Hotel,New,App,1,Unknown
+415,Resort,35,3263,Pay at Hotel,New,App,1,No Show
+416,City,39,1525,Prepaid,Returning,Website,1,Change of Plan
+417,Resort,16,3301,Pay at Hotel,New,Agent,1,Payment Failure
+418,Resort,29,4162,Pay at Hotel,New,Agent,1,Better Alternative
+419,Budget,8,2016,Pay at Hotel,Returning,Agent,1,No Show
+420,Resort,32,4851,Pay at Hotel,New,Agent,1,No Show
+421,Budget,55,2997,Pay at Hotel,New,Website,1,Better Alternative
+422,City,51,3606,Prepaid,New,Agent,1,Payment Failure
+423,City,24,1578,Prepaid,New,Website,1,Better Alternative
+424,City,13,1772,Prepaid,Returning,Agent,0,Not Cancelled
+425,City,10,3610,Pay at Hotel,New,Agent,1,Change of Plan
+426,Budget,52,2923,Pay at Hotel,Returning,App,1,Unknown
+427,Resort,34,1398,Pay at Hotel,New,Website,1,Change of Plan
+428,City,40,4141,Pay at Hotel,New,App,1,Better Alternative
+429,Resort,58,1024,Prepaid,Returning,Website,1,Unknown
+430,Budget,13,1640,Prepaid,New,Agent,0,Not Cancelled
+431,Budget,29,2614,Prepaid,Returning,Agent,1,Unknown
+432,Budget,40,5609,Prepaid,Returning,Website,1,No Show
+433,City,3,1906,Prepaid,Returning,App,0,Not Cancelled
+434,Resort,58,924,Prepaid,New,Website,1,Change of Plan
+435,Resort,3,4046,Pay at Hotel,New,Website,1,Payment Failure
+436,Resort,27,5988,Pay at Hotel,New,Agent,1,Change of Plan
+437,Budget,7,3731,Prepaid,New,App,0,Not Cancelled
+438,City,1,4925,Pay at Hotel,Returning,Website,1,Payment Failure
+439,Budget,40,3771,Prepaid,New,App,1,Unknown
+440,Budget,45,2817,Prepaid,New,App,1,Better Alternative
+441,Resort,21,3215,Pay at Hotel,Returning,Website,1,Unknown
+442,Budget,40,5390,Prepaid,Returning,App,1,No Show
+443,Resort,55,3896,Prepaid,New,Agent,1,No Show
+444,City,54,2409,Prepaid,Returning,Agent,1,Change of Plan
+445,Resort,15,1517,Pay at Hotel,Returning,Agent,1,No Show
+446,City,28,4361,Pay at Hotel,Returning,Agent,1,Better Alternative
+447,Resort,48,1816,Pay at Hotel,Returning,App,1,Change of Plan
+448,Budget,47,4365,Pay at Hotel,Returning,Agent,1,No Show
+449,Budget,29,5501,Prepaid,New,Website,1,Price Issue
+450,City,11,5270,Pay at Hotel,New,Agent,1,Price Issue
+451,City,34,2760,Pay at Hotel,New,Website,1,Price Issue
+452,City,10,1848,Pay at Hotel,New,Website,1,Price Issue
+453,Resort,45,2157,Prepaid,New,Agent,1,Unknown
+454,Resort,49,4226,Pay at Hotel,New,Agent,1,Price Issue
+455,City,20,915,Pay at Hotel,New,App,1,Change of Plan
+456,Budget,20,2895,Prepaid,Returning,Website,0,Not Cancelled
+457,Resort,4,2601,Prepaid,New,Agent,0,Not Cancelled
+458,Resort,47,2946,Prepaid,New,App,1,Payment Failure
+459,Resort,19,2420,Prepaid,New,Agent,0,Not Cancelled
+460,City,36,5580,Pay at Hotel,Returning,Agent,1,Change of Plan
+461,City,2,3750,Prepaid,New,Agent,0,Not Cancelled
+462,City,43,4592,Pay at Hotel,New,Website,1,Unknown
+463,City,32,3741,Pay at Hotel,Returning,Agent,1,Payment Failure
+464,City,52,5705,Pay at Hotel,New,App,1,Price Issue
+465,Budget,8,1777,Pay at Hotel,New,Agent,1,Change of Plan
+466,Budget,8,3866,Pay at Hotel,Returning,Agent,1,Price Issue
+467,City,3,1583,Prepaid,New,App,0,Not Cancelled
+468,Resort,34,1040,Pay at Hotel,Returning,App,1,Unknown
+469,City,16,2353,Pay at Hotel,New,Website,1,No Show
+470,Budget,33,5378,Pay at Hotel,New,Website,1,No Show
+471,Budget,23,1812,Prepaid,New,Website,1,Change of Plan
+472,Resort,31,986,Pay at Hotel,Returning,Website,1,Better Alternative
+473,Budget,0,2681,Pay at Hotel,Returning,App,1,Price Issue
+474,City,7,5848,Prepaid,Returning,Agent,0,Not Cancelled
+475,Resort,44,5386,Pay at Hotel,New,Agent,1,Better Alternative
+476,City,22,1230,Pay at Hotel,New,Agent,1,Price Issue
+477,City,46,1038,Prepaid,Returning,Website,1,Payment Failure
+478,Resort,39,3145,Pay at Hotel,Returning,App,1,No Show
+479,City,11,875,Pay at Hotel,New,App,1,Better Alternative
+480,Budget,53,2156,Pay at Hotel,New,App,1,Price Issue
+481,City,11,5722,Pay at Hotel,New,Agent,1,Change of Plan
+482,Resort,45,3130,Pay at Hotel,New,Website,1,Price Issue
+483,Resort,46,5486,Prepaid,Returning,App,1,Change of Plan
+484,Resort,14,2702,Prepaid,New,Website,0,Not Cancelled
+485,City,40,4813,Prepaid,New,App,1,No Show
+486,Resort,18,5470,Pay at Hotel,New,Website,1,Price Issue
+487,Resort,25,5787,Pay at Hotel,New,App,1,Price Issue
+488,City,51,2859,Pay at Hotel,New,Website,1,Change of Plan
+489,Budget,28,940,Prepaid,New,App,1,Change of Plan
+490,City,21,2589,Pay at Hotel,New,App,1,Better Alternative
+491,Resort,39,4426,Pay at Hotel,Returning,Website,1,Better Alternative
+492,Resort,20,816,Pay at Hotel,Returning,Website,1,Better Alternative
+493,City,50,5982,Prepaid,Returning,Agent,1,Price Issue
+494,Budget,37,5148,Prepaid,New,Website,1,Unknown
+495,Resort,19,1264,Pay at Hotel,Returning,App,1,Unknown
+496,Resort,56,5271,Pay at Hotel,New,App,1,Unknown
+497,Resort,28,2627,Pay at Hotel,New,Website,1,Unknown
+498,City,50,3828,Prepaid,New,Agent,1,Better Alternative
+499,Resort,3,1319,Prepaid,New,Website,0,Not Cancelled
+500,Budget,54,889,Prepaid,Returning,App,1,Unknown
+501,Resort,6,5615,Pay at Hotel,New,App,1,No Show
+502,Resort,27,3651,Prepaid,New,Agent,1,Payment Failure
+503,Budget,27,3643,Pay at Hotel,Returning,Website,1,No Show
+504,Resort,3,5525,Pay at Hotel,Returning,App,1,Price Issue
+505,City,21,2684,Prepaid,Returning,App,1,Price Issue
+506,City,11,4971,Pay at Hotel,New,App,1,Payment Failure
+507,City,44,1725,Prepaid,Returning,Website,1,Change of Plan
+508,Budget,2,4534,Pay at Hotel,New,Website,1,Change of Plan
+509,Resort,21,1769,Pay at Hotel,New,Agent,1,Change of Plan
+510,City,43,1894,Prepaid,Returning,App,1,Better Alternative
+511,Budget,1,3995,Pay at Hotel,Returning,App,1,Change of Plan
+512,Resort,23,2204,Pay at Hotel,Returning,Agent,1,Better Alternative
+513,Budget,33,4164,Pay at Hotel,New,App,1,Better Alternative
+514,City,26,5090,Pay at Hotel,New,Agent,1,Change of Plan
+515,City,54,4782,Pay at Hotel,New,Agent,1,Change of Plan
+516,City,40,5123,Pay at Hotel,New,App,1,Payment Failure
+517,Budget,0,4813,Pay at Hotel,New,Website,1,Unknown
+518,Budget,7,5356,Pay at Hotel,New,Website,1,Payment Failure
+519,City,22,5513,Prepaid,Returning,Website,1,Better Alternative
+520,Budget,37,3892,Prepaid,New,Website,1,Payment Failure
+521,City,5,4959,Pay at Hotel,Returning,App,1,Better Alternative
+522,City,21,2874,Pay at Hotel,Returning,Agent,1,Price Issue
+523,Resort,24,1084,Prepaid,Returning,Agent,1,Better Alternative
+524,Budget,17,5733,Pay at Hotel,Returning,App,1,Better Alternative
+525,City,16,5726,Prepaid,Returning,Website,0,Not Cancelled
+526,City,11,1987,Prepaid,New,Agent,0,Not Cancelled
+527,Budget,5,4769,Prepaid,New,App,0,Not Cancelled
+528,Resort,25,3765,Pay at Hotel,New,App,1,No Show
+529,Resort,26,5119,Pay at Hotel,New,Website,1,No Show
+530,City,7,1583,Pay at Hotel,Returning,App,1,Unknown
+531,Budget,18,1749,Prepaid,Returning,Agent,0,Not Cancelled
+532,Resort,59,4739,Prepaid,Returning,Agent,1,Price Issue
+533,Budget,41,844,Prepaid,New,App,1,Change of Plan
+534,Budget,0,2610,Pay at Hotel,New,Agent,1,Price Issue
+535,City,56,5366,Prepaid,New,App,1,Payment Failure
+536,Resort,28,2881,Prepaid,New,Agent,1,Better Alternative
+537,City,44,4298,Pay at Hotel,Returning,Website,1,Better Alternative
+538,Resort,48,1629,Prepaid,Returning,Agent,1,Payment Failure
+539,Resort,34,2709,Prepaid,New,Website,1,Payment Failure
+540,Resort,39,3381,Pay at Hotel,New,Website,1,Better Alternative
+541,Resort,13,1491,Pay at Hotel,Returning,App,1,Unknown
+542,Resort,34,4819,Prepaid,Returning,Website,1,Change of Plan
+543,Budget,47,1731,Pay at Hotel,Returning,Agent,1,Change of Plan
+544,City,44,5736,Prepaid,Returning,Agent,1,Change of Plan
+545,Budget,19,4206,Pay at Hotel,New,Website,1,Payment Failure
+546,Resort,55,947,Prepaid,Returning,App,1,Better Alternative
+547,City,48,1832,Pay at Hotel,Returning,Website,1,Unknown
+548,Resort,12,2111,Prepaid,Returning,Agent,0,Not Cancelled
+549,City,37,1187,Pay at Hotel,Returning,Agent,1,Better Alternative
+550,Budget,48,3921,Pay at Hotel,New,Website,1,Unknown
+551,City,45,2673,Pay at Hotel,New,Website,1,Price Issue
+552,City,48,4388,Pay at Hotel,New,Website,1,Unknown
+553,City,7,1715,Pay at Hotel,New,Agent,1,Price Issue
+554,City,42,2678,Pay at Hotel,New,Agent,1,No Show
+555,City,19,4548,Pay at Hotel,New,Agent,1,Price Issue
+556,Resort,59,1077,Prepaid,Returning,App,1,Change of Plan
+557,City,32,2777,Prepaid,Returning,Agent,1,Change of Plan
+558,City,25,2659,Pay at Hotel,Returning,Agent,1,Unknown
+559,Budget,38,3836,Pay at Hotel,Returning,App,1,Change of Plan
+560,City,20,4171,Prepaid,New,App,0,Not Cancelled
+561,Budget,52,5513,Prepaid,Returning,App,1,No Show
+562,Resort,48,2982,Pay at Hotel,New,App,1,Change of Plan
+563,City,41,5475,Prepaid,Returning,App,1,Payment Failure
+564,Budget,42,1970,Prepaid,Returning,App,1,Payment Failure
+565,Budget,53,1289,Pay at Hotel,Returning,Website,1,Payment Failure
+566,Resort,40,3325,Pay at Hotel,New,Website,1,Price Issue
+567,City,8,1982,Pay at Hotel,Returning,Website,1,Unknown
+568,City,23,5279,Prepaid,New,Website,1,Unknown
+569,Budget,36,5058,Pay at Hotel,New,Agent,1,Better Alternative
+570,City,48,3288,Pay at Hotel,Returning,App,1,No Show
+571,Budget,40,2676,Prepaid,New,Agent,1,Payment Failure
+572,City,16,3262,Pay at Hotel,New,App,1,Payment Failure
+573,Budget,23,2430,Prepaid,Returning,App,1,Change of Plan
+574,City,20,1087,Prepaid,Returning,Agent,0,Not Cancelled
+575,Resort,50,5082,Prepaid,Returning,Website,1,Change of Plan
+576,City,58,2707,Prepaid,Returning,Agent,1,Change of Plan
+577,City,38,1961,Prepaid,Returning,Agent,1,Better Alternative
+578,Resort,54,929,Prepaid,Returning,App,1,Price Issue
+579,City,40,3163,Pay at Hotel,New,App,1,Change of Plan
+580,Resort,38,943,Pay at Hotel,Returning,App,1,Change of Plan
+581,City,12,815,Pay at Hotel,Returning,Website,1,Unknown
+582,Budget,10,1044,Prepaid,New,Agent,0,Not Cancelled
+583,Budget,45,1726,Pay at Hotel,Returning,Agent,1,Change of Plan
+584,City,18,3978,Prepaid,New,Website,0,Not Cancelled
+585,City,10,2976,Pay at Hotel,Returning,Agent,1,Price Issue
+586,City,12,5802,Prepaid,Returning,Agent,0,Not Cancelled
+587,Budget,45,1686,Pay at Hotel,New,App,1,Payment Failure
+588,City,44,1140,Prepaid,Returning,Website,1,Price Issue
+589,Budget,0,2851,Pay at Hotel,New,App,1,Payment Failure
+590,Resort,39,4198,Prepaid,Returning,Website,1,Unknown
+591,Budget,43,4750,Pay at Hotel,Returning,App,1,Change of Plan
+592,Budget,18,1105,Prepaid,New,Agent,0,Not Cancelled
+593,Resort,11,1707,Pay at Hotel,Returning,Website,1,No Show
+594,Budget,7,3454,Pay at Hotel,Returning,Website,1,Payment Failure
+595,City,7,4592,Pay at Hotel,New,App,1,Change of Plan
+596,City,52,4842,Prepaid,Returning,Website,1,No Show
+597,Budget,44,2171,Prepaid,New,Agent,1,No Show
+598,City,11,1120,Prepaid,Returning,Agent,0,Not Cancelled
+599,Budget,47,5454,Prepaid,New,Agent,1,Unknown
+600,City,32,4859,Prepaid,Returning,App,1,Payment Failure
+601,City,44,1931,Pay at Hotel,New,Website,1,Change of Plan
+602,Budget,25,3378,Prepaid,New,App,1,Better Alternative
+603,City,38,4842,Pay at Hotel,Returning,Agent,1,Payment Failure
+604,Budget,27,4167,Pay at Hotel,Returning,Website,1,No Show
+605,City,57,1617,Prepaid,New,Agent,1,No Show
+606,City,4,811,Pay at Hotel,Returning,Website,1,Price Issue
+607,Resort,7,994,Prepaid,New,Website,0,Not Cancelled
+608,Resort,24,3337,Prepaid,Returning,App,1,Price Issue
+609,Budget,26,3642,Prepaid,Returning,Website,1,Unknown
+610,Resort,45,3029,Pay at Hotel,New,Agent,1,Better Alternative
+611,Budget,22,3809,Prepaid,New,Website,1,Payment Failure
+612,Resort,29,5551,Prepaid,Returning,Agent,1,No Show
+613,City,44,2877,Prepaid,Returning,App,1,Change of Plan
+614,Budget,46,4667,Pay at Hotel,Returning,Agent,1,No Show
+615,Budget,22,5673,Prepaid,Returning,Website,1,Unknown
+616,City,48,1243,Pay at Hotel,Returning,Agent,1,Price Issue
+617,Budget,46,1097,Pay at Hotel,New,Agent,1,Price Issue
+618,Budget,19,5703,Prepaid,Returning,Website,0,Not Cancelled
+619,Resort,17,1644,Pay at Hotel,Returning,Agent,1,Change of Plan
+620,Budget,17,1815,Pay at Hotel,New,Website,1,Unknown
+621,City,1,2184,Prepaid,New,App,0,Not Cancelled
+622,Resort,3,2197,Prepaid,New,Agent,0,Not Cancelled
+623,Resort,29,1353,Prepaid,Returning,App,1,Unknown
+624,City,32,3150,Pay at Hotel,New,Agent,1,Unknown
+625,City,35,5316,Prepaid,New,Agent,1,Price Issue
+626,Resort,17,2069,Pay at Hotel,New,App,1,Price Issue
+627,Budget,36,2060,Pay at Hotel,New,Agent,1,Price Issue
+628,Resort,18,984,Pay at Hotel,Returning,Agent,1,No Show
+629,City,46,5363,Pay at Hotel,Returning,App,1,Better Alternative
+630,Resort,27,3210,Pay at Hotel,Returning,Agent,1,Price Issue
+631,City,39,5231,Prepaid,New,Website,1,Better Alternative
+632,Resort,19,3009,Prepaid,New,Agent,0,Not Cancelled
+633,Budget,48,4472,Pay at Hotel,New,Agent,1,Change of Plan
+634,Resort,32,5483,Pay at Hotel,New,Agent,1,Payment Failure
+635,Resort,11,2681,Prepaid,New,App,0,Not Cancelled
+636,City,57,5096,Prepaid,New,Website,1,Better Alternative
+637,City,50,1321,Pay at Hotel,Returning,Website,1,No Show
+638,City,14,2687,Pay at Hotel,Returning,Agent,1,Change of Plan
+639,Resort,40,3352,Prepaid,New,App,1,Price Issue
+640,Budget,38,4609,Prepaid,Returning,App,1,Unknown
+641,City,1,5683,Pay at Hotel,New,Website,1,Better Alternative
+642,City,28,4955,Prepaid,New,App,1,Payment Failure
+643,Resort,40,5473,Prepaid,Returning,Agent,1,Unknown
+644,City,9,5216,Pay at Hotel,New,Agent,1,Change of Plan
+645,Budget,1,4279,Pay at Hotel,Returning,App,1,No Show
+646,Budget,50,5818,Pay at Hotel,New,Agent,1,Price Issue
+647,City,10,2209,Prepaid,New,Website,0,Not Cancelled
+648,City,12,2494,Pay at Hotel,Returning,Agent,1,Payment Failure
+649,Resort,9,5464,Prepaid,New,App,0,Not Cancelled
+650,Budget,13,5997,Pay at Hotel,New,Website,1,Payment Failure
+651,Budget,17,1326,Pay at Hotel,New,Agent,1,No Show
+652,City,50,3460,Prepaid,Returning,Website,1,No Show
+653,Resort,53,2972,Prepaid,New,App,1,Unknown
+654,Budget,8,5766,Pay at Hotel,New,Agent,1,Payment Failure
+655,Budget,56,1079,Pay at Hotel,New,Agent,1,Payment Failure
+656,Resort,38,3764,Prepaid,Returning,Website,1,Payment Failure
+657,Resort,27,4777,Pay at Hotel,Returning,Agent,1,Price Issue
+658,Budget,2,3469,Prepaid,Returning,Agent,0,Not Cancelled
+659,Budget,19,3693,Prepaid,Returning,Agent,0,Not Cancelled
+660,Resort,5,2551,Pay at Hotel,Returning,Agent,1,Price Issue
+661,Budget,26,4781,Prepaid,New,App,1,Price Issue
+662,City,52,5569,Prepaid,Returning,Agent,1,Price Issue
+663,City,1,3161,Prepaid,Returning,Website,0,Not Cancelled
+664,Resort,28,5227,Pay at Hotel,New,App,1,Change of Plan
+665,Resort,37,4931,Prepaid,Returning,Website,1,Payment Failure
+666,Resort,2,2508,Pay at Hotel,New,Website,1,Unknown
+667,City,15,3486,Pay at Hotel,Returning,Website,1,No Show
+668,Budget,29,3695,Pay at Hotel,New,App,1,Better Alternative
+669,City,39,5335,Prepaid,New,App,1,Unknown
+670,Budget,1,3576,Prepaid,Returning,App,0,Not Cancelled
+671,City,16,1919,Pay at Hotel,Returning,Agent,1,No Show
+672,Budget,40,3788,Pay at Hotel,New,Website,1,Change of Plan
+673,City,11,5059,Prepaid,New,App,0,Not Cancelled
+674,Resort,34,5043,Pay at Hotel,New,Website,1,Price Issue
+675,City,42,994,Pay at Hotel,New,App,1,Unknown
+676,Budget,0,1462,Prepaid,New,App,0,Not Cancelled
+677,City,54,1279,Pay at Hotel,New,App,1,No Show
+678,City,44,5018,Prepaid,New,Website,1,Price Issue
+679,City,14,2223,Prepaid,Returning,Agent,0,Not Cancelled
+680,Resort,25,5860,Pay at Hotel,New,App,1,No Show
+681,City,36,3508,Prepaid,Returning,App,1,Change of Plan
+682,Resort,20,3975,Prepaid,Returning,App,0,Not Cancelled
+683,Resort,48,4614,Prepaid,New,Agent,1,Change of Plan
+684,City,30,2814,Pay at Hotel,New,Website,1,Price Issue
+685,City,24,4589,Pay at Hotel,Returning,Website,1,No Show
+686,City,22,5605,Pay at Hotel,New,Website,1,Payment Failure
+687,Budget,23,3243,Prepaid,New,Website,1,Unknown
+688,City,56,1711,Prepaid,Returning,App,1,Payment Failure
+689,Resort,37,4013,Pay at Hotel,Returning,Agent,1,Payment Failure
+690,City,27,3164,Pay at Hotel,Returning,App,1,Payment Failure
+691,Budget,20,4429,Prepaid,New,Agent,0,Not Cancelled
+692,City,53,4272,Pay at Hotel,New,Website,1,Payment Failure
+693,Budget,42,1480,Pay at Hotel,Returning,Agent,1,Change of Plan
+694,Budget,17,5451,Pay at Hotel,New,App,1,No Show
+695,City,35,1409,Pay at Hotel,Returning,App,1,Price Issue
+696,Resort,34,2956,Pay at Hotel,New,Website,1,Payment Failure
+697,Budget,44,4666,Prepaid,Returning,App,1,Payment Failure
+698,City,54,1171,Pay at Hotel,New,App,1,Price Issue
+699,City,8,1415,Pay at Hotel,Returning,Agent,1,Price Issue
+700,Resort,52,3053,Prepaid,New,App,1,Payment Failure
+701,Budget,37,5742,Prepaid,New,Website,1,Change of Plan
+702,Budget,57,4938,Prepaid,Returning,Website,1,Price Issue
+703,City,29,1664,Prepaid,New,App,1,No Show
+704,City,59,2068,Pay at Hotel,New,Website,1,No Show
+705,Resort,43,1584,Pay at Hotel,Returning,Agent,1,Change of Plan
+706,Resort,33,5371,Pay at Hotel,New,Agent,1,Unknown
+707,Budget,31,4978,Pay at Hotel,New,App,1,Better Alternative
+708,Budget,2,3037,Prepaid,New,App,0,Not Cancelled
+709,City,2,4854,Prepaid,Returning,Agent,0,Not Cancelled
+710,Budget,27,5695,Pay at Hotel,Returning,Website,1,Better Alternative
+711,Resort,43,1735,Pay at Hotel,Returning,App,1,Payment Failure
+712,Resort,14,4780,Pay at Hotel,Returning,App,1,No Show
+713,City,40,3138,Pay at Hotel,Returning,Website,1,Price Issue
+714,Resort,22,1125,Prepaid,New,App,1,Payment Failure
+715,Resort,39,2334,Pay at Hotel,New,Website,1,No Show
+716,Resort,10,4280,Prepaid,Returning,Website,0,Not Cancelled
+717,Resort,47,4661,Prepaid,New,Website,1,Payment Failure
+718,City,31,2785,Prepaid,New,Website,1,No Show
+719,City,57,5732,Prepaid,New,Website,1,Price Issue
+720,Budget,58,5403,Pay at Hotel,New,Agent,1,Payment Failure
+721,Resort,56,3578,Pay at Hotel,Returning,Website,1,Unknown
+722,Budget,53,2070,Pay at Hotel,Returning,Agent,1,No Show
+723,City,35,1440,Pay at Hotel,New,Website,1,Payment Failure
+724,City,59,5503,Prepaid,New,App,1,Price Issue
+725,City,32,4878,Prepaid,Returning,Agent,1,Payment Failure
+726,City,23,5461,Prepaid,New,App,1,Payment Failure
+727,City,38,2167,Pay at Hotel,New,Website,1,Unknown
+728,City,33,4842,Prepaid,New,Website,1,No Show
+729,City,55,3375,Prepaid,Returning,App,1,Better Alternative
+730,Resort,27,4403,Prepaid,Returning,Website,1,Payment Failure
+731,Budget,36,2381,Prepaid,New,App,1,Better Alternative
+732,City,6,2786,Pay at Hotel,New,Website,1,Change of Plan
+733,Resort,3,3040,Prepaid,New,Website,0,Not Cancelled
+734,Resort,36,4766,Prepaid,New,Agent,1,Better Alternative
+735,Budget,55,2905,Pay at Hotel,New,App,1,Change of Plan
+736,City,0,928,Pay at Hotel,New,Website,1,Unknown
+737,Budget,0,5601,Pay at Hotel,Returning,App,1,No Show
+738,City,46,4796,Prepaid,Returning,Agent,1,Payment Failure
+739,Resort,19,1651,Prepaid,New,App,0,Not Cancelled
+740,Resort,18,4903,Prepaid,Returning,Agent,0,Not Cancelled
+741,Resort,28,2876,Prepaid,New,App,1,No Show
+742,Resort,9,3794,Pay at Hotel,New,App,1,No Show
+743,Budget,59,4544,Prepaid,Returning,Agent,1,Price Issue
+744,City,17,3556,Prepaid,Returning,Website,0,Not Cancelled
+745,City,27,2444,Pay at Hotel,New,Website,1,No Show
+746,Budget,34,5171,Pay at Hotel,New,Website,1,Better Alternative
+747,City,42,3944,Pay at Hotel,Returning,App,1,Change of Plan
+748,Resort,46,1042,Prepaid,Returning,App,1,Price Issue
+749,City,30,4885,Prepaid,New,Website,1,Payment Failure
+750,Resort,26,970,Prepaid,New,App,1,Unknown
+751,Budget,10,1452,Prepaid,New,App,0,Not Cancelled
+752,City,48,4312,Prepaid,Returning,Website,1,Better Alternative
+753,Budget,48,2299,Pay at Hotel,New,Agent,1,Price Issue
+754,City,37,2899,Pay at Hotel,Returning,App,1,Change of Plan
+755,Resort,4,2958,Prepaid,New,App,0,Not Cancelled
+756,Budget,7,2772,Prepaid,Returning,App,0,Not Cancelled
+757,City,33,4725,Prepaid,Returning,App,1,No Show
+758,Resort,47,5962,Prepaid,Returning,Agent,1,Price Issue
+759,Budget,51,3058,Prepaid,Returning,Website,1,Price Issue
+760,Budget,55,4839,Pay at Hotel,New,App,1,Better Alternative
+761,City,11,2835,Pay at Hotel,Returning,Website,1,Payment Failure
+762,City,37,4071,Pay at Hotel,Returning,App,1,Payment Failure
+763,City,0,1657,Prepaid,Returning,Agent,0,Not Cancelled
+764,Resort,30,4623,Prepaid,New,Website,1,Unknown
+765,City,3,1849,Pay at Hotel,New,Agent,1,Unknown
+766,Budget,48,4790,Pay at Hotel,New,App,1,Change of Plan
+767,Budget,44,1098,Prepaid,New,Agent,1,Unknown
+768,City,49,1723,Pay at Hotel,New,Agent,1,Unknown
+769,City,4,5032,Pay at Hotel,New,App,1,Price Issue
+770,Budget,29,5939,Prepaid,Returning,App,1,Change of Plan
+771,Resort,55,5106,Pay at Hotel,Returning,Website,1,Price Issue
+772,City,23,3599,Pay at Hotel,Returning,App,1,Better Alternative
+773,City,58,5675,Pay at Hotel,New,Website,1,Better Alternative
+774,Budget,2,4862,Prepaid,Returning,Agent,0,Not Cancelled
+775,City,10,4845,Pay at Hotel,Returning,Agent,1,Change of Plan
+776,Resort,44,2602,Pay at Hotel,New,Website,1,Unknown
+777,Budget,3,3513,Pay at Hotel,Returning,App,1,Better Alternative
+778,City,25,5961,Prepaid,New,App,1,No Show
+779,Budget,26,5306,Prepaid,Returning,Agent,1,Payment Failure
+780,City,45,3653,Pay at Hotel,New,Website,1,Unknown
+781,City,53,3457,Prepaid,New,Agent,1,Payment Failure
+782,City,42,5322,Pay at Hotel,New,Agent,1,Better Alternative
+783,Resort,26,4146,Prepaid,Returning,App,1,Payment Failure
+784,Resort,41,2271,Prepaid,Returning,Website,1,No Show
+785,Budget,50,3749,Pay at Hotel,New,Agent,1,No Show
+786,City,49,1741,Pay at Hotel,New,App,1,Price Issue
+787,City,5,2707,Pay at Hotel,Returning,Agent,1,Change of Plan
+788,Resort,58,5637,Prepaid,Returning,Agent,1,Payment Failure
+789,City,14,2043,Pay at Hotel,New,App,1,No Show
+790,Resort,52,5223,Prepaid,Returning,App,1,Change of Plan
+791,City,29,2266,Prepaid,Returning,Website,1,Change of Plan
+792,Budget,41,4757,Pay at Hotel,Returning,Agent,1,Price Issue
+793,City,36,2766,Prepaid,New,Website,1,Change of Plan
+794,City,57,1175,Pay at Hotel,New,App,1,Change of Plan
+795,Resort,36,1062,Prepaid,Returning,App,1,Unknown
+796,City,41,5162,Pay at Hotel,New,Agent,1,Better Alternative
+797,City,59,4188,Prepaid,Returning,Website,1,Price Issue
+798,Resort,36,4195,Prepaid,Returning,Website,1,Price Issue
+799,Budget,34,2744,Pay at Hotel,New,Agent,1,Payment Failure
+800,Budget,22,2693,Prepaid,New,Agent,1,Change of Plan
+801,Resort,5,4434,Pay at Hotel,New,Website,1,Payment Failure
+802,Resort,3,2452,Prepaid,Returning,App,0,Not Cancelled
+803,Resort,17,4941,Prepaid,Returning,App,0,Not Cancelled
+804,Resort,59,4692,Prepaid,New,Agent,1,Change of Plan
+805,Resort,8,1399,Pay at Hotel,New,Website,1,No Show
+806,Budget,48,5615,Pay at Hotel,New,Website,1,Better Alternative
+807,Budget,28,2712,Pay at Hotel,Returning,Website,1,Unknown
+808,Resort,12,2092,Pay at Hotel,Returning,App,1,Change of Plan
+809,City,58,1400,Pay at Hotel,Returning,App,1,Payment Failure
+810,Resort,46,1180,Prepaid,New,Website,1,Payment Failure
+811,City,51,5013,Prepaid,New,Website,1,Change of Plan
+812,Resort,16,4437,Pay at Hotel,Returning,Agent,1,Payment Failure
+813,Resort,44,2963,Prepaid,New,Agent,1,Change of Plan
+814,Budget,31,5155,Prepaid,New,Website,1,Price Issue
+815,City,47,1898,Prepaid,New,Website,1,Payment Failure
+816,City,21,1165,Prepaid,New,App,1,Change of Plan
+817,Budget,3,3370,Pay at Hotel,Returning,Website,1,Change of Plan
+818,Budget,4,4219,Prepaid,New,Agent,0,Not Cancelled
+819,Budget,36,3276,Pay at Hotel,Returning,App,1,Price Issue
+820,Budget,40,1590,Pay at Hotel,Returning,Agent,1,Payment Failure
+821,City,48,4369,Prepaid,New,Agent,1,Change of Plan
+822,City,12,1546,Pay at Hotel,Returning,App,1,Price Issue
+823,Resort,33,1112,Prepaid,Returning,Agent,1,No Show
+824,Resort,44,5433,Prepaid,New,Website,1,Better Alternative
+825,Budget,21,1720,Prepaid,Returning,Agent,1,Payment Failure
+826,Budget,52,1877,Pay at Hotel,Returning,App,1,Unknown
+827,Budget,58,3629,Pay at Hotel,Returning,App,1,Change of Plan
+828,Resort,22,3181,Pay at Hotel,Returning,App,1,Price Issue
+829,Resort,50,4418,Prepaid,Returning,Agent,1,Price Issue
+830,Resort,2,1597,Prepaid,Returning,Website,0,Not Cancelled
+831,Resort,41,5243,Prepaid,Returning,App,1,Payment Failure
+832,Resort,33,1072,Pay at Hotel,Returning,Website,1,Unknown
+833,Resort,31,3810,Prepaid,New,App,1,Price Issue
+834,Resort,44,5615,Prepaid,New,Website,1,No Show
+835,Budget,50,2573,Pay at Hotel,New,Website,1,Change of Plan
+836,Budget,57,3347,Pay at Hotel,Returning,Website,1,No Show
+837,Budget,48,3964,Pay at Hotel,Returning,App,1,Payment Failure
+838,Budget,20,5580,Prepaid,Returning,Agent,0,Not Cancelled
+839,Resort,45,5517,Prepaid,New,Agent,1,Price Issue
+840,City,43,1746,Prepaid,New,Agent,1,Price Issue
+841,Resort,20,3465,Pay at Hotel,New,Website,1,Better Alternative
+842,City,43,1306,Pay at Hotel,Returning,App,1,No Show
+843,Budget,10,1043,Pay at Hotel,New,Website,1,Change of Plan
+844,Resort,38,1305,Pay at Hotel,New,App,1,Unknown
+845,Budget,3,5317,Prepaid,Returning,Website,0,Not Cancelled
+846,Resort,50,3958,Prepaid,New,App,1,Payment Failure
+847,Budget,0,4390,Prepaid,Returning,App,0,Not Cancelled
+848,City,27,2672,Prepaid,New,App,1,No Show
+849,City,23,4593,Prepaid,Returning,Website,1,Change of Plan
+850,City,34,1992,Prepaid,Returning,Agent,1,Better Alternative
+851,Resort,12,5225,Prepaid,Returning,Website,0,Not Cancelled
+852,City,46,5545,Prepaid,Returning,Website,1,Payment Failure
+853,Resort,33,2264,Pay at Hotel,Returning,App,1,No Show
+854,City,10,1190,Pay at Hotel,New,App,1,Unknown
+855,City,35,5276,Prepaid,Returning,Agent,1,Change of Plan
+856,Resort,50,4177,Pay at Hotel,Returning,Agent,1,Price Issue
+857,Resort,16,5637,Prepaid,Returning,App,0,Not Cancelled
+858,City,34,5715,Prepaid,Returning,Agent,1,Payment Failure
+859,Resort,59,1472,Pay at Hotel,New,Agent,1,Better Alternative
+860,City,17,3360,Prepaid,Returning,App,0,Not Cancelled
+861,Resort,39,2011,Prepaid,New,Website,1,Better Alternative
+862,Budget,21,1729,Prepaid,Returning,Agent,1,Change of Plan
+863,Budget,56,2339,Prepaid,Returning,App,1,Price Issue
+864,Budget,23,1712,Prepaid,New,Agent,1,No Show
+865,Budget,57,1443,Prepaid,New,Agent,1,Change of Plan
+866,Budget,18,5322,Prepaid,New,App,0,Not Cancelled
+867,City,36,1301,Pay at Hotel,Returning,Agent,1,Payment Failure
+868,Budget,38,1529,Pay at Hotel,New,Agent,1,Unknown
+869,Budget,20,2083,Prepaid,Returning,Agent,0,Not Cancelled
+870,Budget,7,2918,Pay at Hotel,New,Website,1,Better Alternative
+871,Budget,27,5352,Prepaid,New,Website,1,Payment Failure
+872,Resort,4,5186,Prepaid,Returning,Agent,0,Not Cancelled
+873,City,16,4636,Prepaid,New,App,0,Not Cancelled
+874,Budget,36,1719,Prepaid,New,Agent,1,Change of Plan
+875,Budget,35,4850,Pay at Hotel,Returning,Agent,1,No Show
+876,Budget,53,3139,Pay at Hotel,Returning,Website,1,Better Alternative
+877,City,18,1555,Pay at Hotel,Returning,Website,1,Change of Plan
+878,Resort,26,2669,Pay at Hotel,New,Website,1,Payment Failure
+879,City,52,5272,Prepaid,New,Agent,1,Unknown
+880,Resort,33,1307,Pay at Hotel,New,Agent,1,No Show
+881,Budget,10,2236,Prepaid,New,App,0,Not Cancelled
+882,Budget,53,3375,Prepaid,New,Agent,1,Better Alternative
+883,City,44,4226,Pay at Hotel,Returning,Agent,1,No Show
+884,City,46,1358,Prepaid,New,Website,1,No Show
+885,Resort,11,3902,Pay at Hotel,Returning,Website,1,No Show
+886,Resort,53,5316,Pay at Hotel,New,Website,1,Unknown
+887,City,20,4422,Pay at Hotel,Returning,Website,1,Price Issue
+888,Resort,53,5199,Pay at Hotel,New,Website,1,No Show
+889,City,10,5837,Pay at Hotel,New,App,1,Payment Failure
+890,Resort,38,4857,Prepaid,Returning,App,1,Payment Failure
+891,City,27,4515,Pay at Hotel,New,App,1,Better Alternative
+892,City,4,2101,Pay at Hotel,Returning,Website,1,Change of Plan
+893,City,16,5985,Prepaid,New,Website,0,Not Cancelled
+894,Resort,55,2955,Pay at Hotel,New,Website,1,Price Issue
+895,Resort,19,1492,Pay at Hotel,Returning,App,1,Unknown
+896,Resort,40,5150,Prepaid,New,Website,1,Unknown
+897,City,45,2278,Prepaid,Returning,App,1,No Show
+898,Resort,57,1056,Pay at Hotel,New,Website,1,Price Issue
+899,Resort,11,3230,Prepaid,New,Agent,0,Not Cancelled
+900,City,5,1241,Pay at Hotel,New,App,1,Better Alternative
+901,Budget,16,2681,Prepaid,New,Agent,0,Not Cancelled
+902,City,50,3446,Pay at Hotel,New,App,1,Better Alternative
+903,Resort,18,4620,Pay at Hotel,New,Website,1,No Show
+904,City,25,5477,Pay at Hotel,New,Website,1,Payment Failure
+905,Budget,47,2535,Prepaid,Returning,Agent,1,Better Alternative
+906,City,43,4535,Pay at Hotel,New,Website,1,Price Issue
+907,Resort,43,3445,Prepaid,New,App,1,No Show
+908,Budget,51,818,Pay at Hotel,New,Website,1,Better Alternative
+909,Resort,31,1924,Pay at Hotel,Returning,Website,1,Unknown
+910,Budget,5,4785,Pay at Hotel,Returning,App,1,Better Alternative
+911,Budget,54,3454,Pay at Hotel,New,Agent,1,Unknown
+912,City,57,2880,Pay at Hotel,New,Agent,1,No Show
+913,City,35,2347,Prepaid,New,Website,1,Better Alternative
+914,Resort,37,1661,Prepaid,Returning,App,1,Unknown
+915,City,10,954,Prepaid,New,Agent,0,Not Cancelled
+916,City,32,4294,Pay at Hotel,Returning,Agent,1,Change of Plan
+917,Budget,23,1704,Pay at Hotel,New,Website,1,No Show
+918,City,22,2069,Prepaid,Returning,App,1,Unknown
+919,Budget,14,1204,Pay at Hotel,Returning,Agent,1,Price Issue
+920,Budget,26,1643,Pay at Hotel,New,Website,1,Better Alternative
+921,Budget,10,2582,Pay at Hotel,New,Website,1,Unknown
+922,Resort,56,2364,Prepaid,New,Website,1,Unknown
+923,Resort,50,1984,Prepaid,New,Website,1,Unknown
+924,Resort,49,1546,Prepaid,New,Agent,1,Change of Plan
+925,Budget,16,2525,Prepaid,New,App,0,Not Cancelled
+926,Resort,50,3988,Prepaid,New,Website,1,Price Issue
+927,Resort,52,1070,Pay at Hotel,Returning,Website,1,Payment Failure
+928,City,13,5665,Pay at Hotel,New,Agent,1,Change of Plan
+929,Resort,26,4756,Pay at Hotel,New,Website,1,Unknown
+930,Resort,17,971,Pay at Hotel,Returning,Website,1,No Show
+931,Budget,27,1073,Prepaid,New,App,1,Change of Plan
+932,Budget,50,3106,Prepaid,New,Website,1,Change of Plan
+933,Budget,46,1958,Pay at Hotel,New,Agent,1,Price Issue
+934,Budget,46,2506,Prepaid,New,App,1,Payment Failure
+935,Budget,3,2571,Pay at Hotel,Returning,Agent,1,Payment Failure
+936,Budget,6,1221,Pay at Hotel,Returning,App,1,Change of Plan
+937,Resort,44,2009,Pay at Hotel,New,App,1,Change of Plan
+938,Budget,34,5475,Pay at Hotel,New,Website,1,Better Alternative
+939,Budget,47,1690,Prepaid,Returning,Website,1,Unknown
+940,City,8,5617,Pay at Hotel,New,Website,1,Price Issue
+941,Resort,7,4067,Prepaid,Returning,Agent,0,Not Cancelled
+942,Resort,51,5776,Pay at Hotel,Returning,Website,1,No Show
+943,Resort,44,2273,Pay at Hotel,Returning,Website,1,No Show
+944,Budget,16,4043,Pay at Hotel,New,App,1,Payment Failure
+945,Budget,16,5278,Pay at Hotel,New,Website,1,Price Issue
+946,Budget,48,2981,Prepaid,New,Website,1,Unknown
+947,City,32,2249,Pay at Hotel,Returning,Website,1,Payment Failure
+948,Budget,31,3896,Prepaid,New,Website,1,No Show
+949,City,7,4056,Pay at Hotel,New,App,1,Change of Plan
+950,Resort,18,3956,Pay at Hotel,Returning,Website,1,Price Issue
+951,Budget,37,2390,Pay at Hotel,New,App,1,Price Issue
+952,City,2,5039,Prepaid,New,Agent,0,Not Cancelled
+953,City,58,4781,Pay at Hotel,New,Website,1,Better Alternative
+954,Budget,4,2235,Pay at Hotel,Returning,Website,1,Unknown
+955,Resort,12,1023,Pay at Hotel,New,Website,1,Change of Plan
+956,Resort,46,1019,Pay at Hotel,Returning,App,1,Change of Plan
+957,Resort,45,5074,Pay at Hotel,Returning,Website,1,Payment Failure
+958,City,30,2454,Prepaid,Returning,Website,1,Price Issue
+959,City,54,5328,Prepaid,New,Agent,1,Payment Failure
+960,City,15,1064,Pay at Hotel,New,App,1,Change of Plan
+961,City,49,1753,Pay at Hotel,New,App,1,Better Alternative
+962,Resort,31,5324,Prepaid,Returning,Agent,1,Price Issue
+963,Budget,21,4533,Pay at Hotel,Returning,App,1,Change of Plan
+964,City,28,3574,Prepaid,New,Website,1,Better Alternative
+965,City,21,3924,Pay at Hotel,Returning,Website,1,Unknown
+966,Resort,42,1279,Pay at Hotel,New,Agent,1,No Show
+967,Budget,2,4314,Prepaid,New,App,0,Not Cancelled
+968,Budget,53,2153,Pay at Hotel,New,App,1,No Show
+969,Resort,9,4122,Prepaid,New,App,0,Not Cancelled
+970,Resort,41,4678,Prepaid,New,Agent,1,No Show
+971,Budget,20,1689,Prepaid,New,Website,0,Not Cancelled
+972,City,15,4654,Pay at Hotel,New,Agent,1,No Show
+973,Budget,11,1724,Prepaid,Returning,Website,0,Not Cancelled
+974,Resort,1,2970,Prepaid,New,Agent,0,Not Cancelled
+975,City,40,2702,Pay at Hotel,Returning,Website,1,Better Alternative
+976,City,23,5673,Pay at Hotel,Returning,App,1,No Show
+977,Resort,34,3195,Pay at Hotel,New,App,1,Price Issue
+978,Resort,55,828,Pay at Hotel,Returning,App,1,Payment Failure
+979,Resort,29,834,Pay at Hotel,Returning,Agent,1,Payment Failure
+980,Budget,56,4389,Pay at Hotel,Returning,Agent,1,No Show
+981,Budget,29,3470,Prepaid,New,Agent,1,Payment Failure
+982,City,46,4165,Pay at Hotel,New,App,1,Better Alternative
+983,Resort,34,1388,Prepaid,New,Website,1,Change of Plan
+984,City,18,4018,Pay at Hotel,New,App,1,Price Issue
+985,City,49,3938,Prepaid,New,App,1,Unknown
+986,City,7,1703,Prepaid,Returning,Website,0,Not Cancelled
+987,City,25,4886,Pay at Hotel,Returning,Website,1,Payment Failure
+988,Resort,48,2969,Pay at Hotel,New,Website,1,Change of Plan
+989,City,39,1139,Prepaid,Returning,Website,1,Unknown
+990,Resort,6,5070,Pay at Hotel,Returning,App,1,Better Alternative
+991,Resort,29,2514,Pay at Hotel,Returning,Agent,1,Payment Failure
+992,Budget,6,5492,Prepaid,Returning,App,0,Not Cancelled
+993,Resort,2,5346,Prepaid,New,Website,0,Not Cancelled
+994,Budget,0,1356,Prepaid,New,Agent,0,Not Cancelled
+995,Resort,35,3887,Pay at Hotel,New,Agent,1,Better Alternative
+996,Resort,24,4066,Pay at Hotel,Returning,App,1,No Show
+997,Resort,36,4367,Pay at Hotel,Returning,App,1,Unknown
+998,Budget,0,2856,Pay at Hotel,New,App,1,Price Issue
+999,Budget,14,4699,Prepaid,New,Agent,0,Not Cancelled
+1000,City,36,1816,Pay at Hotel,Returning,Agent,1,Price Issue
+1001,Budget,12,2862,Prepaid,New,Agent,0,Not Cancelled
+1002,Budget,39,1638,Pay at Hotel,New,Website,1,Price Issue
+1003,Budget,7,2437,Pay at Hotel,Returning,Website,1,Price Issue
+1004,Budget,4,5121,Prepaid,Returning,App,0,Not Cancelled
+1005,City,59,4296,Pay at Hotel,New,Agent,1,Change of Plan
+1006,Budget,8,2613,Pay at Hotel,Returning,App,1,Change of Plan
+1007,Resort,0,4279,Prepaid,New,Agent,0,Not Cancelled
+1008,Resort,35,2251,Pay at Hotel,Returning,App,1,Unknown
+1009,Budget,34,3113,Prepaid,Returning,Website,1,Better Alternative
+1010,Budget,1,2314,Prepaid,New,Agent,0,Not Cancelled
+1011,Resort,39,2031,Prepaid,Returning,Website,1,Better Alternative
+1012,Resort,22,2445,Prepaid,New,Agent,1,Change of Plan
+1013,City,8,3799,Pay at Hotel,Returning,App,1,Price Issue
+1014,Resort,33,4240,Pay at Hotel,New,Agent,1,No Show
+1015,Resort,45,4856,Pay at Hotel,Returning,Website,1,Change of Plan
+1016,Budget,13,1105,Prepaid,Returning,Agent,0,Not Cancelled
+1017,Resort,3,4336,Pay at Hotel,New,App,1,Change of Plan
+1018,City,29,2523,Pay at Hotel,Returning,Agent,1,Price Issue
+1019,Resort,30,2489,Pay at Hotel,New,Website,1,Unknown
+1020,Budget,37,2317,Pay at Hotel,Returning,App,1,Payment Failure
+1021,Budget,10,4717,Prepaid,Returning,Website,0,Not Cancelled
+1022,Resort,34,1219,Prepaid,New,Agent,1,No Show
+1023,Budget,7,3736,Pay at Hotel,Returning,Website,1,Better Alternative
+1024,City,2,4662,Prepaid,Returning,Agent,0,Not Cancelled
+1025,City,13,5029,Pay at Hotel,New,App,1,Unknown
+1026,Resort,59,2250,Pay at Hotel,Returning,Website,1,Change of Plan
+1027,Resort,12,3896,Pay at Hotel,New,Website,1,Payment Failure
+1028,Resort,44,4061,Prepaid,New,Agent,1,Price Issue
+1029,Budget,31,1964,Pay at Hotel,New,Website,1,Price Issue
+1030,City,33,2669,Prepaid,Returning,Website,1,Unknown
+1031,City,44,2619,Prepaid,Returning,App,1,Payment Failure
+1032,Budget,18,3505,Pay at Hotel,New,Agent,1,Change of Plan
+1033,City,58,4315,Prepaid,Returning,Agent,1,Price Issue
+1034,Resort,37,2142,Prepaid,New,App,1,No Show
+1035,Resort,15,3026,Pay at Hotel,Returning,App,1,No Show
+1036,Resort,1,1879,Prepaid,New,Agent,0,Not Cancelled
+1037,City,39,5006,Prepaid,New,App,1,Change of Plan
+1038,Resort,16,5363,Pay at Hotel,Returning,App,1,Payment Failure
+1039,Budget,54,3579,Pay at Hotel,New,App,1,Price Issue
+1040,Budget,33,3328,Prepaid,New,Agent,1,No Show
+1041,City,41,1613,Pay at Hotel,Returning,App,1,Better Alternative
+1042,Budget,59,5889,Pay at Hotel,New,Website,1,Payment Failure
+1043,Budget,15,2831,Prepaid,New,Website,0,Not Cancelled
+1044,City,37,1122,Prepaid,Returning,Agent,1,Better Alternative
+1045,Resort,59,3769,Pay at Hotel,New,App,1,Unknown
+1046,Resort,1,1703,Prepaid,New,Website,0,Not Cancelled
+1047,Resort,1,2341,Pay at Hotel,New,Agent,1,Payment Failure
+1048,City,25,4303,Pay at Hotel,New,Website,1,Better Alternative
+1049,Budget,12,3453,Prepaid,New,App,0,Not Cancelled
+1050,Resort,55,3276,Prepaid,New,Agent,1,Unknown
+1051,Resort,46,4140,Pay at Hotel,New,Website,1,Change of Plan
+1052,City,30,5043,Pay at Hotel,New,Agent,1,Unknown
+1053,Resort,59,1941,Pay at Hotel,Returning,Website,1,Change of Plan
+1054,City,33,1649,Pay at Hotel,New,Website,1,No Show
+1055,Budget,38,1166,Prepaid,New,App,1,Payment Failure
+1056,City,2,3697,Pay at Hotel,Returning,App,1,Payment Failure
+1057,City,7,1889,Prepaid,New,Website,0,Not Cancelled
+1058,City,22,4841,Prepaid,New,Agent,1,Price Issue
+1059,City,13,2838,Pay at Hotel,New,Agent,1,Change of Plan
+1060,Budget,55,3660,Prepaid,New,App,1,Change of Plan
+1061,Budget,54,5070,Prepaid,New,Website,1,Payment Failure
+1062,Resort,26,2654,Pay at Hotel,New,App,1,Better Alternative
+1063,Budget,53,5483,Prepaid,Returning,Website,1,Price Issue
+1064,Budget,28,1294,Prepaid,Returning,Website,1,Payment Failure
+1065,Resort,38,3982,Pay at Hotel,Returning,App,1,Unknown
+1066,Budget,52,2584,Pay at Hotel,Returning,Agent,1,Change of Plan
+1067,City,38,4310,Pay at Hotel,Returning,App,1,Better Alternative
+1068,City,0,4586,Pay at Hotel,New,Website,1,Price Issue
+1069,Resort,16,4930,Pay at Hotel,New,App,1,No Show
+1070,Resort,40,1798,Pay at Hotel,New,Agent,1,Price Issue
+1071,Resort,29,5933,Pay at Hotel,New,Agent,1,Price Issue
+1072,City,52,5269,Prepaid,New,Website,1,Change of Plan
+1073,Budget,12,2251,Prepaid,Returning,App,0,Not Cancelled
+1074,City,20,2551,Pay at Hotel,Returning,Agent,1,No Show
+1075,Resort,18,3080,Prepaid,New,App,0,Not Cancelled
+1076,Budget,52,5600,Prepaid,New,Agent,1,No Show
+1077,Budget,18,5458,Pay at Hotel,New,Website,1,Payment Failure
+1078,City,56,3734,Prepaid,Returning,Website,1,Payment Failure
+1079,Resort,24,4534,Pay at Hotel,Returning,App,1,Change of Plan
+1080,City,21,4146,Prepaid,New,Website,1,Change of Plan
+1081,Budget,30,2673,Pay at Hotel,Returning,Agent,1,No Show
+1082,City,16,5334,Prepaid,New,Website,0,Not Cancelled
+1083,City,54,4603,Prepaid,Returning,Agent,1,Better Alternative
+1084,Resort,22,2779,Prepaid,Returning,Agent,1,Payment Failure
+1085,Resort,31,1498,Pay at Hotel,New,Website,1,Change of Plan
+1086,Budget,9,2112,Prepaid,Returning,Agent,0,Not Cancelled
+1087,City,9,3762,Prepaid,Returning,Agent,0,Not Cancelled
+1088,City,35,3738,Pay at Hotel,New,App,1,No Show
+1089,City,7,5587,Pay at Hotel,Returning,App,1,No Show
+1090,Budget,53,3100,Prepaid,New,App,1,No Show
+1091,Budget,51,3997,Prepaid,Returning,Website,1,Better Alternative
+1092,Resort,19,926,Prepaid,New,App,0,Not Cancelled
+1093,Resort,31,1991,Prepaid,New,Agent,1,Change of Plan
+1094,Resort,49,3439,Pay at Hotel,Returning,Website,1,Price Issue
+1095,City,13,5189,Prepaid,Returning,Website,0,Not Cancelled
+1096,City,49,4716,Prepaid,New,Website,1,Better Alternative
+1097,Resort,27,2166,Pay at Hotel,Returning,Website,1,Change of Plan
+1098,City,45,1819,Prepaid,Returning,Agent,1,Payment Failure
+1099,Resort,51,4879,Prepaid,Returning,Agent,1,No Show
+1100,Budget,52,5314,Prepaid,New,App,1,No Show
+1101,Resort,23,5339,Pay at Hotel,New,Website,1,No Show
+1102,Budget,14,1484,Pay at Hotel,New,App,1,Change of Plan
+1103,City,21,4429,Prepaid,Returning,Agent,1,No Show
+1104,Resort,29,3687,Prepaid,Returning,Website,1,Better Alternative
+1105,City,3,2262,Pay at Hotel,New,Agent,1,Payment Failure
+1106,Budget,12,4886,Prepaid,New,App,0,Not Cancelled
+1107,Budget,58,3061,Prepaid,Returning,Agent,1,Change of Plan
+1108,Budget,22,4980,Pay at Hotel,Returning,Website,1,Payment Failure
+1109,City,7,3641,Pay at Hotel,Returning,Website,1,No Show
+1110,City,17,2567,Pay at Hotel,Returning,App,1,Price Issue
+1111,City,11,4980,Prepaid,New,Website,0,Not Cancelled
+1112,City,54,4360,Prepaid,Returning,Agent,1,Unknown
+1113,Budget,30,2912,Prepaid,Returning,Agent,1,Better Alternative
+1114,Budget,13,5558,Prepaid,New,Agent,0,Not Cancelled
+1115,Resort,33,1426,Pay at Hotel,New,Agent,1,Better Alternative
+1116,Resort,17,4959,Prepaid,Returning,App,0,Not Cancelled
+1117,City,55,4214,Prepaid,New,Agent,1,Price Issue
+1118,Budget,33,5814,Pay at Hotel,Returning,App,1,Unknown
+1119,Budget,10,2175,Pay at Hotel,Returning,Agent,1,Better Alternative
+1120,Budget,40,1981,Prepaid,New,App,1,Payment Failure
+1121,Resort,11,1290,Pay at Hotel,New,Agent,1,Price Issue
+1122,Resort,48,4529,Pay at Hotel,Returning,Agent,1,Price Issue
+1123,Budget,14,4334,Prepaid,New,App,0,Not Cancelled
+1124,Budget,56,4096,Prepaid,Returning,Website,1,Unknown
+1125,Budget,30,2740,Prepaid,Returning,Website,1,Change of Plan
+1126,Resort,48,5208,Prepaid,Returning,Website,1,Price Issue
+1127,Budget,57,5814,Pay at Hotel,New,App,1,Payment Failure
+1128,Budget,28,2682,Pay at Hotel,Returning,Website,1,Payment Failure
+1129,City,25,5708,Prepaid,Returning,Website,1,No Show
+1130,City,17,3787,Prepaid,Returning,App,0,Not Cancelled
+1131,Resort,31,3959,Pay at Hotel,New,Website,1,No Show
+1132,Budget,21,5575,Prepaid,Returning,Website,1,Price Issue
+1133,Budget,37,5330,Prepaid,Returning,Website,1,Price Issue
+1134,City,16,1481,Prepaid,Returning,App,0,Not Cancelled
+1135,Resort,22,1873,Prepaid,New,App,1,Price Issue
+1136,City,23,3187,Pay at Hotel,Returning,Website,1,Change of Plan
+1137,City,49,3194,Prepaid,Returning,Website,1,Unknown
+1138,City,7,3493,Pay at Hotel,New,App,1,Unknown
+1139,City,40,2170,Prepaid,New,Website,1,Change of Plan
+1140,Budget,5,5544,Prepaid,Returning,App,0,Not Cancelled
+1141,Budget,4,5140,Pay at Hotel,Returning,Website,1,Payment Failure
+1142,City,43,2956,Prepaid,Returning,App,1,No Show
+1143,Resort,56,3380,Pay at Hotel,New,Agent,1,Unknown
+1144,Resort,28,5191,Prepaid,New,Agent,1,Better Alternative
+1145,Resort,27,2959,Prepaid,Returning,App,1,No Show
+1146,Resort,10,4048,Prepaid,New,Agent,0,Not Cancelled
+1147,City,56,4531,Prepaid,Returning,Website,1,Better Alternative
+1148,Budget,0,4629,Prepaid,Returning,App,0,Not Cancelled
+1149,Resort,42,2427,Pay at Hotel,New,App,1,Better Alternative
+1150,City,18,4272,Pay at Hotel,Returning,Website,1,Price Issue
+1151,Resort,8,827,Prepaid,New,Website,0,Not Cancelled
+1152,Resort,26,2785,Prepaid,New,App,1,Payment Failure
+1153,City,33,4953,Pay at Hotel,Returning,Website,1,Better Alternative
+1154,Budget,43,2321,Pay at Hotel,New,App,1,Payment Failure
+1155,Budget,3,1096,Prepaid,Returning,Website,0,Not Cancelled
+1156,City,35,2981,Prepaid,New,App,1,Better Alternative
+1157,Budget,17,4202,Pay at Hotel,Returning,Website,1,No Show
+1158,City,14,3096,Prepaid,Returning,Website,0,Not Cancelled
+1159,City,50,3397,Pay at Hotel,Returning,Agent,1,Unknown
+1160,City,12,1701,Prepaid,New,Agent,0,Not Cancelled
+1161,Budget,18,1898,Pay at Hotel,Returning,Agent,1,Better Alternative
+1162,City,48,2477,Pay at Hotel,New,Website,1,Change of Plan
+1163,Resort,5,3681,Prepaid,New,App,0,Not Cancelled
+1164,Budget,47,5666,Pay at Hotel,New,Website,1,No Show
+1165,Budget,55,2178,Prepaid,New,Agent,1,Payment Failure
+1166,Budget,11,2048,Prepaid,New,Website,0,Not Cancelled
+1167,Budget,50,4535,Prepaid,Returning,Agent,1,Change of Plan
+1168,Resort,36,5041,Prepaid,New,Agent,1,Unknown
+1169,Budget,16,2064,Pay at Hotel,Returning,App,1,Payment Failure
+1170,Budget,57,2707,Prepaid,Returning,App,1,Unknown
+1171,City,22,1858,Prepaid,New,Agent,1,No Show
+1172,Budget,25,3549,Prepaid,Returning,Agent,1,Price Issue
+1173,Resort,28,2848,Prepaid,Returning,Website,1,Price Issue
+1174,Resort,32,5048,Pay at Hotel,New,Agent,1,Payment Failure
+1175,Resort,59,3276,Prepaid,Returning,Website,1,Payment Failure
+1176,Resort,26,4816,Pay at Hotel,New,Agent,1,Payment Failure
+1177,Budget,24,5403,Pay at Hotel,New,App,1,Price Issue
+1178,Budget,55,3997,Pay at Hotel,New,App,1,No Show
+1179,Resort,54,5386,Prepaid,Returning,Agent,1,Payment Failure
+1180,Resort,9,4353,Prepaid,Returning,Website,0,Not Cancelled
+1181,Budget,46,5240,Prepaid,Returning,Website,1,Payment Failure
+1182,Resort,22,2561,Prepaid,Returning,Website,1,Payment Failure
+1183,City,20,1020,Pay at Hotel,New,Agent,1,Unknown
+1184,Resort,20,5618,Pay at Hotel,New,Agent,1,Payment Failure
+1185,Resort,42,5423,Prepaid,Returning,App,1,Price Issue
+1186,City,12,3688,Prepaid,New,App,0,Not Cancelled
+1187,City,36,2464,Prepaid,Returning,Agent,1,Price Issue
+1188,Budget,32,4786,Prepaid,New,App,1,Price Issue
+1189,Budget,23,5376,Prepaid,New,Website,1,Payment Failure
+1190,City,43,3777,Prepaid,New,Website,1,Unknown
+1191,City,10,2671,Prepaid,New,Agent,0,Not Cancelled
+1192,Budget,16,2262,Pay at Hotel,New,Website,1,Better Alternative
+1193,Resort,3,1144,Pay at Hotel,Returning,Agent,1,Better Alternative
+1194,City,46,844,Pay at Hotel,Returning,Website,1,Price Issue
+1195,Budget,24,2868,Pay at Hotel,New,Agent,1,Payment Failure
+1196,Resort,29,2314,Prepaid,Returning,Website,1,Better Alternative
+1197,City,8,3398,Prepaid,New,Website,0,Not Cancelled
+1198,Resort,20,1801,Prepaid,New,App,0,Not Cancelled
+1199,Budget,19,1833,Prepaid,New,App,0,Not Cancelled
+1200,City,18,2840,Prepaid,New,App,0,Not Cancelled
+1201,Resort,18,1073,Pay at Hotel,Returning,App,1,Payment Failure
+1202,City,11,5851,Prepaid,New,App,0,Not Cancelled
+1203,Resort,36,3447,Pay at Hotel,Returning,App,1,Price Issue
+1204,Budget,41,2579,Prepaid,New,Agent,1,Payment Failure
+1205,Budget,16,5276,Pay at Hotel,New,Agent,1,Unknown
+1206,City,36,1278,Prepaid,Returning,App,1,Unknown
+1207,Resort,53,1315,Pay at Hotel,New,Agent,1,No Show
+1208,City,47,5086,Prepaid,New,App,1,Payment Failure
+1209,City,38,1991,Prepaid,Returning,Agent,1,Unknown
+1210,Resort,27,3468,Prepaid,Returning,Website,1,No Show
+1211,Resort,40,2211,Prepaid,Returning,Agent,1,Better Alternative
+1212,Resort,34,4080,Pay at Hotel,New,Agent,1,Better Alternative
+1213,Budget,46,1071,Prepaid,New,Agent,1,No Show
+1214,City,47,942,Pay at Hotel,Returning,Website,1,Payment Failure
+1215,City,17,5988,Prepaid,Returning,App,0,Not Cancelled
+1216,Budget,13,4132,Pay at Hotel,New,Agent,1,Payment Failure
+1217,Resort,34,1587,Prepaid,New,Agent,1,Unknown
+1218,Budget,43,2481,Prepaid,Returning,Website,1,Better Alternative
+1219,Budget,40,1422,Pay at Hotel,Returning,App,1,Unknown
+1220,Budget,59,4641,Prepaid,Returning,Agent,1,Payment Failure
+1221,City,6,4476,Prepaid,Returning,Website,0,Not Cancelled
+1222,Budget,40,3372,Pay at Hotel,New,App,1,Change of Plan
+1223,City,12,5833,Prepaid,New,App,0,Not Cancelled
+1224,City,17,4060,Pay at Hotel,New,Agent,1,Price Issue
+1225,City,36,5512,Prepaid,New,Agent,1,No Show
+1226,Resort,12,5927,Pay at Hotel,Returning,Agent,1,Payment Failure
+1227,City,35,866,Pay at Hotel,New,Agent,1,Payment Failure
+1228,City,30,5086,Pay at Hotel,Returning,Website,1,No Show
+1229,Resort,1,5416,Pay at Hotel,New,Website,1,Payment Failure
+1230,City,15,5885,Prepaid,New,Agent,0,Not Cancelled
+1231,Budget,8,1940,Prepaid,New,App,0,Not Cancelled
+1232,Budget,8,3114,Pay at Hotel,Returning,Agent,1,Payment Failure
+1233,City,37,3332,Prepaid,New,App,1,No Show
+1234,Resort,10,4380,Prepaid,Returning,App,0,Not Cancelled
+1235,Budget,53,1987,Prepaid,Returning,App,1,No Show
+1236,Resort,55,5271,Pay at Hotel,New,Website,1,Change of Plan
+1237,Resort,21,5548,Prepaid,Returning,App,1,Unknown
+1238,Budget,32,4139,Prepaid,New,App,1,Unknown
+1239,Resort,35,1348,Pay at Hotel,Returning,Website,1,Change of Plan
+1240,Budget,44,5993,Prepaid,New,App,1,Unknown
+1241,Resort,22,4887,Pay at Hotel,Returning,App,1,Change of Plan
+1242,Budget,44,872,Pay at Hotel,Returning,Agent,1,Unknown
+1243,City,44,998,Pay at Hotel,New,App,1,Change of Plan
+1244,Budget,33,4001,Prepaid,New,App,1,Change of Plan
+1245,Budget,8,2581,Prepaid,New,App,0,Not Cancelled
+1246,Budget,23,1371,Pay at Hotel,New,App,1,Change of Plan
+1247,Budget,7,1590,Pay at Hotel,Returning,App,1,Unknown
+1248,Resort,6,2438,Pay at Hotel,Returning,Website,1,Change of Plan
+1249,City,35,2631,Pay at Hotel,Returning,App,1,No Show
+1250,Budget,17,2655,Pay at Hotel,Returning,App,1,Price Issue
+1251,Resort,2,1974,Pay at Hotel,New,Website,1,Unknown
+1252,City,27,4540,Prepaid,Returning,Website,1,Change of Plan
+1253,City,5,4077,Pay at Hotel,New,App,1,No Show
+1254,City,43,978,Pay at Hotel,Returning,App,1,Price Issue
+1255,City,43,3044,Pay at Hotel,New,App,1,Change of Plan
+1256,Budget,20,4886,Prepaid,New,Agent,0,Not Cancelled
+1257,Budget,27,1534,Prepaid,New,Agent,1,Unknown
+1258,Resort,39,1598,Prepaid,New,App,1,Price Issue
+1259,Resort,53,1587,Prepaid,New,Website,1,Better Alternative
+1260,Resort,53,3595,Pay at Hotel,Returning,App,1,Payment Failure
+1261,City,0,5104,Prepaid,New,Website,0,Not Cancelled
+1262,City,35,5388,Pay at Hotel,Returning,Website,1,Unknown
+1263,Budget,20,3884,Pay at Hotel,Returning,Website,1,Unknown
+1264,City,59,3718,Pay at Hotel,New,App,1,Price Issue
+1265,City,42,1531,Pay at Hotel,Returning,App,1,No Show
+1266,City,34,1929,Pay at Hotel,Returning,Website,1,Change of Plan
+1267,Resort,12,4246,Pay at Hotel,Returning,Agent,1,Payment Failure
+1268,Resort,56,2405,Prepaid,New,Agent,1,Change of Plan
+1269,Budget,48,4578,Prepaid,New,Agent,1,No Show
+1270,City,53,3545,Prepaid,New,Website,1,Unknown
+1271,City,53,3970,Prepaid,New,App,1,Payment Failure
+1272,Budget,9,5489,Prepaid,Returning,Website,0,Not Cancelled
+1273,City,52,3733,Pay at Hotel,Returning,Agent,1,Unknown
+1274,City,43,2015,Prepaid,Returning,App,1,Unknown
+1275,Resort,46,1124,Prepaid,Returning,Website,1,Price Issue
+1276,Budget,52,5874,Prepaid,Returning,Website,1,No Show
+1277,Budget,9,2650,Pay at Hotel,Returning,Agent,1,Price Issue
+1278,Budget,45,2290,Pay at Hotel,New,Website,1,Price Issue
+1279,Budget,12,1693,Pay at Hotel,Returning,App,1,Change of Plan
+1280,Resort,36,2190,Prepaid,Returning,Agent,1,Unknown
+1281,Resort,37,4189,Prepaid,Returning,Agent,1,No Show
+1282,City,23,5039,Prepaid,New,App,1,Price Issue
+1283,City,1,5279,Prepaid,Returning,Agent,0,Not Cancelled
+1284,City,21,3063,Prepaid,Returning,Website,1,Payment Failure
+1285,City,16,4232,Pay at Hotel,New,Website,1,No Show
+1286,Resort,35,3171,Prepaid,Returning,Agent,1,Change of Plan
+1287,Budget,13,3886,Pay at Hotel,New,App,1,No Show
+1288,Resort,9,5112,Prepaid,New,Website,0,Not Cancelled
+1289,City,34,2315,Pay at Hotel,Returning,App,1,Change of Plan
+1290,Resort,24,3717,Pay at Hotel,Returning,Website,1,Payment Failure
+1291,Budget,2,3152,Pay at Hotel,New,Website,1,Better Alternative
+1292,Budget,46,1967,Pay at Hotel,Returning,Agent,1,Price Issue
+1293,Resort,37,910,Prepaid,Returning,Agent,1,No Show
+1294,Resort,16,5909,Prepaid,New,App,0,Not Cancelled
+1295,Resort,11,5127,Prepaid,New,Agent,0,Not Cancelled
+1296,City,53,4455,Pay at Hotel,Returning,Website,1,Price Issue
+1297,Resort,51,4593,Prepaid,New,Website,1,Payment Failure
+1298,Resort,23,2555,Prepaid,Returning,App,1,Better Alternative
+1299,Resort,28,2377,Prepaid,Returning,App,1,Price Issue
+1300,Budget,42,2096,Prepaid,Returning,Website,1,Price Issue
+1301,Budget,24,4574,Pay at Hotel,Returning,Agent,1,Price Issue
+1302,City,35,3020,Pay at Hotel,New,Agent,1,Change of Plan
+1303,City,57,1772,Prepaid,Returning,App,1,Price Issue
+1304,Budget,59,1830,Prepaid,New,App,1,Payment Failure
+1305,Budget,25,3393,Prepaid,Returning,Website,1,Change of Plan
+1306,Budget,37,4792,Pay at Hotel,Returning,Website,1,Price Issue
+1307,Resort,0,5413,Pay at Hotel,New,App,1,Payment Failure
+1308,Resort,19,1713,Pay at Hotel,Returning,Website,1,Payment Failure
+1309,Budget,54,2981,Prepaid,New,App,1,No Show
+1310,Resort,27,3997,Pay at Hotel,New,App,1,Payment Failure
+1311,Resort,15,2262,Pay at Hotel,Returning,Agent,1,Unknown
+1312,City,46,3178,Pay at Hotel,Returning,App,1,Better Alternative
+1313,Budget,16,4254,Pay at Hotel,Returning,Website,1,Price Issue
+1314,Budget,39,4353,Pay at Hotel,Returning,Agent,1,Price Issue
+1315,Resort,27,2107,Prepaid,New,Agent,1,Price Issue
+1316,Budget,57,5794,Prepaid,Returning,Website,1,Payment Failure
+1317,City,11,5994,Prepaid,Returning,Website,0,Not Cancelled
+1318,City,26,1989,Prepaid,Returning,Website,1,Price Issue
+1319,City,53,1487,Pay at Hotel,Returning,App,1,Unknown
+1320,Budget,52,5461,Prepaid,Returning,Agent,1,Change of Plan
+1321,Budget,41,2007,Prepaid,New,App,1,Change of Plan
+1322,Budget,58,2694,Prepaid,Returning,App,1,Better Alternative
+1323,Budget,46,5722,Pay at Hotel,New,App,1,No Show
+1324,Budget,29,2611,Prepaid,Returning,App,1,Better Alternative
+1325,City,40,3983,Pay at Hotel,Returning,Agent,1,Price Issue
+1326,Resort,33,4597,Pay at Hotel,Returning,Agent,1,Price Issue
+1327,City,36,5978,Pay at Hotel,New,App,1,Price Issue
+1328,Budget,5,2444,Prepaid,Returning,Website,0,Not Cancelled
+1329,City,6,4768,Pay at Hotel,New,Agent,1,Payment Failure
+1330,Budget,31,3516,Prepaid,New,App,1,No Show
+1331,Budget,31,990,Prepaid,Returning,Website,1,Better Alternative
+1332,City,52,2135,Prepaid,New,Website,1,Payment Failure
+1333,Budget,24,5603,Pay at Hotel,Returning,App,1,Payment Failure
+1334,Resort,32,3906,Pay at Hotel,Returning,Agent,1,Better Alternative
+1335,Budget,54,1178,Prepaid,New,Website,1,Payment Failure
+1336,Resort,57,5282,Pay at Hotel,Returning,Agent,1,Change of Plan
+1337,Resort,6,4629,Pay at Hotel,Returning,Agent,1,Better Alternative
+1338,Budget,51,1415,Pay at Hotel,New,Website,1,Better Alternative
+1339,City,56,3130,Prepaid,New,App,1,Change of Plan
+1340,Resort,11,2554,Pay at Hotel,New,Website,1,No Show
+1341,City,15,1263,Pay at Hotel,New,Website,1,No Show
+1342,Resort,15,1766,Prepaid,New,Agent,0,Not Cancelled
+1343,Budget,42,5067,Pay at Hotel,New,App,1,Payment Failure
+1344,Budget,52,3958,Prepaid,Returning,Agent,1,Change of Plan
+1345,Resort,35,4424,Pay at Hotel,New,Website,1,Better Alternative
+1346,Budget,12,5738,Pay at Hotel,New,App,1,Better Alternative
+1347,Resort,6,1489,Pay at Hotel,Returning,App,1,Better Alternative
+1348,Budget,35,3422,Pay at Hotel,Returning,App,1,Payment Failure
+1349,City,46,3012,Pay at Hotel,New,App,1,Payment Failure
+1350,Budget,50,1182,Pay at Hotel,New,App,1,Unknown
+1351,City,8,3056,Prepaid,Returning,Website,0,Not Cancelled
+1352,Budget,31,4610,Pay at Hotel,New,Website,1,Unknown
+1353,City,10,4303,Pay at Hotel,New,Website,1,Unknown
+1354,Budget,7,2212,Pay at Hotel,Returning,Agent,1,Payment Failure
+1355,City,32,2383,Prepaid,New,App,1,No Show
+1356,Resort,22,1171,Prepaid,Returning,App,1,No Show
+1357,Resort,24,1410,Prepaid,New,Website,1,Better Alternative
+1358,City,55,915,Pay at Hotel,Returning,App,1,Payment Failure
+1359,Budget,7,1246,Pay at Hotel,Returning,Agent,1,No Show
+1360,City,44,2191,Prepaid,Returning,App,1,Unknown
+1361,Budget,21,4124,Prepaid,New,App,1,Change of Plan
+1362,Resort,58,2140,Prepaid,Returning,Agent,1,Change of Plan
+1363,Budget,3,5310,Pay at Hotel,New,Website,1,Payment Failure
+1364,Resort,39,3739,Prepaid,Returning,Website,1,Better Alternative
+1365,Budget,2,5943,Pay at Hotel,Returning,App,1,Better Alternative
+1366,Budget,28,4499,Pay at Hotel,Returning,Agent,1,No Show
+1367,Budget,40,1873,Pay at Hotel,New,Website,1,Payment Failure
+1368,City,28,5613,Prepaid,New,Website,1,Change of Plan
+1369,City,33,4369,Pay at Hotel,Returning,Website,1,Unknown
+1370,Resort,33,3950,Prepaid,New,App,1,No Show
+1371,Resort,27,2405,Prepaid,New,Agent,1,Unknown
+1372,City,12,5457,Prepaid,New,App,0,Not Cancelled
+1373,Resort,14,3094,Prepaid,Returning,Website,0,Not Cancelled
+1374,City,59,4462,Pay at Hotel,New,Agent,1,Unknown
+1375,Budget,22,5282,Pay at Hotel,Returning,App,1,Payment Failure
+1376,Resort,43,5597,Pay at Hotel,Returning,Website,1,Unknown
+1377,Resort,25,5868,Pay at Hotel,Returning,Website,1,Unknown
+1378,City,3,1783,Prepaid,New,App,0,Not Cancelled
+1379,Resort,25,1151,Prepaid,Returning,Website,1,Change of Plan
+1380,Resort,39,2524,Prepaid,New,Website,1,Price Issue
+1381,Budget,8,2751,Prepaid,New,Agent,0,Not Cancelled
+1382,Resort,54,2079,Pay at Hotel,Returning,Website,1,Change of Plan
+1383,Budget,4,2707,Prepaid,Returning,App,0,Not Cancelled
+1384,City,55,5648,Pay at Hotel,Returning,Agent,1,Price Issue
+1385,Resort,31,1824,Prepaid,New,App,1,Price Issue
+1386,Budget,19,1345,Prepaid,New,Website,0,Not Cancelled
+1387,City,49,4974,Prepaid,Returning,Agent,1,Unknown
+1388,Resort,10,3181,Prepaid,Returning,Agent,0,Not Cancelled
+1389,City,14,1688,Pay at Hotel,New,Agent,1,No Show
+1390,Resort,31,1905,Pay at Hotel,New,Agent,1,Payment Failure
+1391,City,27,3349,Pay at Hotel,Returning,App,1,Change of Plan
+1392,City,21,2790,Pay at Hotel,New,Website,1,Change of Plan
+1393,Budget,40,4798,Prepaid,New,Website,1,No Show
+1394,City,16,4575,Prepaid,New,Agent,0,Not Cancelled
+1395,Resort,58,3612,Pay at Hotel,New,Website,1,Unknown
+1396,Resort,25,1720,Pay at Hotel,New,App,1,Change of Plan
+1397,Budget,43,5445,Prepaid,New,Website,1,Unknown
+1398,Resort,6,2861,Prepaid,Returning,App,0,Not Cancelled
+1399,Resort,41,5287,Pay at Hotel,New,App,1,Better Alternative
+1400,Resort,56,5869,Pay at Hotel,Returning,Website,1,Price Issue
+1401,City,25,4439,Pay at Hotel,Returning,App,1,No Show
+1402,City,24,3965,Prepaid,New,App,1,No Show
+1403,Resort,9,5235,Pay at Hotel,Returning,App,1,Unknown
+1404,Budget,58,3444,Pay at Hotel,Returning,App,1,Payment Failure
+1405,City,44,5652,Pay at Hotel,Returning,Agent,1,Payment Failure
+1406,Budget,18,1845,Pay at Hotel,New,Website,1,Price Issue
+1407,Resort,10,4356,Pay at Hotel,Returning,Agent,1,Better Alternative
+1408,Resort,12,3481,Prepaid,New,App,0,Not Cancelled
+1409,City,52,3999,Pay at Hotel,Returning,Website,1,Unknown
+1410,Resort,7,1738,Prepaid,Returning,App,0,Not Cancelled
+1411,City,39,5743,Pay at Hotel,Returning,Website,1,No Show
+1412,Resort,3,1241,Pay at Hotel,Returning,Agent,1,Unknown
+1413,Resort,46,3350,Pay at Hotel,New,Website,1,Change of Plan
+1414,City,30,5025,Prepaid,Returning,App,1,No Show
+1415,City,27,1396,Prepaid,Returning,Website,1,Better Alternative
+1416,City,10,2305,Prepaid,New,Website,0,Not Cancelled
+1417,Resort,42,1661,Pay at Hotel,New,Agent,1,Better Alternative
+1418,Resort,0,3440,Pay at Hotel,New,App,1,No Show
+1419,Budget,48,5894,Prepaid,Returning,Website,1,Change of Plan
+1420,City,46,4531,Prepaid,New,Agent,1,Better Alternative
+1421,Resort,51,2351,Pay at Hotel,New,Website,1,Payment Failure
+1422,Resort,37,4036,Prepaid,New,App,1,Unknown
+1423,City,23,2536,Pay at Hotel,New,Website,1,No Show
+1424,Budget,53,2249,Prepaid,New,Website,1,Change of Plan
+1425,City,59,1064,Prepaid,New,Website,1,Payment Failure
+1426,Budget,56,3459,Prepaid,Returning,Website,1,No Show
+1427,Resort,46,3521,Pay at Hotel,New,App,1,Change of Plan
+1428,Budget,30,2262,Pay at Hotel,Returning,Agent,1,Payment Failure
+1429,Resort,40,5052,Prepaid,New,Agent,1,Better Alternative
+1430,City,45,2245,Pay at Hotel,New,Website,1,No Show
+1431,City,49,3098,Pay at Hotel,New,App,1,No Show
+1432,City,25,3725,Pay at Hotel,Returning,App,1,Better Alternative
+1433,Budget,48,2432,Pay at Hotel,New,App,1,Price Issue
+1434,Resort,49,3174,Prepaid,New,App,1,Payment Failure
+1435,City,4,5790,Pay at Hotel,New,App,1,Better Alternative
+1436,City,19,1312,Pay at Hotel,New,App,1,No Show
+1437,Resort,51,1015,Prepaid,Returning,Website,1,Payment Failure
+1438,City,40,4131,Pay at Hotel,Returning,Agent,1,Payment Failure
+1439,Resort,10,2972,Pay at Hotel,Returning,Agent,1,Price Issue
+1440,Resort,55,3953,Pay at Hotel,Returning,Website,1,No Show
+1441,Resort,53,2506,Prepaid,Returning,Agent,1,Change of Plan
+1442,Resort,32,2906,Prepaid,New,App,1,Price Issue
+1443,Resort,49,2367,Pay at Hotel,New,App,1,Price Issue
+1444,Budget,37,3008,Pay at Hotel,New,Agent,1,Change of Plan
+1445,City,26,3131,Prepaid,Returning,App,1,Change of Plan
+1446,Budget,33,2953,Prepaid,New,App,1,Price Issue
+1447,City,14,1928,Prepaid,Returning,Agent,0,Not Cancelled
+1448,Budget,31,4310,Pay at Hotel,New,Website,1,Better Alternative
+1449,Resort,57,5123,Pay at Hotel,Returning,Agent,1,Better Alternative
+1450,City,20,4453,Prepaid,New,Agent,0,Not Cancelled
+1451,City,45,3165,Pay at Hotel,New,Agent,1,Payment Failure
+1452,Budget,4,5697,Pay at Hotel,New,Agent,1,Change of Plan
+1453,Budget,5,3721,Pay at Hotel,New,Website,1,Unknown
+1454,City,37,5367,Pay at Hotel,Returning,Website,1,Price Issue
+1455,Budget,21,1879,Pay at Hotel,New,App,1,No Show
+1456,Budget,17,4311,Pay at Hotel,New,App,1,Payment Failure
+1457,Budget,13,5937,Pay at Hotel,New,Agent,1,No Show
+1458,Resort,9,3541,Prepaid,Returning,App,0,Not Cancelled
+1459,Resort,45,3820,Prepaid,New,Website,1,Price Issue
+1460,Budget,12,1028,Prepaid,New,App,0,Not Cancelled
+1461,Budget,30,970,Prepaid,New,App,1,No Show
+1462,Resort,29,1094,Prepaid,New,App,1,Payment Failure
+1463,Resort,2,5084,Prepaid,New,Agent,0,Not Cancelled
+1464,City,29,1225,Prepaid,Returning,App,1,Unknown
+1465,City,5,5872,Prepaid,Returning,Website,0,Not Cancelled
+1466,Resort,28,5998,Prepaid,Returning,Website,1,No Show
+1467,Budget,7,1718,Pay at Hotel,New,Website,1,Payment Failure
+1468,Budget,43,4053,Pay at Hotel,Returning,Website,1,Unknown
+1469,Budget,44,1298,Prepaid,New,App,1,Better Alternative
+1470,Budget,42,3609,Pay at Hotel,New,Agent,1,No Show
+1471,City,43,5761,Pay at Hotel,New,Website,1,Price Issue
+1472,Resort,32,1625,Prepaid,New,Website,1,Payment Failure
+1473,Budget,16,4579,Prepaid,Returning,Agent,0,Not Cancelled
+1474,City,47,2658,Prepaid,Returning,Agent,1,No Show
+1475,Budget,10,2918,Pay at Hotel,Returning,Website,1,Better Alternative
+1476,Resort,12,945,Pay at Hotel,New,Website,1,No Show
+1477,City,49,5365,Prepaid,Returning,Agent,1,Change of Plan
+1478,Resort,10,4377,Pay at Hotel,Returning,Website,1,No Show
+1479,Resort,30,992,Pay at Hotel,New,Website,1,Unknown
+1480,City,27,5987,Pay at Hotel,Returning,App,1,Unknown
+1481,City,43,4688,Prepaid,New,Agent,1,Change of Plan
+1482,City,5,851,Pay at Hotel,Returning,App,1,Unknown
+1483,City,40,3210,Pay at Hotel,Returning,App,1,Unknown
+1484,City,15,2620,Pay at Hotel,Returning,Agent,1,Price Issue
+1485,City,3,3764,Pay at Hotel,New,App,1,Payment Failure
+1486,City,34,3321,Pay at Hotel,Returning,Website,1,Unknown
+1487,Budget,59,2669,Pay at Hotel,Returning,App,1,Payment Failure
+1488,Resort,47,3368,Pay at Hotel,Returning,Agent,1,Better Alternative
+1489,City,55,2667,Prepaid,Returning,Website,1,No Show
+1490,Budget,58,3538,Prepaid,New,Website,1,Price Issue
+1491,Budget,25,4069,Pay at Hotel,New,Website,1,Change of Plan
+1492,Budget,56,3999,Prepaid,Returning,Website,1,Better Alternative
+1493,Resort,11,3379,Pay at Hotel,Returning,App,1,Price Issue
+1494,City,10,4805,Pay at Hotel,Returning,App,1,Price Issue
+1495,Budget,36,5735,Pay at Hotel,New,Website,1,Change of Plan
+1496,Resort,24,1040,Prepaid,Returning,Agent,1,Change of Plan
+1497,Resort,17,4240,Pay at Hotel,Returning,Website,1,Payment Failure
+1498,Resort,18,5431,Pay at Hotel,New,App,1,No Show
+1499,Budget,22,2207,Prepaid,New,Website,1,Better Alternative
+1500,City,54,4302,Prepaid,New,App,1,No Show
+1501,Budget,37,4838,Pay at Hotel,Returning,Website,1,Better Alternative
+1502,Budget,53,882,Prepaid,New,Agent,1,Price Issue
+1503,City,17,5877,Prepaid,New,Website,0,Not Cancelled
+1504,City,25,4568,Pay at Hotel,Returning,Agent,1,Unknown
+1505,City,5,1750,Pay at Hotel,New,Agent,1,Change of Plan
+1506,Resort,3,1410,Pay at Hotel,Returning,Website,1,Change of Plan
+1507,City,43,5469,Prepaid,Returning,Agent,1,Price Issue
+1508,Budget,50,5884,Prepaid,New,Agent,1,Price Issue
+1509,City,28,4405,Prepaid,Returning,App,1,Better Alternative
+1510,Budget,58,5354,Pay at Hotel,New,App,1,Price Issue
+1511,Resort,33,4083,Prepaid,New,Agent,1,Better Alternative
+1512,Budget,16,2973,Prepaid,New,Website,0,Not Cancelled
+1513,Budget,42,4284,Pay at Hotel,Returning,Agent,1,Change of Plan
+1514,City,42,2322,Pay at Hotel,New,Website,1,Change of Plan
+1515,City,52,3401,Pay at Hotel,Returning,App,1,Unknown
+1516,Budget,15,3457,Prepaid,Returning,Website,0,Not Cancelled
+1517,City,1,2959,Pay at Hotel,Returning,Agent,1,Change of Plan
+1518,Resort,33,3249,Prepaid,New,Agent,1,No Show
+1519,Resort,54,4630,Prepaid,Returning,Agent,1,No Show
+1520,City,7,921,Pay at Hotel,Returning,Agent,1,Payment Failure
+1521,Resort,12,5168,Pay at Hotel,New,Agent,1,Better Alternative
+1522,City,41,2117,Pay at Hotel,New,Website,1,Unknown
+1523,Budget,7,5293,Pay at Hotel,Returning,Agent,1,Better Alternative
+1524,Budget,29,3318,Pay at Hotel,Returning,App,1,Unknown
+1525,Resort,31,5880,Prepaid,New,Agent,1,Payment Failure
+1526,City,35,2030,Prepaid,Returning,Website,1,Change of Plan
+1527,City,46,1933,Prepaid,Returning,Agent,1,Better Alternative
+1528,Resort,29,2101,Pay at Hotel,Returning,Agent,1,Unknown
+1529,Budget,0,4834,Prepaid,Returning,Website,0,Not Cancelled
+1530,Resort,42,2710,Pay at Hotel,New,Agent,1,Change of Plan
+1531,Budget,38,2305,Pay at Hotel,Returning,Website,1,Price Issue
+1532,City,16,3985,Prepaid,New,Agent,0,Not Cancelled
+1533,Budget,58,2716,Prepaid,Returning,App,1,Price Issue
+1534,Resort,19,5715,Pay at Hotel,New,Agent,1,Payment Failure
+1535,City,23,4348,Prepaid,Returning,Website,1,No Show
+1536,Resort,49,3557,Pay at Hotel,New,App,1,Better Alternative
+1537,Resort,21,2756,Prepaid,Returning,Website,1,Unknown
+1538,Budget,28,978,Prepaid,New,Agent,1,Better Alternative
+1539,Resort,21,1696,Prepaid,Returning,App,1,Payment Failure
+1540,Budget,43,2351,Prepaid,Returning,Website,1,Payment Failure
+1541,City,8,1291,Prepaid,New,App,0,Not Cancelled
+1542,Budget,36,860,Pay at Hotel,New,App,1,Unknown
+1543,City,9,1877,Prepaid,New,Website,0,Not Cancelled
+1544,Budget,35,3695,Prepaid,New,App,1,Change of Plan
+1545,Resort,36,4960,Prepaid,New,Website,1,No Show
+1546,Budget,27,4483,Pay at Hotel,Returning,App,1,Better Alternative
+1547,Budget,27,1385,Pay at Hotel,New,App,1,Better Alternative
+1548,City,41,4760,Pay at Hotel,New,App,1,Unknown
+1549,Resort,42,4570,Pay at Hotel,Returning,Agent,1,Better Alternative
+1550,Budget,20,1334,Pay at Hotel,New,Agent,1,Unknown
+1551,Resort,23,4262,Prepaid,New,Website,1,Better Alternative
+1552,Budget,41,4811,Prepaid,New,App,1,Payment Failure
+1553,Budget,59,4198,Prepaid,Returning,Website,1,Price Issue
+1554,Resort,39,2955,Pay at Hotel,New,Agent,1,Better Alternative
+1555,Budget,1,1804,Pay at Hotel,Returning,Agent,1,Price Issue
+1556,Resort,54,3299,Prepaid,Returning,Agent,1,Change of Plan
+1557,Budget,7,5935,Pay at Hotel,New,Agent,1,No Show
+1558,City,47,1126,Pay at Hotel,Returning,Website,1,Change of Plan
+1559,Resort,26,5503,Pay at Hotel,New,App,1,Better Alternative
+1560,Budget,21,3506,Prepaid,New,Website,1,Unknown
+1561,Budget,36,801,Prepaid,New,App,1,Change of Plan
+1562,City,26,1833,Pay at Hotel,New,Agent,1,Payment Failure
+1563,Resort,56,3281,Pay at Hotel,New,App,1,Price Issue
+1564,Budget,28,924,Pay at Hotel,Returning,Agent,1,Unknown
+1565,City,2,1904,Pay at Hotel,Returning,Website,1,Unknown
+1566,Budget,43,3499,Prepaid,Returning,App,1,Better Alternative
+1567,Resort,12,2661,Pay at Hotel,Returning,Website,1,Payment Failure
+1568,Budget,44,3720,Prepaid,New,Agent,1,Price Issue
+1569,Budget,9,928,Prepaid,New,Website,0,Not Cancelled
+1570,Budget,35,1237,Prepaid,Returning,Agent,1,Change of Plan
+1571,Budget,8,5646,Pay at Hotel,New,Agent,1,Better Alternative
+1572,City,53,3348,Prepaid,Returning,Agent,1,Unknown
+1573,City,55,3929,Prepaid,Returning,Website,1,Unknown
+1574,Resort,54,2021,Pay at Hotel,Returning,Website,1,Change of Plan
+1575,City,26,1701,Pay at Hotel,Returning,App,1,Unknown
+1576,City,33,3968,Pay at Hotel,New,App,1,No Show
+1577,Resort,50,5286,Prepaid,New,Website,1,Better Alternative
+1578,City,0,4718,Pay at Hotel,Returning,Website,1,Change of Plan
+1579,City,31,1867,Prepaid,Returning,Website,1,Better Alternative
+1580,Resort,24,826,Prepaid,Returning,Website,1,Price Issue
+1581,Resort,28,1347,Pay at Hotel,Returning,Agent,1,Better Alternative
+1582,Resort,6,3468,Prepaid,Returning,Agent,0,Not Cancelled
+1583,Budget,48,1366,Prepaid,New,Agent,1,Price Issue
+1584,Budget,2,1503,Prepaid,Returning,Website,0,Not Cancelled
+1585,Resort,19,5080,Prepaid,Returning,Agent,0,Not Cancelled
+1586,Resort,19,3940,Pay at Hotel,New,Agent,1,Payment Failure
+1587,Resort,52,2390,Prepaid,New,App,1,Better Alternative
+1588,Budget,29,5743,Pay at Hotel,New,App,1,Change of Plan
+1589,Budget,34,5494,Prepaid,New,Agent,1,Unknown
+1590,City,34,1605,Prepaid,New,Agent,1,Price Issue
+1591,City,48,4591,Pay at Hotel,New,Agent,1,Unknown
+1592,Resort,38,2157,Prepaid,New,Website,1,Change of Plan
+1593,Budget,26,4025,Prepaid,New,App,1,No Show
+1594,Budget,25,4418,Prepaid,New,App,1,Unknown
+1595,Budget,13,2926,Prepaid,Returning,App,0,Not Cancelled
+1596,Resort,16,3260,Prepaid,New,Agent,0,Not Cancelled
+1597,City,17,1345,Prepaid,Returning,Website,0,Not Cancelled
+1598,Resort,44,3528,Pay at Hotel,Returning,App,1,Better Alternative
+1599,City,51,4534,Pay at Hotel,Returning,App,1,Payment Failure
+1600,City,28,3362,Pay at Hotel,Returning,Website,1,Payment Failure
+1601,Resort,19,2879,Prepaid,Returning,Agent,0,Not Cancelled
+1602,City,52,3441,Prepaid,Returning,Agent,1,Change of Plan
+1603,City,26,3914,Prepaid,Returning,App,1,Price Issue
+1604,Budget,17,2726,Pay at Hotel,Returning,App,1,No Show
+1605,City,3,1416,Prepaid,New,Website,0,Not Cancelled
+1606,Resort,0,4444,Pay at Hotel,Returning,App,1,Change of Plan
+1607,Resort,49,2003,Prepaid,Returning,Website,1,Price Issue
+1608,City,0,2559,Prepaid,Returning,App,0,Not Cancelled
+1609,Budget,57,3365,Prepaid,Returning,App,1,Unknown
+1610,Budget,25,3974,Pay at Hotel,New,App,1,Change of Plan
+1611,City,44,3881,Prepaid,Returning,Agent,1,Change of Plan
+1612,City,19,3430,Pay at Hotel,New,Website,1,Better Alternative
+1613,Resort,51,3961,Prepaid,New,Website,1,No Show
+1614,City,22,5121,Prepaid,Returning,Agent,1,Payment Failure
+1615,Budget,9,1469,Pay at Hotel,Returning,Agent,1,Better Alternative
+1616,City,58,5812,Prepaid,New,Agent,1,Price Issue
+1617,Resort,10,3968,Prepaid,Returning,Website,0,Not Cancelled
+1618,Resort,40,2921,Prepaid,Returning,App,1,No Show
+1619,Resort,40,4878,Prepaid,New,Agent,1,Change of Plan
+1620,Resort,4,4951,Pay at Hotel,New,Agent,1,No Show
+1621,Resort,57,1519,Pay at Hotel,Returning,Agent,1,Unknown
+1622,City,0,3400,Prepaid,Returning,App,0,Not Cancelled
+1623,City,16,4398,Prepaid,Returning,App,0,Not Cancelled
+1624,City,21,5469,Pay at Hotel,New,Agent,1,Unknown
+1625,City,33,1466,Prepaid,Returning,App,1,Unknown
+1626,Resort,55,1083,Pay at Hotel,New,Agent,1,Better Alternative
+1627,Budget,44,4703,Prepaid,New,App,1,No Show
+1628,City,40,4365,Pay at Hotel,Returning,Website,1,Change of Plan
+1629,Budget,28,3034,Pay at Hotel,New,Website,1,Better Alternative
+1630,City,3,5393,Pay at Hotel,Returning,App,1,Change of Plan
+1631,City,4,2265,Pay at Hotel,Returning,Website,1,No Show
+1632,Budget,10,929,Prepaid,New,Website,0,Not Cancelled
+1633,Resort,55,5534,Prepaid,Returning,Website,1,No Show
+1634,City,50,2860,Pay at Hotel,New,Agent,1,Price Issue
+1635,City,20,4472,Pay at Hotel,New,App,1,Better Alternative
+1636,City,34,3294,Pay at Hotel,Returning,App,1,Change of Plan
+1637,Budget,11,5881,Pay at Hotel,Returning,App,1,Price Issue
+1638,Resort,25,1792,Prepaid,Returning,Website,1,Payment Failure
+1639,Budget,50,2921,Pay at Hotel,Returning,Agent,1,Change of Plan
+1640,Budget,18,3384,Pay at Hotel,New,App,1,No Show
+1641,Resort,44,4996,Pay at Hotel,New,Website,1,Change of Plan
+1642,Budget,59,3023,Pay at Hotel,New,Agent,1,Payment Failure
+1643,Resort,6,5322,Pay at Hotel,Returning,Agent,1,Change of Plan
+1644,City,46,3988,Pay at Hotel,New,App,1,Price Issue
+1645,Resort,54,4037,Pay at Hotel,New,App,1,Unknown
+1646,City,6,4936,Prepaid,Returning,Website,0,Not Cancelled
+1647,Budget,25,5324,Pay at Hotel,Returning,App,1,Better Alternative
+1648,Budget,39,1143,Pay at Hotel,Returning,Website,1,Payment Failure
+1649,City,4,5261,Pay at Hotel,New,Agent,1,Change of Plan
+1650,Budget,20,5504,Prepaid,Returning,Agent,0,Not Cancelled
+1651,Resort,13,5623,Prepaid,New,Agent,0,Not Cancelled
+1652,City,3,3076,Prepaid,New,Agent,0,Not Cancelled
+1653,Budget,22,5720,Pay at Hotel,New,App,1,Better Alternative
+1654,City,41,4001,Pay at Hotel,New,App,1,No Show
+1655,Resort,19,1688,Pay at Hotel,New,Website,1,Change of Plan
+1656,Resort,14,2843,Prepaid,Returning,Website,0,Not Cancelled
+1657,Budget,49,2141,Pay at Hotel,New,Website,1,Payment Failure
+1658,Resort,51,4520,Prepaid,Returning,Website,1,Unknown
+1659,City,44,3683,Prepaid,New,Website,1,Payment Failure
+1660,Resort,28,5012,Prepaid,New,Agent,1,Unknown
+1661,City,7,3215,Prepaid,Returning,Agent,0,Not Cancelled
+1662,City,40,1917,Prepaid,New,Agent,1,Price Issue
+1663,Resort,47,5063,Pay at Hotel,New,Website,1,Change of Plan
+1664,Budget,18,3801,Pay at Hotel,Returning,Agent,1,No Show
+1665,Resort,47,2538,Prepaid,Returning,Agent,1,Change of Plan
+1666,City,38,2164,Pay at Hotel,New,Agent,1,Better Alternative
+1667,City,45,3508,Pay at Hotel,New,Agent,1,Change of Plan
+1668,Resort,27,5590,Prepaid,New,App,1,Unknown
+1669,Budget,45,1724,Prepaid,Returning,Website,1,Unknown
+1670,Budget,56,951,Pay at Hotel,New,Website,1,Better Alternative
+1671,City,26,1385,Pay at Hotel,Returning,App,1,Payment Failure
+1672,City,3,1712,Pay at Hotel,Returning,Agent,1,Unknown
+1673,Budget,57,3121,Pay at Hotel,New,Agent,1,Better Alternative
+1674,Resort,14,1295,Prepaid,Returning,Agent,0,Not Cancelled
+1675,City,34,4595,Pay at Hotel,New,Website,1,No Show
+1676,City,36,2948,Prepaid,New,Website,1,Unknown
+1677,Budget,0,1356,Prepaid,Returning,Website,0,Not Cancelled
+1678,Resort,2,2352,Pay at Hotel,Returning,Website,1,Better Alternative
+1679,Budget,46,2920,Pay at Hotel,Returning,Website,1,Change of Plan
+1680,Resort,23,3885,Pay at Hotel,Returning,App,1,Better Alternative
+1681,Resort,26,4304,Prepaid,Returning,Website,1,Payment Failure
+1682,Resort,39,956,Prepaid,Returning,Agent,1,Unknown
+1683,City,35,1534,Prepaid,New,Website,1,Better Alternative
+1684,Budget,33,5454,Prepaid,New,App,1,No Show
+1685,Budget,28,4076,Pay at Hotel,New,Agent,1,Better Alternative
+1686,Resort,23,954,Prepaid,Returning,App,1,No Show
+1687,City,23,1796,Prepaid,Returning,Agent,1,Unknown
+1688,City,41,3094,Pay at Hotel,Returning,Website,1,Change of Plan
+1689,Budget,3,5426,Prepaid,New,App,0,Not Cancelled
+1690,City,2,3705,Prepaid,New,Agent,0,Not Cancelled
+1691,City,33,5624,Pay at Hotel,Returning,Website,1,Price Issue
+1692,Resort,56,1977,Prepaid,Returning,Agent,1,Change of Plan
+1693,City,48,953,Prepaid,Returning,App,1,Change of Plan
+1694,Resort,22,4987,Prepaid,Returning,App,1,Price Issue
+1695,Budget,52,2516,Prepaid,New,App,1,Better Alternative
+1696,City,55,4002,Pay at Hotel,New,App,1,Unknown
+1697,Budget,51,3657,Prepaid,New,Website,1,Better Alternative
+1698,Budget,22,1586,Pay at Hotel,Returning,Agent,1,Better Alternative
+1699,City,44,5168,Prepaid,New,Website,1,Unknown
+1700,City,4,5072,Pay at Hotel,Returning,App,1,Payment Failure
+1701,Budget,30,4567,Pay at Hotel,Returning,Agent,1,Change of Plan
+1702,City,52,3678,Pay at Hotel,Returning,App,1,No Show
+1703,Resort,40,1442,Prepaid,New,Website,1,Price Issue
+1704,Resort,56,5462,Prepaid,New,Website,1,Change of Plan
+1705,City,56,1465,Prepaid,Returning,Website,1,Better Alternative
+1706,Budget,59,4226,Pay at Hotel,New,Agent,1,Price Issue
+1707,City,53,4583,Prepaid,Returning,Agent,1,No Show
+1708,City,5,4501,Prepaid,Returning,App,0,Not Cancelled
+1709,Budget,36,1869,Prepaid,Returning,Agent,1,Change of Plan
+1710,Budget,56,3149,Prepaid,New,Agent,1,Payment Failure
+1711,Resort,9,5303,Pay at Hotel,New,Website,1,Change of Plan
+1712,Budget,39,2012,Pay at Hotel,Returning,App,1,Change of Plan
+1713,Resort,6,1952,Prepaid,New,Website,0,Not Cancelled
+1714,Budget,38,3311,Prepaid,New,App,1,No Show
+1715,City,37,943,Prepaid,New,App,1,Price Issue
+1716,Resort,20,3289,Pay at Hotel,New,Agent,1,Better Alternative
+1717,Resort,19,4028,Prepaid,Returning,Website,0,Not Cancelled
+1718,Resort,2,5382,Pay at Hotel,New,Agent,1,Price Issue
+1719,City,50,5755,Pay at Hotel,Returning,Agent,1,Change of Plan
+1720,City,21,4005,Prepaid,Returning,Agent,1,Price Issue
+1721,City,46,5043,Prepaid,New,App,1,Price Issue
+1722,City,3,3942,Prepaid,Returning,Website,0,Not Cancelled
+1723,City,27,4104,Pay at Hotel,Returning,Website,1,Unknown
+1724,Resort,11,2157,Pay at Hotel,New,Agent,1,Price Issue
+1725,City,37,3513,Prepaid,Returning,App,1,No Show
+1726,Resort,50,4985,Pay at Hotel,Returning,Website,1,Unknown
+1727,City,35,2157,Prepaid,New,Website,1,Better Alternative
+1728,Budget,46,5094,Prepaid,New,Agent,1,Price Issue
+1729,Resort,40,5433,Pay at Hotel,New,App,1,Payment Failure
+1730,Budget,4,3992,Pay at Hotel,New,Agent,1,Change of Plan
+1731,Resort,12,1100,Pay at Hotel,New,Website,1,Change of Plan
+1732,Budget,22,1523,Pay at Hotel,Returning,App,1,Unknown
+1733,City,57,3810,Prepaid,Returning,Agent,1,Change of Plan
+1734,City,49,867,Prepaid,New,Website,1,Change of Plan
+1735,City,29,4636,Prepaid,New,Agent,1,Unknown
+1736,Resort,36,4793,Pay at Hotel,Returning,Agent,1,Change of Plan
+1737,Budget,24,3306,Prepaid,New,Agent,1,Price Issue
+1738,City,47,2337,Pay at Hotel,New,App,1,Better Alternative
+1739,Budget,26,1197,Pay at Hotel,Returning,Website,1,Unknown
+1740,Budget,50,5515,Pay at Hotel,Returning,Website,1,Payment Failure
+1741,City,13,4157,Prepaid,Returning,Website,0,Not Cancelled
+1742,City,56,1963,Pay at Hotel,New,Website,1,No Show
+1743,Budget,47,5625,Pay at Hotel,Returning,App,1,Payment Failure
+1744,City,58,1355,Pay at Hotel,New,Agent,1,No Show
+1745,City,46,4461,Pay at Hotel,Returning,Website,1,Unknown
+1746,City,53,2551,Pay at Hotel,New,App,1,No Show
+1747,Resort,35,3741,Pay at Hotel,New,Agent,1,Payment Failure
+1748,Budget,38,3457,Pay at Hotel,New,App,1,Price Issue
+1749,Budget,15,3595,Pay at Hotel,Returning,App,1,Unknown
+1750,Resort,55,3129,Pay at Hotel,Returning,Website,1,Unknown
+1751,Budget,21,5891,Pay at Hotel,Returning,Website,1,Change of Plan
+1752,City,20,2759,Pay at Hotel,New,Agent,1,Unknown
+1753,Budget,53,2401,Pay at Hotel,Returning,Agent,1,Unknown
+1754,City,20,3593,Prepaid,Returning,Website,0,Not Cancelled
+1755,Resort,7,2280,Prepaid,New,App,0,Not Cancelled
+1756,City,48,1902,Pay at Hotel,New,Website,1,Better Alternative
+1757,Budget,15,4076,Pay at Hotel,Returning,Agent,1,No Show
+1758,Budget,58,2099,Pay at Hotel,Returning,App,1,Payment Failure
+1759,Budget,54,5794,Prepaid,Returning,App,1,Better Alternative
+1760,Resort,30,4679,Prepaid,New,App,1,Change of Plan
+1761,Resort,41,2335,Prepaid,Returning,Website,1,Price Issue
+1762,Budget,9,877,Pay at Hotel,New,Website,1,Payment Failure
+1763,City,31,3631,Pay at Hotel,New,Agent,1,No Show
+1764,Resort,58,4210,Pay at Hotel,Returning,App,1,Unknown
+1765,Budget,33,3521,Pay at Hotel,Returning,App,1,Unknown
+1766,Budget,8,4427,Prepaid,New,Website,0,Not Cancelled
+1767,Resort,16,2332,Pay at Hotel,New,Agent,1,No Show
+1768,Resort,10,1037,Prepaid,Returning,Agent,0,Not Cancelled
+1769,Resort,31,2796,Prepaid,Returning,App,1,No Show
+1770,City,9,4227,Pay at Hotel,Returning,Website,1,Price Issue
+1771,City,21,1077,Prepaid,New,App,1,Better Alternative
+1772,Budget,56,3889,Prepaid,New,Website,1,Better Alternative
+1773,Resort,16,1323,Prepaid,Returning,Agent,0,Not Cancelled
+1774,City,3,5075,Prepaid,New,App,0,Not Cancelled
+1775,Resort,47,5018,Pay at Hotel,New,App,1,Price Issue
+1776,Budget,51,3922,Pay at Hotel,Returning,App,1,Payment Failure
+1777,City,46,5990,Prepaid,New,Agent,1,Price Issue
+1778,City,24,5375,Pay at Hotel,Returning,App,1,No Show
+1779,City,58,2597,Prepaid,Returning,Agent,1,Price Issue
+1780,Budget,20,2931,Pay at Hotel,New,Website,1,Change of Plan
+1781,Resort,36,1615,Pay at Hotel,New,Agent,1,Unknown
+1782,City,37,3494,Pay at Hotel,Returning,Website,1,Price Issue
+1783,Budget,48,1242,Pay at Hotel,New,Agent,1,Unknown
+1784,Resort,0,3940,Pay at Hotel,Returning,Agent,1,Price Issue
+1785,Budget,24,942,Prepaid,New,App,1,No Show
+1786,Resort,50,5087,Pay at Hotel,New,Agent,1,Payment Failure
+1787,Budget,35,2210,Prepaid,New,App,1,Payment Failure
+1788,Resort,16,5273,Prepaid,Returning,Website,0,Not Cancelled
+1789,City,40,1334,Pay at Hotel,New,Website,1,No Show
+1790,Resort,23,2516,Prepaid,Returning,App,1,No Show
+1791,Budget,1,4164,Pay at Hotel,Returning,Website,1,No Show
+1792,Budget,39,1832,Prepaid,Returning,Agent,1,Change of Plan
+1793,Resort,14,4142,Prepaid,New,App,0,Not Cancelled
+1794,City,31,2210,Pay at Hotel,Returning,App,1,Price Issue
+1795,City,38,5300,Pay at Hotel,Returning,App,1,No Show
+1796,Resort,58,1972,Pay at Hotel,New,Website,1,No Show
+1797,Resort,5,1688,Pay at Hotel,Returning,Website,1,No Show
+1798,Budget,0,4138,Prepaid,Returning,Agent,0,Not Cancelled
+1799,City,46,5317,Pay at Hotel,New,Agent,1,No Show
+1800,Resort,22,2441,Prepaid,Returning,App,1,Price Issue
+1801,City,57,1271,Prepaid,New,Agent,1,No Show
+1802,Resort,38,3740,Prepaid,Returning,Website,1,Price Issue
+1803,Resort,56,1346,Prepaid,Returning,Agent,1,Change of Plan
+1804,City,16,5526,Prepaid,New,Website,0,Not Cancelled
+1805,Resort,33,4397,Prepaid,Returning,Agent,1,Payment Failure
+1806,Resort,58,5933,Pay at Hotel,Returning,Website,1,Price Issue
+1807,Budget,40,3625,Prepaid,Returning,Website,1,Unknown
+1808,Resort,28,4523,Prepaid,New,Agent,1,Change of Plan
+1809,Resort,8,1163,Prepaid,New,Agent,0,Not Cancelled
+1810,Resort,12,2966,Pay at Hotel,New,Website,1,Better Alternative
+1811,Budget,5,4109,Pay at Hotel,New,App,1,Better Alternative
+1812,City,5,1345,Prepaid,New,Agent,0,Not Cancelled
+1813,Budget,19,4040,Pay at Hotel,Returning,Website,1,Change of Plan
+1814,Budget,51,5529,Prepaid,New,Agent,1,No Show
+1815,City,52,2736,Pay at Hotel,New,Agent,1,Unknown
+1816,Budget,2,1762,Prepaid,New,Agent,0,Not Cancelled
+1817,City,16,3805,Pay at Hotel,Returning,Agent,1,Change of Plan
+1818,Budget,48,4606,Pay at Hotel,Returning,Agent,1,Change of Plan
+1819,City,11,1682,Pay at Hotel,New,App,1,Price Issue
+1820,Resort,47,4640,Prepaid,Returning,App,1,Unknown
+1821,Budget,46,1670,Prepaid,Returning,App,1,Price Issue
+1822,Budget,44,5411,Prepaid,Returning,Website,1,Unknown
+1823,Budget,54,3785,Pay at Hotel,Returning,App,1,Unknown
+1824,Budget,0,1665,Pay at Hotel,New,App,1,Price Issue
+1825,Resort,16,5109,Prepaid,New,Website,0,Not Cancelled
+1826,Budget,2,4003,Pay at Hotel,Returning,App,1,Change of Plan
+1827,Resort,25,3697,Prepaid,Returning,Agent,1,Price Issue
+1828,Resort,14,3044,Prepaid,Returning,App,0,Not Cancelled
+1829,Resort,35,818,Prepaid,Returning,App,1,Better Alternative
+1830,Resort,31,1441,Prepaid,New,App,1,Price Issue
+1831,City,31,3883,Pay at Hotel,Returning,Agent,1,Payment Failure
+1832,City,3,1129,Pay at Hotel,New,Agent,1,Price Issue
+1833,Budget,17,1665,Pay at Hotel,Returning,Agent,1,Price Issue
+1834,City,48,1573,Prepaid,New,Agent,1,Price Issue
+1835,City,18,5287,Pay at Hotel,Returning,Website,1,Unknown
+1836,Budget,42,5532,Prepaid,New,Agent,1,Price Issue
+1837,Budget,51,3154,Prepaid,New,Agent,1,Payment Failure
+1838,Budget,34,4138,Prepaid,New,Agent,1,No Show
+1839,City,39,4318,Prepaid,Returning,Agent,1,Price Issue
+1840,City,13,3742,Prepaid,New,Website,0,Not Cancelled
+1841,Budget,57,5921,Prepaid,Returning,App,1,Payment Failure
+1842,Resort,32,3367,Pay at Hotel,New,App,1,No Show
+1843,Budget,13,2474,Pay at Hotel,New,Agent,1,Unknown
+1844,Resort,33,3483,Pay at Hotel,Returning,Agent,1,Price Issue
+1845,Resort,54,4180,Pay at Hotel,New,Agent,1,No Show
+1846,Budget,3,1539,Prepaid,Returning,App,0,Not Cancelled
+1847,Budget,23,2345,Prepaid,Returning,App,1,Payment Failure
+1848,Budget,58,5364,Pay at Hotel,Returning,Agent,1,Payment Failure
+1849,City,28,3059,Pay at Hotel,Returning,App,1,Unknown
+1850,Resort,18,1935,Pay at Hotel,New,Website,1,Unknown
+1851,City,5,5927,Pay at Hotel,New,Agent,1,Unknown
+1852,City,56,1673,Pay at Hotel,Returning,Agent,1,No Show
+1853,Budget,32,5355,Pay at Hotel,New,Website,1,Price Issue
+1854,City,48,3100,Pay at Hotel,New,Website,1,Change of Plan
+1855,Budget,39,1551,Pay at Hotel,Returning,App,1,Payment Failure
+1856,Resort,18,1653,Prepaid,New,Website,0,Not Cancelled
+1857,Budget,52,4532,Prepaid,Returning,Agent,1,Payment Failure
+1858,City,0,3083,Prepaid,New,App,0,Not Cancelled
+1859,City,4,2129,Prepaid,New,Website,0,Not Cancelled
+1860,Budget,26,1277,Pay at Hotel,Returning,App,1,Price Issue
+1861,Budget,15,3526,Prepaid,New,App,0,Not Cancelled
+1862,City,5,3891,Pay at Hotel,New,App,1,No Show
+1863,Resort,39,5030,Prepaid,Returning,App,1,Unknown
+1864,Resort,12,5305,Pay at Hotel,New,Website,1,Price Issue
+1865,Budget,47,2069,Pay at Hotel,Returning,Agent,1,Price Issue
+1866,Resort,34,4981,Prepaid,New,Agent,1,Better Alternative
+1867,City,18,3403,Prepaid,Returning,Website,0,Not Cancelled
+1868,Budget,11,2269,Pay at Hotel,Returning,Agent,1,Better Alternative
+1869,City,15,1177,Pay at Hotel,Returning,App,1,Price Issue
+1870,City,58,2480,Pay at Hotel,Returning,App,1,Price Issue
+1871,Resort,42,5970,Prepaid,Returning,App,1,No Show
+1872,Budget,9,1041,Prepaid,New,Website,0,Not Cancelled
+1873,Budget,24,1719,Pay at Hotel,New,App,1,Unknown
+1874,Resort,19,869,Prepaid,Returning,App,0,Not Cancelled
+1875,City,30,4724,Pay at Hotel,New,Website,1,Unknown
+1876,City,3,2886,Prepaid,Returning,App,0,Not Cancelled
+1877,City,43,2807,Prepaid,New,App,1,Unknown
+1878,City,22,1600,Prepaid,New,Agent,1,Unknown
+1879,Budget,1,5937,Prepaid,Returning,Website,0,Not Cancelled
+1880,Budget,55,3579,Prepaid,Returning,App,1,Payment Failure
+1881,Resort,21,5720,Pay at Hotel,New,App,1,Price Issue
+1882,Resort,50,1555,Pay at Hotel,New,App,1,Payment Failure
+1883,Budget,56,2795,Prepaid,Returning,App,1,Price Issue
+1884,Budget,36,2121,Pay at Hotel,New,Agent,1,No Show
+1885,City,7,3130,Pay at Hotel,New,Agent,1,Change of Plan
+1886,City,6,909,Prepaid,Returning,Agent,0,Not Cancelled
+1887,Resort,13,1816,Pay at Hotel,New,Agent,1,Payment Failure
+1888,Budget,55,4665,Prepaid,Returning,Website,1,Payment Failure
+1889,Resort,54,824,Pay at Hotel,Returning,App,1,No Show
+1890,Budget,2,5738,Pay at Hotel,Returning,Agent,1,Payment Failure
+1891,City,49,3638,Pay at Hotel,New,App,1,Price Issue
+1892,Resort,15,1537,Pay at Hotel,New,Website,1,Price Issue
+1893,Resort,54,979,Pay at Hotel,Returning,App,1,Change of Plan
+1894,Budget,18,1031,Pay at Hotel,Returning,App,1,Change of Plan
+1895,City,50,2717,Pay at Hotel,New,Agent,1,Change of Plan
+1896,Resort,17,1142,Prepaid,New,Agent,0,Not Cancelled
+1897,City,51,5372,Prepaid,New,Website,1,Unknown
+1898,Resort,15,3423,Prepaid,Returning,App,0,Not Cancelled
+1899,City,7,1254,Prepaid,Returning,Agent,0,Not Cancelled
+1900,Budget,59,5184,Pay at Hotel,New,Agent,1,Change of Plan
+1901,Resort,32,5425,Pay at Hotel,New,Agent,1,Price Issue
+1902,Resort,48,3076,Pay at Hotel,New,Website,1,No Show
+1903,City,11,1395,Prepaid,Returning,App,0,Not Cancelled
+1904,City,52,4674,Prepaid,Returning,Agent,1,Better Alternative
+1905,Resort,10,5330,Prepaid,New,App,0,Not Cancelled
+1906,Budget,4,5777,Pay at Hotel,New,Website,1,Unknown
+1907,City,26,5297,Prepaid,Returning,App,1,Price Issue
+1908,City,11,3469,Pay at Hotel,Returning,Agent,1,Price Issue
+1909,City,16,2935,Prepaid,New,App,0,Not Cancelled
+1910,Resort,5,4764,Pay at Hotel,New,App,1,Better Alternative
+1911,Resort,32,2365,Prepaid,New,Website,1,Change of Plan
+1912,Resort,4,1108,Pay at Hotel,Returning,Website,1,Better Alternative
+1913,Resort,56,1142,Prepaid,New,App,1,Payment Failure
+1914,Budget,27,1235,Prepaid,Returning,App,1,Payment Failure
+1915,Budget,13,976,Pay at Hotel,Returning,App,1,Unknown
+1916,Resort,4,938,Pay at Hotel,New,Website,1,Payment Failure
+1917,Budget,53,993,Prepaid,New,Website,1,Payment Failure
+1918,City,55,4057,Pay at Hotel,Returning,App,1,Payment Failure
+1919,City,58,4035,Prepaid,New,Website,1,Change of Plan
+1920,City,32,1742,Pay at Hotel,Returning,Agent,1,Unknown
+1921,Resort,49,5420,Prepaid,New,Website,1,Price Issue
+1922,City,47,4679,Pay at Hotel,New,Website,1,Unknown
+1923,Budget,40,3913,Prepaid,New,Website,1,Unknown
+1924,Resort,18,3762,Prepaid,New,Agent,0,Not Cancelled
+1925,Budget,21,5636,Prepaid,Returning,Agent,1,Better Alternative
+1926,City,4,5757,Pay at Hotel,Returning,Agent,1,Price Issue
+1927,City,58,1753,Prepaid,Returning,App,1,Better Alternative
+1928,City,1,2102,Pay at Hotel,New,App,1,Change of Plan
+1929,Resort,29,4181,Pay at Hotel,Returning,Agent,1,Change of Plan
+1930,Budget,46,3680,Pay at Hotel,Returning,App,1,No Show
+1931,Resort,38,2987,Prepaid,Returning,App,1,No Show
+1932,Resort,3,5687,Pay at Hotel,New,App,1,Change of Plan
+1933,City,32,1345,Pay at Hotel,Returning,Agent,1,Change of Plan
+1934,Resort,12,5912,Pay at Hotel,New,Website,1,Better Alternative
+1935,Resort,19,2727,Prepaid,New,Agent,0,Not Cancelled
+1936,City,53,4952,Pay at Hotel,Returning,Agent,1,Price Issue
+1937,Resort,6,804,Pay at Hotel,New,App,1,Better Alternative
+1938,City,14,4281,Pay at Hotel,Returning,App,1,Change of Plan
+1939,City,22,4053,Pay at Hotel,Returning,Website,1,Better Alternative
+1940,City,13,2162,Prepaid,Returning,Website,0,Not Cancelled
+1941,City,22,2620,Prepaid,Returning,Website,1,Payment Failure
+1942,Resort,18,3463,Pay at Hotel,Returning,Website,1,No Show
+1943,City,53,3738,Pay at Hotel,New,Agent,1,Better Alternative
+1944,City,28,2073,Pay at Hotel,Returning,Website,1,Unknown
+1945,Resort,55,4126,Pay at Hotel,New,Agent,1,Better Alternative
+1946,Resort,19,4459,Prepaid,Returning,App,0,Not Cancelled
+1947,Budget,28,3745,Prepaid,Returning,Website,1,Payment Failure
+1948,Resort,23,3818,Prepaid,Returning,App,1,Change of Plan
+1949,Resort,17,1931,Prepaid,New,App,0,Not Cancelled
+1950,Budget,9,5563,Pay at Hotel,New,Agent,1,Payment Failure
+1951,Resort,40,3436,Pay at Hotel,New,Website,1,Price Issue
+1952,Resort,56,3829,Prepaid,New,Agent,1,Payment Failure
+1953,Resort,7,3819,Prepaid,Returning,App,0,Not Cancelled
+1954,Resort,25,5892,Pay at Hotel,Returning,Website,1,No Show
+1955,Budget,28,5177,Pay at Hotel,New,App,1,Change of Plan
+1956,Resort,9,3959,Pay at Hotel,New,App,1,Unknown
+1957,Resort,16,5831,Pay at Hotel,New,Website,1,Change of Plan
+1958,Budget,1,1053,Pay at Hotel,Returning,Website,1,Unknown
+1959,City,5,1128,Prepaid,New,Website,0,Not Cancelled
+1960,Budget,57,3391,Prepaid,New,Agent,1,Unknown
+1961,City,4,3630,Pay at Hotel,Returning,Agent,1,Unknown
+1962,Budget,27,3844,Pay at Hotel,New,App,1,No Show
+1963,Budget,40,2220,Prepaid,Returning,Website,1,No Show
+1964,Resort,4,4201,Pay at Hotel,Returning,App,1,Better Alternative
+1965,City,17,3692,Prepaid,Returning,App,0,Not Cancelled
+1966,Resort,25,1454,Prepaid,Returning,App,1,Change of Plan
+1967,City,19,1559,Prepaid,Returning,App,0,Not Cancelled
+1968,Budget,40,2598,Prepaid,New,App,1,Change of Plan
+1969,Budget,48,5959,Pay at Hotel,New,Website,1,Price Issue
+1970,City,26,3771,Pay at Hotel,Returning,Agent,1,No Show
+1971,Resort,48,5311,Prepaid,Returning,Website,1,Change of Plan
+1972,Resort,11,4226,Pay at Hotel,New,Website,1,Unknown
+1973,Resort,6,1054,Pay at Hotel,New,Website,1,Payment Failure
+1974,Resort,58,4623,Pay at Hotel,Returning,Agent,1,Unknown
+1975,Budget,2,2676,Pay at Hotel,New,Agent,1,Better Alternative
+1976,Budget,9,3557,Prepaid,New,Agent,0,Not Cancelled
+1977,Budget,33,3424,Pay at Hotel,Returning,Website,1,Unknown
+1978,Budget,24,5795,Prepaid,New,Agent,1,No Show
+1979,Budget,34,4921,Prepaid,New,App,1,No Show
+1980,Resort,15,3804,Pay at Hotel,New,Agent,1,Price Issue
+1981,Resort,1,5316,Prepaid,New,Website,0,Not Cancelled
+1982,Resort,59,4534,Pay at Hotel,Returning,Website,1,Change of Plan
+1983,Resort,23,2044,Pay at Hotel,New,App,1,Unknown
+1984,Budget,9,1808,Prepaid,Returning,Agent,0,Not Cancelled
+1985,Budget,37,5114,Pay at Hotel,New,Agent,1,Price Issue
+1986,Budget,21,2310,Prepaid,Returning,App,1,Better Alternative
+1987,City,25,2759,Prepaid,Returning,Website,1,Payment Failure
+1988,Resort,42,3308,Pay at Hotel,New,Website,1,Price Issue
+1989,Resort,54,5558,Pay at Hotel,Returning,Agent,1,Change of Plan
+1990,Budget,38,3482,Pay at Hotel,Returning,Agent,1,Better Alternative
+1991,Resort,26,1789,Prepaid,Returning,Agent,1,No Show
+1992,Resort,28,5084,Pay at Hotel,Returning,Agent,1,Price Issue
+1993,Budget,46,1054,Prepaid,Returning,Agent,1,No Show
+1994,City,37,4963,Prepaid,New,Website,1,Better Alternative
+1995,City,19,5511,Pay at Hotel,Returning,Website,1,Price Issue
+1996,City,26,5769,Pay at Hotel,Returning,Website,1,Price Issue
+1997,Budget,40,5252,Pay at Hotel,New,Website,1,Better Alternative
+1998,Resort,53,1055,Prepaid,New,App,1,Change of Plan
+1999,Budget,19,1807,Pay at Hotel,Returning,Website,1,Price Issue
+2000,Budget,43,2555,Prepaid,New,App,1,Better Alternative
+2001,Resort,18,3371,Pay at Hotel,New,Website,1,Payment Failure
+2002,City,19,4708,Pay at Hotel,New,Agent,1,No Show
+2003,City,34,3797,Prepaid,New,Agent,1,Price Issue
+2004,Budget,46,3603,Prepaid,New,Agent,1,Payment Failure
+2005,City,1,4565,Pay at Hotel,New,App,1,Price Issue
+2006,Budget,29,5179,Pay at Hotel,Returning,Website,1,Change of Plan
+2007,Budget,52,4183,Pay at Hotel,Returning,Website,1,Better Alternative
+2008,Resort,33,898,Pay at Hotel,New,App,1,Price Issue
+2009,Resort,21,996,Pay at Hotel,New,App,1,Better Alternative
+2010,Resort,2,3329,Prepaid,Returning,App,0,Not Cancelled
+2011,Budget,5,1677,Prepaid,New,App,0,Not Cancelled
+2012,Resort,14,2668,Prepaid,Returning,App,0,Not Cancelled
+2013,City,26,3465,Prepaid,New,Agent,1,Change of Plan
+2014,City,9,2188,Pay at Hotel,Returning,Website,1,Payment Failure
+2015,Budget,8,3215,Prepaid,Returning,App,0,Not Cancelled
+2016,Budget,32,1369,Prepaid,New,Agent,1,Better Alternative
+2017,Resort,31,3437,Prepaid,New,App,1,Unknown
+2018,Budget,47,1865,Pay at Hotel,New,Agent,1,Change of Plan
+2019,Budget,5,1221,Prepaid,New,App,0,Not Cancelled
+2020,City,40,3683,Pay at Hotel,Returning,Website,1,Change of Plan
+2021,City,58,2004,Prepaid,New,App,1,Unknown
+2022,Resort,35,1344,Pay at Hotel,Returning,App,1,Better Alternative
+2023,Budget,58,4966,Prepaid,New,Website,1,Price Issue
+2024,Budget,59,4439,Pay at Hotel,Returning,Website,1,Payment Failure
+2025,City,1,2023,Prepaid,New,App,0,Not Cancelled
+2026,Budget,28,3972,Pay at Hotel,New,Website,1,Payment Failure
+2027,City,3,1567,Pay at Hotel,Returning,Website,1,Price Issue
+2028,Resort,0,4457,Prepaid,New,Agent,0,Not Cancelled
+2029,City,18,1454,Pay at Hotel,New,Website,1,Change of Plan
+2030,Budget,25,3246,Pay at Hotel,New,Website,1,Price Issue
+2031,Resort,24,1020,Prepaid,New,App,1,Price Issue
+2032,City,9,4466,Prepaid,New,App,0,Not Cancelled
+2033,City,52,5077,Pay at Hotel,Returning,Agent,1,No Show
+2034,Resort,14,5202,Prepaid,New,App,0,Not Cancelled
+2035,Resort,58,3369,Prepaid,Returning,Website,1,No Show
+2036,City,21,1813,Prepaid,New,Website,1,No Show
+2037,Budget,50,2851,Pay at Hotel,New,Website,1,No Show
+2038,City,47,4785,Pay at Hotel,Returning,App,1,Better Alternative
+2039,Resort,20,5743,Pay at Hotel,Returning,Website,1,No Show
+2040,City,58,5699,Pay at Hotel,Returning,Website,1,Payment Failure
+2041,Resort,55,5110,Pay at Hotel,Returning,Agent,1,Price Issue
+2042,Resort,21,3819,Pay at Hotel,Returning,Agent,1,Price Issue
+2043,Budget,35,4481,Pay at Hotel,New,Agent,1,Change of Plan
+2044,Resort,33,2243,Prepaid,Returning,App,1,Unknown
+2045,Resort,29,4996,Pay at Hotel,Returning,Website,1,Payment Failure
+2046,Budget,24,3810,Pay at Hotel,New,Website,1,Better Alternative
+2047,Resort,44,1372,Prepaid,New,Website,1,Unknown
+2048,Budget,27,2132,Prepaid,Returning,Agent,1,Price Issue
+2049,Budget,0,5553,Prepaid,Returning,Website,0,Not Cancelled
+2050,Resort,48,4802,Pay at Hotel,Returning,Website,1,Change of Plan
+2051,Resort,44,3934,Prepaid,New,Website,1,Change of Plan
+2052,City,3,4886,Pay at Hotel,Returning,Website,1,Price Issue
+2053,Budget,6,1025,Pay at Hotel,New,Website,1,Payment Failure
+2054,City,48,5000,Pay at Hotel,New,App,1,Unknown
+2055,Resort,8,2797,Prepaid,New,Website,0,Not Cancelled
+2056,City,35,1571,Prepaid,New,App,1,Price Issue
+2057,Budget,18,5324,Pay at Hotel,Returning,Website,1,Payment Failure
+2058,City,0,1233,Pay at Hotel,New,App,1,Price Issue
+2059,Budget,9,3899,Pay at Hotel,New,Website,1,Price Issue
+2060,Resort,35,3529,Prepaid,Returning,Website,1,Payment Failure
+2061,Resort,8,4207,Pay at Hotel,New,Website,1,Payment Failure
+2062,Budget,44,3940,Prepaid,Returning,Website,1,Payment Failure
+2063,Resort,45,1665,Pay at Hotel,New,Agent,1,Price Issue
+2064,Resort,41,3593,Prepaid,Returning,Website,1,Change of Plan
+2065,Resort,31,3711,Pay at Hotel,New,App,1,Better Alternative
+2066,Resort,31,3215,Prepaid,New,Agent,1,Better Alternative
+2067,Budget,5,1050,Prepaid,Returning,Agent,0,Not Cancelled
+2068,City,47,5751,Prepaid,New,Website,1,Price Issue
+2069,City,37,4557,Prepaid,New,App,1,Change of Plan
+2070,Resort,16,5456,Prepaid,Returning,App,0,Not Cancelled
+2071,City,9,1718,Prepaid,New,Agent,0,Not Cancelled
+2072,City,49,1973,Pay at Hotel,New,App,1,No Show
+2073,Resort,26,4003,Pay at Hotel,Returning,Website,1,Payment Failure
+2074,Resort,53,1232,Pay at Hotel,Returning,Website,1,Price Issue
+2075,City,49,5864,Pay at Hotel,Returning,Website,1,No Show
+2076,Budget,34,1635,Prepaid,Returning,Website,1,Unknown
+2077,Resort,51,3046,Pay at Hotel,Returning,Website,1,Change of Plan
+2078,Budget,58,3062,Prepaid,New,Agent,1,No Show
+2079,City,20,1697,Prepaid,Returning,Website,0,Not Cancelled
+2080,Resort,24,4432,Prepaid,New,Website,1,Better Alternative
+2081,Budget,27,5367,Pay at Hotel,Returning,Agent,1,Price Issue
+2082,Resort,46,4615,Prepaid,New,Agent,1,Better Alternative
+2083,City,14,1046,Pay at Hotel,New,Agent,1,Change of Plan
+2084,Budget,3,3229,Pay at Hotel,Returning,App,1,Change of Plan
+2085,City,28,1790,Pay at Hotel,New,App,1,Payment Failure
+2086,City,58,4110,Pay at Hotel,New,Website,1,Payment Failure
+2087,Resort,8,1726,Pay at Hotel,Returning,Website,1,Better Alternative
+2088,Budget,26,4238,Prepaid,Returning,Website,1,Better Alternative
+2089,City,25,3407,Prepaid,Returning,App,1,Change of Plan
+2090,City,18,1874,Pay at Hotel,Returning,Website,1,No Show
+2091,Budget,55,4822,Prepaid,New,Website,1,Better Alternative
+2092,City,27,4599,Pay at Hotel,New,App,1,Better Alternative
+2093,City,16,5584,Prepaid,New,Agent,0,Not Cancelled
+2094,Budget,42,3951,Prepaid,New,App,1,Payment Failure
+2095,Budget,56,4238,Prepaid,New,Website,1,Payment Failure
+2096,Budget,40,5855,Prepaid,New,App,1,Better Alternative
+2097,Budget,41,5373,Prepaid,Returning,Agent,1,Payment Failure
+2098,Resort,49,4291,Prepaid,New,Agent,1,Payment Failure
+2099,Budget,19,1506,Prepaid,New,Agent,0,Not Cancelled
+2100,Resort,44,3864,Prepaid,New,Agent,1,Payment Failure
+2101,Resort,39,1553,Prepaid,Returning,Agent,1,Change of Plan
+2102,Resort,38,1387,Prepaid,Returning,Agent,1,Price Issue
+2103,City,48,2134,Prepaid,Returning,Website,1,Better Alternative
+2104,Resort,52,2647,Prepaid,Returning,Website,1,Better Alternative
+2105,Resort,22,4734,Prepaid,New,App,1,Change of Plan
+2106,City,46,4726,Pay at Hotel,New,Website,1,Price Issue
+2107,City,31,4117,Prepaid,New,Agent,1,Price Issue
+2108,City,51,4820,Prepaid,Returning,Website,1,Change of Plan
+2109,Budget,46,3955,Prepaid,New,App,1,No Show
+2110,City,32,5102,Prepaid,New,Agent,1,No Show
+2111,City,56,2998,Prepaid,New,Website,1,Price Issue
+2112,Resort,45,964,Prepaid,Returning,Website,1,No Show
+2113,City,4,2798,Pay at Hotel,Returning,App,1,No Show
+2114,Budget,42,3857,Pay at Hotel,Returning,Agent,1,No Show
+2115,City,47,2884,Pay at Hotel,New,App,1,Price Issue
+2116,Budget,33,5228,Prepaid,New,Agent,1,No Show
+2117,City,39,1202,Prepaid,New,Agent,1,Better Alternative
+2118,City,10,1213,Prepaid,New,Website,0,Not Cancelled
+2119,City,49,844,Pay at Hotel,Returning,App,1,Price Issue
+2120,City,2,4957,Prepaid,New,App,0,Not Cancelled
+2121,Budget,57,3267,Prepaid,Returning,App,1,No Show
+2122,Budget,32,1667,Pay at Hotel,New,Agent,1,Payment Failure
+2123,Resort,10,818,Pay at Hotel,Returning,App,1,Price Issue
+2124,Budget,15,1164,Prepaid,New,Agent,0,Not Cancelled
+2125,City,17,4632,Prepaid,New,App,0,Not Cancelled
+2126,Resort,29,1379,Prepaid,Returning,App,1,Better Alternative
+2127,Resort,47,1345,Prepaid,Returning,Website,1,Change of Plan
+2128,Resort,54,4950,Pay at Hotel,New,App,1,No Show
+2129,City,9,5673,Prepaid,New,Website,0,Not Cancelled
+2130,Budget,17,3839,Prepaid,New,Website,0,Not Cancelled
+2131,City,37,4937,Pay at Hotel,Returning,Agent,1,Change of Plan
+2132,Resort,18,4844,Prepaid,New,App,0,Not Cancelled
+2133,City,35,5126,Prepaid,Returning,App,1,Payment Failure
+2134,City,58,1252,Pay at Hotel,New,App,1,Payment Failure
+2135,Budget,12,4761,Pay at Hotel,New,Website,1,Change of Plan
+2136,Budget,55,2181,Prepaid,New,App,1,Unknown
+2137,Resort,45,2267,Pay at Hotel,New,Agent,1,Unknown
+2138,City,2,3538,Pay at Hotel,Returning,Agent,1,No Show
+2139,City,9,2016,Prepaid,Returning,App,0,Not Cancelled
+2140,Budget,37,1680,Pay at Hotel,New,Website,1,Payment Failure
+2141,City,0,4614,Prepaid,New,Agent,0,Not Cancelled
+2142,City,54,3949,Prepaid,New,Agent,1,Payment Failure
+2143,City,55,884,Prepaid,Returning,Website,1,No Show
+2144,Budget,26,5949,Prepaid,New,Agent,1,Price Issue
+2145,Resort,45,4944,Pay at Hotel,Returning,Website,1,Price Issue
+2146,Resort,7,1968,Prepaid,Returning,Agent,0,Not Cancelled
+2147,City,50,4964,Prepaid,Returning,Website,1,Payment Failure
+2148,Resort,45,3929,Prepaid,Returning,Agent,1,Price Issue
+2149,Budget,41,4445,Prepaid,New,App,1,Payment Failure
+2150,Budget,16,3326,Pay at Hotel,New,Agent,1,No Show
+2151,Resort,8,3667,Pay at Hotel,Returning,Agent,1,Change of Plan
+2152,Resort,5,4316,Pay at Hotel,New,App,1,Payment Failure
+2153,City,42,4167,Prepaid,New,App,1,Change of Plan
+2154,Resort,24,2994,Pay at Hotel,New,App,1,Payment Failure
+2155,City,38,4355,Pay at Hotel,Returning,App,1,Unknown
+2156,City,48,5911,Prepaid,New,Website,1,Unknown
+2157,Budget,59,1245,Pay at Hotel,New,Website,1,Payment Failure
+2158,Budget,27,4426,Prepaid,New,Agent,1,No Show
+2159,Budget,32,4816,Pay at Hotel,New,Agent,1,Change of Plan
+2160,Budget,53,4675,Pay at Hotel,New,Agent,1,Better Alternative
+2161,Resort,36,4137,Pay at Hotel,New,Website,1,Payment Failure
+2162,Budget,8,1061,Pay at Hotel,New,Agent,1,Payment Failure
+2163,Resort,17,2648,Prepaid,New,Agent,0,Not Cancelled
+2164,Budget,55,5792,Prepaid,New,Website,1,Price Issue
+2165,Resort,58,5990,Pay at Hotel,New,Agent,1,Unknown
+2166,City,20,4825,Prepaid,Returning,Website,0,Not Cancelled
+2167,Resort,1,3066,Pay at Hotel,New,Website,1,Unknown
+2168,Resort,57,891,Pay at Hotel,Returning,App,1,Better Alternative
+2169,Budget,42,5022,Pay at Hotel,New,App,1,No Show
+2170,Resort,58,4975,Pay at Hotel,Returning,Website,1,Better Alternative
+2171,City,59,4109,Pay at Hotel,Returning,Website,1,No Show
+2172,City,37,1782,Pay at Hotel,New,App,1,Better Alternative
+2173,Budget,57,4243,Prepaid,Returning,Agent,1,Unknown
+2174,City,39,5811,Prepaid,Returning,Agent,1,Better Alternative
+2175,Resort,35,3333,Pay at Hotel,Returning,Agent,1,Unknown
+2176,City,49,1493,Prepaid,New,Website,1,Unknown
+2177,Budget,59,4920,Pay at Hotel,Returning,App,1,Change of Plan
+2178,Resort,42,955,Prepaid,Returning,Agent,1,Unknown
+2179,Budget,36,4388,Prepaid,New,App,1,Price Issue
+2180,Resort,14,2612,Prepaid,Returning,App,0,Not Cancelled
+2181,City,27,5976,Pay at Hotel,Returning,Website,1,Payment Failure
+2182,Budget,17,4914,Prepaid,Returning,Agent,0,Not Cancelled
+2183,Budget,33,2207,Pay at Hotel,New,App,1,Payment Failure
+2184,Resort,21,2016,Pay at Hotel,Returning,Website,1,Price Issue
+2185,Budget,10,2210,Pay at Hotel,New,Website,1,Unknown
+2186,Resort,57,4297,Prepaid,Returning,Website,1,Better Alternative
+2187,Resort,56,5172,Prepaid,Returning,Agent,1,No Show
+2188,Resort,12,5640,Prepaid,Returning,Agent,0,Not Cancelled
+2189,Resort,3,1351,Pay at Hotel,Returning,Website,1,Change of Plan
+2190,City,21,4194,Pay at Hotel,New,Agent,1,Price Issue
+2191,Resort,6,1976,Prepaid,Returning,Agent,0,Not Cancelled
+2192,Budget,42,5534,Pay at Hotel,New,App,1,Unknown
+2193,City,53,5132,Prepaid,Returning,Website,1,Payment Failure
+2194,Budget,23,1797,Prepaid,New,Website,1,Price Issue
+2195,City,3,4876,Prepaid,Returning,Agent,0,Not Cancelled
+2196,Resort,27,3531,Prepaid,Returning,Website,1,Better Alternative
+2197,City,14,4737,Pay at Hotel,New,Website,1,Unknown
+2198,City,0,4852,Prepaid,New,Website,0,Not Cancelled
+2199,Budget,54,1172,Prepaid,New,Agent,1,Unknown
+2200,Budget,2,3048,Prepaid,New,Agent,0,Not Cancelled
+2201,Resort,13,1648,Prepaid,Returning,Agent,0,Not Cancelled
+2202,City,37,3356,Prepaid,New,App,1,Payment Failure
+2203,City,49,3122,Prepaid,New,Website,1,Payment Failure
+2204,City,56,1303,Prepaid,New,App,1,Better Alternative
+2205,Resort,0,3989,Pay at Hotel,Returning,Agent,1,Unknown
+2206,Resort,37,1502,Pay at Hotel,Returning,App,1,Change of Plan
+2207,Resort,37,4425,Pay at Hotel,Returning,Website,1,Better Alternative
+2208,Resort,20,1114,Pay at Hotel,Returning,Website,1,Change of Plan
+2209,Resort,47,3176,Prepaid,New,Agent,1,Price Issue
+2210,Budget,28,1840,Pay at Hotel,Returning,Agent,1,No Show
+2211,City,4,5178,Pay at Hotel,New,App,1,No Show
+2212,City,48,3790,Pay at Hotel,Returning,Agent,1,Change of Plan
+2213,City,9,1057,Prepaid,New,App,0,Not Cancelled
+2214,City,27,1374,Pay at Hotel,New,Website,1,Payment Failure
+2215,City,20,5469,Pay at Hotel,New,Website,1,Unknown
+2216,City,49,5938,Prepaid,New,Website,1,Change of Plan
+2217,City,6,2352,Pay at Hotel,New,Website,1,Change of Plan
+2218,City,2,5318,Prepaid,Returning,Website,0,Not Cancelled
+2219,Budget,44,1557,Pay at Hotel,New,App,1,Payment Failure
+2220,City,46,3610,Prepaid,New,Website,1,Change of Plan
+2221,Budget,19,1904,Pay at Hotel,New,App,1,Price Issue
+2222,Resort,18,5324,Pay at Hotel,New,Website,1,Payment Failure
+2223,City,34,4259,Pay at Hotel,Returning,App,1,Price Issue
+2224,Resort,3,4792,Prepaid,Returning,App,0,Not Cancelled
+2225,Resort,4,1003,Pay at Hotel,New,App,1,Unknown
+2226,Resort,0,3575,Prepaid,New,Agent,0,Not Cancelled
+2227,Budget,3,3132,Prepaid,New,App,0,Not Cancelled
+2228,Resort,11,2792,Prepaid,New,App,0,Not Cancelled
+2229,Resort,59,3043,Prepaid,Returning,Website,1,Better Alternative
+2230,Resort,26,1106,Pay at Hotel,Returning,App,1,Unknown
+2231,City,55,2487,Pay at Hotel,New,App,1,Payment Failure
+2232,City,41,4909,Pay at Hotel,New,Agent,1,No Show
+2233,Budget,22,2660,Prepaid,New,Website,1,Change of Plan
+2234,Budget,24,2761,Pay at Hotel,New,Agent,1,Unknown
+2235,City,20,5976,Prepaid,New,Agent,0,Not Cancelled
+2236,Budget,57,1522,Prepaid,Returning,Agent,1,Better Alternative
+2237,City,51,1579,Prepaid,Returning,App,1,No Show
+2238,Resort,23,1328,Pay at Hotel,New,Agent,1,Unknown
+2239,Resort,24,5693,Pay at Hotel,Returning,Agent,1,No Show
+2240,Budget,44,1143,Prepaid,Returning,Website,1,Unknown
+2241,City,54,4586,Pay at Hotel,Returning,Website,1,Better Alternative
+2242,City,45,4482,Pay at Hotel,New,Website,1,Change of Plan
+2243,Budget,31,1008,Prepaid,Returning,Website,1,Better Alternative
+2244,City,54,5536,Prepaid,Returning,Agent,1,Unknown
+2245,Resort,31,4206,Pay at Hotel,New,Website,1,No Show
+2246,Budget,4,2111,Prepaid,Returning,App,0,Not Cancelled
+2247,Budget,35,3099,Prepaid,New,Agent,1,Better Alternative
+2248,City,45,4136,Pay at Hotel,Returning,Website,1,No Show
+2249,Budget,41,2747,Pay at Hotel,New,Agent,1,Better Alternative
+2250,City,48,1719,Prepaid,New,Website,1,Unknown
+2251,City,41,2844,Pay at Hotel,Returning,Agent,1,No Show
+2252,City,57,1218,Prepaid,Returning,Website,1,Change of Plan
+2253,City,38,2549,Prepaid,New,App,1,No Show
+2254,City,15,3642,Pay at Hotel,New,Website,1,Payment Failure
+2255,Budget,32,1899,Prepaid,Returning,Agent,1,Price Issue
+2256,Resort,48,4192,Prepaid,Returning,Agent,1,Unknown
+2257,Resort,20,3572,Prepaid,Returning,App,0,Not Cancelled
+2258,Budget,8,3280,Pay at Hotel,Returning,Agent,1,Unknown
+2259,Budget,5,2345,Pay at Hotel,New,App,1,Better Alternative
+2260,Resort,50,1870,Pay at Hotel,New,Agent,1,Better Alternative
+2261,Resort,44,2650,Prepaid,New,Agent,1,No Show
+2262,Resort,34,5853,Prepaid,Returning,App,1,Payment Failure
+2263,Resort,38,4998,Pay at Hotel,Returning,Agent,1,No Show
+2264,Resort,21,3739,Pay at Hotel,New,Agent,1,Change of Plan
+2265,City,40,2703,Pay at Hotel,New,App,1,Payment Failure
+2266,Budget,53,1478,Prepaid,New,Website,1,Unknown
+2267,City,4,1788,Pay at Hotel,New,App,1,No Show
+2268,Resort,41,3275,Prepaid,New,Agent,1,Unknown
+2269,Resort,22,2407,Pay at Hotel,New,Website,1,Price Issue
+2270,Resort,16,3669,Prepaid,Returning,Website,0,Not Cancelled
+2271,City,11,2302,Prepaid,New,Website,0,Not Cancelled
+2272,City,22,2589,Pay at Hotel,New,App,1,Price Issue
+2273,Resort,15,5827,Prepaid,New,Website,0,Not Cancelled
+2274,City,2,2225,Pay at Hotel,New,Website,1,Change of Plan
+2275,City,29,5957,Prepaid,New,Website,1,Better Alternative
+2276,Resort,56,3240,Prepaid,New,Agent,1,Unknown
+2277,City,21,2842,Pay at Hotel,New,App,1,No Show
+2278,Budget,8,2078,Prepaid,Returning,App,0,Not Cancelled
+2279,Budget,28,3394,Pay at Hotel,New,Agent,1,No Show
+2280,Budget,46,5489,Pay at Hotel,Returning,Website,1,No Show
+2281,Budget,36,3236,Pay at Hotel,Returning,Agent,1,No Show
+2282,Resort,22,4603,Prepaid,Returning,Agent,1,No Show
+2283,Resort,12,3005,Prepaid,New,Website,0,Not Cancelled
+2284,Resort,31,1827,Prepaid,New,Website,1,Payment Failure
+2285,Budget,45,4339,Pay at Hotel,New,App,1,No Show
+2286,Budget,51,5855,Pay at Hotel,New,Website,1,Better Alternative
+2287,City,46,4283,Prepaid,New,Agent,1,No Show
+2288,City,47,3041,Prepaid,New,Agent,1,Unknown
+2289,Budget,22,3565,Pay at Hotel,New,Website,1,Unknown
+2290,Budget,44,1973,Prepaid,New,App,1,Payment Failure
+2291,Budget,16,4030,Pay at Hotel,New,Agent,1,Unknown
+2292,Budget,54,4150,Prepaid,New,Website,1,Unknown
+2293,City,39,5711,Pay at Hotel,Returning,App,1,Change of Plan
+2294,Budget,20,1203,Prepaid,New,App,0,Not Cancelled
+2295,City,1,5788,Prepaid,New,Agent,0,Not Cancelled
+2296,Budget,36,3525,Pay at Hotel,New,Agent,1,No Show
+2297,Budget,5,4182,Pay at Hotel,Returning,App,1,No Show
+2298,Budget,43,4963,Pay at Hotel,New,App,1,Price Issue
+2299,City,17,887,Prepaid,New,App,0,Not Cancelled
+2300,City,29,1958,Pay at Hotel,Returning,Website,1,Payment Failure
+2301,Resort,21,5073,Pay at Hotel,New,Agent,1,Payment Failure
+2302,Budget,53,3657,Prepaid,Returning,App,1,Price Issue
+2303,Resort,32,2181,Pay at Hotel,Returning,Agent,1,No Show
+2304,Resort,29,5803,Pay at Hotel,Returning,Agent,1,Better Alternative
+2305,City,16,5481,Pay at Hotel,Returning,Agent,1,No Show
+2306,City,42,5885,Prepaid,New,App,1,Payment Failure
+2307,Resort,31,2864,Prepaid,Returning,Website,1,Change of Plan
+2308,Budget,41,3174,Prepaid,Returning,App,1,Unknown
+2309,City,50,1117,Pay at Hotel,New,Agent,1,Change of Plan
+2310,Budget,13,2302,Prepaid,New,App,0,Not Cancelled
+2311,Budget,57,2842,Pay at Hotel,New,App,1,No Show
+2312,Resort,9,5398,Pay at Hotel,Returning,Agent,1,Price Issue
+2313,Resort,46,2822,Pay at Hotel,New,Agent,1,No Show
+2314,Resort,59,918,Prepaid,Returning,App,1,Better Alternative
+2315,Resort,50,1509,Prepaid,Returning,App,1,Better Alternative
+2316,City,35,4357,Pay at Hotel,New,App,1,Unknown
+2317,City,33,4940,Pay at Hotel,New,App,1,Better Alternative
+2318,Resort,8,5209,Prepaid,New,Website,0,Not Cancelled
+2319,City,41,4050,Prepaid,New,App,1,Unknown
+2320,Resort,27,1217,Prepaid,New,Website,1,No Show
+2321,Budget,10,3403,Pay at Hotel,New,Agent,1,No Show
+2322,Budget,13,4654,Prepaid,Returning,Website,0,Not Cancelled
+2323,Budget,38,1901,Prepaid,Returning,Agent,1,Better Alternative
+2324,Resort,54,5221,Prepaid,New,Website,1,Better Alternative
+2325,Budget,46,4228,Pay at Hotel,Returning,Agent,1,Payment Failure
+2326,City,53,3061,Prepaid,Returning,App,1,Unknown
+2327,Budget,18,4969,Pay at Hotel,Returning,Website,1,Payment Failure
+2328,Budget,53,4434,Pay at Hotel,Returning,Website,1,Unknown
+2329,Budget,14,1308,Pay at Hotel,Returning,Agent,1,Change of Plan
+2330,City,27,3179,Prepaid,Returning,Agent,1,Unknown
+2331,Resort,23,3964,Prepaid,New,Website,1,No Show
+2332,City,7,1487,Prepaid,New,Agent,0,Not Cancelled
+2333,Resort,42,5552,Pay at Hotel,New,App,1,Unknown
+2334,Resort,8,2092,Prepaid,Returning,Website,0,Not Cancelled
+2335,Budget,46,4705,Pay at Hotel,New,App,1,Unknown
+2336,Resort,32,3875,Prepaid,New,Website,1,Price Issue
+2337,City,32,4009,Prepaid,New,App,1,Better Alternative
+2338,City,18,5971,Prepaid,Returning,Website,0,Not Cancelled
+2339,Resort,2,1124,Prepaid,New,Agent,0,Not Cancelled
+2340,Budget,9,5887,Pay at Hotel,Returning,Website,1,No Show
+2341,Budget,39,2793,Pay at Hotel,New,App,1,Price Issue
+2342,City,46,4776,Pay at Hotel,New,Website,1,Better Alternative
+2343,Budget,41,5612,Pay at Hotel,New,App,1,No Show
+2344,Resort,0,3570,Prepaid,Returning,App,0,Not Cancelled
+2345,Resort,28,5172,Pay at Hotel,Returning,App,1,Better Alternative
+2346,City,49,3383,Pay at Hotel,Returning,Agent,1,Better Alternative
+2347,Resort,33,4357,Pay at Hotel,Returning,Website,1,Change of Plan
+2348,City,50,4387,Prepaid,Returning,App,1,No Show
+2349,Resort,12,951,Pay at Hotel,New,Agent,1,Better Alternative
+2350,City,53,1754,Pay at Hotel,New,App,1,No Show
+2351,Budget,0,5154,Prepaid,Returning,Website,0,Not Cancelled
+2352,Resort,33,3171,Prepaid,Returning,Agent,1,Payment Failure
+2353,Resort,28,5764,Pay at Hotel,New,App,1,Payment Failure
+2354,City,47,1991,Pay at Hotel,Returning,App,1,Unknown
+2355,City,46,1487,Prepaid,New,App,1,Better Alternative
+2356,Resort,12,1109,Pay at Hotel,Returning,Website,1,Better Alternative
+2357,City,47,2302,Prepaid,New,Agent,1,No Show
+2358,Resort,48,3927,Pay at Hotel,Returning,Agent,1,Unknown
+2359,Budget,52,5368,Pay at Hotel,Returning,Agent,1,Better Alternative
+2360,City,28,4167,Pay at Hotel,New,App,1,No Show
+2361,Resort,38,4195,Pay at Hotel,New,Agent,1,Better Alternative
+2362,Budget,23,1613,Pay at Hotel,Returning,App,1,No Show
+2363,Budget,25,1645,Prepaid,Returning,Website,1,Better Alternative
+2364,Resort,16,1964,Prepaid,New,Agent,0,Not Cancelled
+2365,City,6,5562,Pay at Hotel,Returning,App,1,No Show
+2366,Resort,12,2567,Pay at Hotel,New,Agent,1,Change of Plan
+2367,Budget,4,1154,Pay at Hotel,New,Agent,1,Change of Plan
+2368,Resort,25,2672,Prepaid,Returning,Website,1,Change of Plan
+2369,City,48,2824,Prepaid,New,Agent,1,Change of Plan
+2370,Budget,2,3617,Prepaid,New,Website,0,Not Cancelled
+2371,Resort,6,4632,Prepaid,Returning,Agent,0,Not Cancelled
+2372,City,57,5075,Prepaid,New,Agent,1,Payment Failure
+2373,Budget,48,865,Prepaid,New,Agent,1,Price Issue
+2374,City,38,5715,Prepaid,New,Agent,1,Better Alternative
+2375,Budget,52,5066,Prepaid,New,Agent,1,Better Alternative
+2376,Resort,0,4890,Pay at Hotel,Returning,Agent,1,Unknown
+2377,City,48,3321,Prepaid,New,Website,1,Payment Failure
+2378,Budget,16,3381,Prepaid,Returning,Website,0,Not Cancelled
+2379,City,42,2190,Prepaid,New,App,1,Payment Failure
+2380,City,24,1930,Prepaid,Returning,Agent,1,Change of Plan
+2381,Resort,58,3286,Pay at Hotel,New,Website,1,Price Issue
+2382,City,2,1634,Prepaid,Returning,Agent,0,Not Cancelled
+2383,Budget,14,1026,Pay at Hotel,New,Agent,1,Price Issue
+2384,Budget,28,4315,Pay at Hotel,New,Website,1,Price Issue
+2385,Budget,52,5337,Pay at Hotel,New,Agent,1,Price Issue
+2386,Budget,42,3243,Prepaid,New,Website,1,Payment Failure
+2387,Resort,31,1527,Prepaid,Returning,Website,1,Unknown
+2388,City,25,4486,Prepaid,Returning,App,1,Unknown
+2389,Resort,59,4422,Pay at Hotel,New,App,1,Payment Failure
+2390,City,15,1836,Pay at Hotel,Returning,App,1,Better Alternative
+2391,City,24,2632,Pay at Hotel,New,App,1,Better Alternative
+2392,City,53,3540,Pay at Hotel,New,Agent,1,Better Alternative
+2393,Resort,27,1292,Prepaid,Returning,Agent,1,Unknown
+2394,City,8,2348,Prepaid,Returning,App,0,Not Cancelled
+2395,Resort,55,1943,Prepaid,Returning,Website,1,Price Issue
+2396,Budget,55,5865,Pay at Hotel,New,Website,1,Payment Failure
+2397,Budget,0,4757,Pay at Hotel,New,Website,1,Change of Plan
+2398,City,28,4207,Prepaid,Returning,Website,1,Price Issue
+2399,Resort,56,1439,Prepaid,New,Agent,1,No Show
+2400,Budget,21,972,Pay at Hotel,Returning,Website,1,Unknown
+2401,Resort,15,5154,Prepaid,Returning,Website,0,Not Cancelled
+2402,Resort,40,4759,Prepaid,Returning,App,1,Payment Failure
+2403,City,50,1316,Pay at Hotel,Returning,Website,1,No Show
+2404,Budget,43,1322,Pay at Hotel,Returning,Agent,1,Price Issue
+2405,City,50,2717,Pay at Hotel,Returning,Website,1,Payment Failure
+2406,City,53,3686,Prepaid,New,Website,1,Payment Failure
+2407,Budget,40,2964,Pay at Hotel,New,Agent,1,Unknown
+2408,Budget,6,2729,Prepaid,Returning,App,0,Not Cancelled
+2409,Resort,13,4745,Prepaid,Returning,Agent,0,Not Cancelled
+2410,Budget,28,3009,Pay at Hotel,Returning,App,1,Payment Failure
+2411,Resort,18,4583,Prepaid,New,Website,0,Not Cancelled
+2412,Resort,18,3390,Pay at Hotel,Returning,App,1,Payment Failure
+2413,Resort,1,5734,Pay at Hotel,Returning,App,1,Change of Plan
+2414,Budget,40,4876,Prepaid,Returning,App,1,Payment Failure
+2415,City,44,5985,Prepaid,New,Website,1,Unknown
+2416,Resort,14,1893,Pay at Hotel,Returning,App,1,Price Issue
+2417,City,2,4680,Pay at Hotel,New,App,1,Unknown
+2418,City,10,3294,Pay at Hotel,New,Website,1,Price Issue
+2419,Budget,52,3379,Pay at Hotel,Returning,Agent,1,No Show
+2420,City,45,3288,Pay at Hotel,New,Agent,1,Price Issue
+2421,City,29,3585,Pay at Hotel,New,Agent,1,No Show
+2422,Budget,56,3558,Prepaid,New,Website,1,Unknown
+2423,Resort,39,2374,Prepaid,Returning,Website,1,Better Alternative
+2424,City,17,3173,Prepaid,New,Agent,0,Not Cancelled
+2425,Budget,50,4790,Prepaid,Returning,App,1,Better Alternative
+2426,City,47,5645,Pay at Hotel,Returning,Agent,1,No Show
+2427,City,1,1893,Prepaid,Returning,Website,0,Not Cancelled
+2428,Resort,31,1989,Prepaid,New,App,1,Payment Failure
+2429,City,7,3489,Pay at Hotel,Returning,App,1,Better Alternative
+2430,Budget,21,4895,Prepaid,New,Website,1,Payment Failure
+2431,City,5,2675,Pay at Hotel,New,App,1,No Show
+2432,Resort,11,4206,Pay at Hotel,New,Agent,1,Unknown
+2433,Resort,46,2587,Pay at Hotel,New,Website,1,Change of Plan
+2434,Budget,56,4732,Pay at Hotel,Returning,Website,1,Price Issue
+2435,Resort,39,2407,Pay at Hotel,Returning,Website,1,No Show
+2436,City,35,4548,Prepaid,New,Website,1,No Show
+2437,Resort,14,848,Prepaid,Returning,App,0,Not Cancelled
+2438,Budget,27,5971,Prepaid,Returning,Website,1,Price Issue
+2439,Resort,51,4661,Pay at Hotel,Returning,Website,1,Change of Plan
+2440,Resort,56,2980,Prepaid,New,App,1,Change of Plan
+2441,Resort,48,3846,Prepaid,Returning,Website,1,Change of Plan
+2442,Budget,44,3633,Prepaid,New,App,1,Payment Failure
+2443,Resort,17,2197,Prepaid,Returning,App,0,Not Cancelled
+2444,Resort,1,4626,Pay at Hotel,New,Website,1,Unknown
+2445,City,12,5374,Prepaid,New,Agent,0,Not Cancelled
+2446,Budget,44,1631,Pay at Hotel,New,Website,1,No Show
+2447,Resort,53,3497,Pay at Hotel,Returning,Agent,1,No Show
+2448,Budget,14,5577,Prepaid,New,App,0,Not Cancelled
+2449,Resort,19,3535,Pay at Hotel,Returning,Agent,1,Change of Plan
+2450,Resort,28,881,Pay at Hotel,New,Website,1,No Show
+2451,Resort,58,886,Pay at Hotel,Returning,Website,1,Change of Plan
+2452,City,41,2863,Pay at Hotel,New,Agent,1,Payment Failure
+2453,City,28,1621,Pay at Hotel,Returning,Website,1,Price Issue
+2454,City,2,962,Pay at Hotel,New,Agent,1,No Show
+2455,Budget,18,4539,Pay at Hotel,New,App,1,Price Issue
+2456,Budget,2,3197,Prepaid,New,Agent,0,Not Cancelled
+2457,City,53,2732,Prepaid,Returning,Agent,1,Change of Plan
+2458,Budget,13,3528,Pay at Hotel,New,Agent,1,Better Alternative
+2459,Resort,39,4335,Pay at Hotel,New,Agent,1,Payment Failure
+2460,Resort,58,4246,Prepaid,New,App,1,Better Alternative
+2461,Resort,54,3590,Prepaid,New,App,1,Price Issue
+2462,City,3,3507,Prepaid,Returning,App,0,Not Cancelled
+2463,Budget,58,4733,Prepaid,New,Agent,1,Change of Plan
+2464,City,59,4185,Pay at Hotel,New,App,1,Payment Failure
+2465,Budget,51,1722,Pay at Hotel,Returning,Website,1,Change of Plan
+2466,Resort,10,2975,Prepaid,Returning,App,0,Not Cancelled
+2467,City,57,2382,Prepaid,Returning,Agent,1,Better Alternative
+2468,Budget,30,1364,Prepaid,New,Website,1,Unknown
+2469,Budget,42,4058,Prepaid,Returning,Agent,1,No Show
+2470,Resort,31,3397,Pay at Hotel,Returning,Website,1,Better Alternative
+2471,City,26,3300,Prepaid,Returning,Agent,1,No Show
+2472,City,29,5366,Prepaid,New,Agent,1,Unknown
+2473,City,42,1787,Prepaid,New,Website,1,Payment Failure
+2474,Resort,1,4436,Pay at Hotel,New,App,1,Unknown
+2475,City,48,1023,Pay at Hotel,Returning,Website,1,No Show
+2476,Resort,8,1150,Pay at Hotel,New,Website,1,Better Alternative
+2477,Resort,27,2728,Prepaid,Returning,Website,1,Price Issue
+2478,Resort,30,1148,Prepaid,Returning,Website,1,No Show
+2479,Budget,59,5077,Prepaid,Returning,Website,1,Change of Plan
+2480,City,33,5532,Pay at Hotel,New,Agent,1,Price Issue
+2481,City,55,1817,Pay at Hotel,Returning,Agent,1,No Show
+2482,Resort,14,3026,Prepaid,Returning,App,0,Not Cancelled
+2483,Resort,47,5667,Prepaid,New,App,1,Unknown
+2484,City,24,5911,Pay at Hotel,Returning,Website,1,Price Issue
+2485,Resort,35,4924,Prepaid,Returning,App,1,No Show
+2486,City,7,3219,Prepaid,Returning,App,0,Not Cancelled
+2487,Budget,8,2693,Prepaid,New,Website,0,Not Cancelled
+2488,Resort,57,3840,Pay at Hotel,Returning,Agent,1,Change of Plan
+2489,City,57,2868,Prepaid,New,Agent,1,Payment Failure
+2490,Resort,36,1925,Prepaid,New,App,1,Better Alternative
+2491,City,47,3917,Prepaid,Returning,Agent,1,Unknown
+2492,City,44,4961,Prepaid,Returning,Agent,1,Unknown
+2493,Resort,38,4842,Pay at Hotel,Returning,App,1,No Show
+2494,Budget,31,5233,Pay at Hotel,Returning,Website,1,No Show
+2495,City,57,2970,Pay at Hotel,New,App,1,Change of Plan
+2496,City,51,1246,Prepaid,New,App,1,Unknown
+2497,City,16,3458,Pay at Hotel,Returning,App,1,No Show
+2498,Budget,34,4162,Prepaid,New,Website,1,Better Alternative
+2499,Budget,36,3518,Pay at Hotel,Returning,Website,1,No Show
+2500,Resort,18,4283,Prepaid,Returning,Website,0,Not Cancelled
+2501,Budget,43,3744,Pay at Hotel,Returning,Website,1,Price Issue
+2502,Resort,28,5176,Pay at Hotel,Returning,App,1,Payment Failure
+2503,Resort,58,1395,Pay at Hotel,New,Agent,1,Unknown
+2504,Budget,6,2786,Prepaid,New,App,0,Not Cancelled
+2505,Resort,27,3550,Prepaid,Returning,Website,1,Unknown
+2506,Budget,8,1874,Prepaid,Returning,Agent,0,Not Cancelled
+2507,Resort,27,4769,Pay at Hotel,New,App,1,Unknown
+2508,Budget,5,5105,Prepaid,New,Agent,0,Not Cancelled
+2509,Budget,28,5021,Prepaid,New,Website,1,Payment Failure
+2510,Resort,57,5387,Prepaid,Returning,Agent,1,Better Alternative
+2511,City,16,4380,Prepaid,New,Agent,0,Not Cancelled
+2512,Resort,15,3807,Prepaid,Returning,Website,0,Not Cancelled
+2513,Budget,22,1769,Prepaid,Returning,Agent,1,Change of Plan
+2514,City,30,1380,Pay at Hotel,New,App,1,Unknown
+2515,Resort,2,3624,Pay at Hotel,Returning,Agent,1,Payment Failure
+2516,Resort,20,4801,Prepaid,New,App,0,Not Cancelled
+2517,Resort,25,2011,Pay at Hotel,Returning,Agent,1,Price Issue
+2518,City,35,1029,Pay at Hotel,Returning,Agent,1,Change of Plan
+2519,Budget,41,5084,Prepaid,Returning,Website,1,Payment Failure
+2520,Resort,36,3985,Prepaid,Returning,Website,1,Price Issue
+2521,Resort,52,1301,Pay at Hotel,Returning,App,1,Unknown
+2522,Resort,21,2932,Prepaid,Returning,Website,1,No Show
+2523,Resort,41,848,Pay at Hotel,New,Website,1,Payment Failure
+2524,Resort,11,4366,Pay at Hotel,New,Website,1,Change of Plan
+2525,Budget,41,3855,Pay at Hotel,Returning,Website,1,Payment Failure
+2526,Budget,12,1488,Prepaid,New,Website,0,Not Cancelled
+2527,Resort,10,1186,Pay at Hotel,Returning,App,1,Better Alternative
+2528,City,53,1769,Prepaid,New,App,1,Price Issue
+2529,Budget,15,4260,Prepaid,New,Website,0,Not Cancelled
+2530,City,7,1805,Prepaid,Returning,Website,0,Not Cancelled
+2531,Budget,39,3852,Prepaid,New,App,1,Price Issue
+2532,Resort,58,4217,Prepaid,Returning,Agent,1,Change of Plan
+2533,Budget,56,3102,Pay at Hotel,New,App,1,Unknown
+2534,Resort,39,3083,Prepaid,Returning,Agent,1,Change of Plan
+2535,Budget,44,2407,Prepaid,New,Website,1,Better Alternative
+2536,Resort,58,5166,Prepaid,Returning,Website,1,Unknown
+2537,Resort,1,922,Prepaid,New,App,0,Not Cancelled
+2538,Resort,29,2080,Prepaid,Returning,Website,1,Change of Plan
+2539,Resort,29,4527,Pay at Hotel,New,Agent,1,Better Alternative
+2540,City,11,1058,Prepaid,Returning,Agent,0,Not Cancelled
+2541,Resort,9,1747,Prepaid,New,App,0,Not Cancelled
+2542,City,43,5758,Pay at Hotel,Returning,Agent,1,Payment Failure
+2543,City,10,1324,Prepaid,New,App,0,Not Cancelled
+2544,Resort,14,1687,Pay at Hotel,Returning,App,1,Unknown
+2545,City,15,1007,Pay at Hotel,Returning,Agent,1,Unknown
+2546,Budget,16,4182,Pay at Hotel,Returning,Agent,1,Change of Plan
+2547,Resort,25,3594,Pay at Hotel,Returning,Agent,1,No Show
+2548,City,1,948,Prepaid,New,Agent,0,Not Cancelled
+2549,Resort,49,1237,Prepaid,New,Agent,1,Unknown
+2550,Resort,11,3002,Pay at Hotel,New,Agent,1,Price Issue
+2551,Resort,50,4549,Pay at Hotel,Returning,Agent,1,Better Alternative
+2552,City,25,3961,Prepaid,Returning,Website,1,Better Alternative
+2553,Budget,22,4701,Pay at Hotel,Returning,App,1,No Show
+2554,Budget,17,5253,Pay at Hotel,Returning,App,1,Price Issue
+2555,City,31,4045,Pay at Hotel,Returning,Agent,1,Payment Failure
+2556,Resort,48,5351,Prepaid,New,App,1,Change of Plan
+2557,City,37,3623,Pay at Hotel,New,Agent,1,Payment Failure
+2558,City,56,5524,Prepaid,New,Website,1,Price Issue
+2559,City,46,4070,Prepaid,Returning,App,1,No Show
+2560,Resort,2,1285,Prepaid,Returning,App,0,Not Cancelled
+2561,City,37,999,Pay at Hotel,Returning,Website,1,No Show
+2562,Resort,2,5266,Pay at Hotel,Returning,Website,1,Payment Failure
+2563,City,29,5909,Prepaid,Returning,Website,1,Payment Failure
+2564,Budget,0,2782,Prepaid,Returning,App,0,Not Cancelled
+2565,City,29,2271,Prepaid,Returning,App,1,Price Issue
+2566,City,44,5143,Pay at Hotel,New,Website,1,Better Alternative
+2567,Budget,31,5683,Pay at Hotel,New,Website,1,No Show
+2568,Resort,27,3111,Prepaid,Returning,Website,1,Better Alternative
+2569,Resort,20,4173,Prepaid,Returning,Website,0,Not Cancelled
+2570,City,57,2878,Pay at Hotel,Returning,Website,1,Change of Plan
+2571,Budget,45,2321,Prepaid,New,Agent,1,Price Issue
+2572,Resort,12,1404,Pay at Hotel,New,Website,1,Payment Failure
+2573,City,26,4648,Pay at Hotel,Returning,Agent,1,Change of Plan
+2574,Budget,35,4142,Prepaid,New,App,1,Change of Plan
+2575,Resort,6,2217,Prepaid,New,App,0,Not Cancelled
+2576,Resort,21,5397,Pay at Hotel,New,Agent,1,Better Alternative
+2577,Budget,9,4675,Pay at Hotel,Returning,Website,1,Change of Plan
+2578,Budget,38,3733,Pay at Hotel,New,App,1,Price Issue
+2579,Budget,52,1348,Pay at Hotel,New,Website,1,Better Alternative
+2580,Budget,14,1638,Pay at Hotel,Returning,Website,1,Change of Plan
+2581,City,14,4615,Prepaid,Returning,Agent,0,Not Cancelled
+2582,Budget,3,1647,Pay at Hotel,New,App,1,Better Alternative
+2583,Resort,31,5509,Pay at Hotel,Returning,App,1,Change of Plan
+2584,Resort,22,5307,Pay at Hotel,New,Agent,1,No Show
+2585,City,54,5573,Prepaid,New,Website,1,Better Alternative
+2586,Resort,5,5054,Prepaid,Returning,Website,0,Not Cancelled
+2587,Resort,23,5268,Pay at Hotel,Returning,App,1,Better Alternative
+2588,Budget,19,3072,Pay at Hotel,New,Agent,1,Better Alternative
+2589,Resort,57,5992,Prepaid,Returning,Agent,1,Unknown
+2590,City,36,4120,Prepaid,Returning,Website,1,Unknown
+2591,Budget,19,3358,Prepaid,New,Website,0,Not Cancelled
+2592,Budget,11,5498,Prepaid,New,Agent,0,Not Cancelled
+2593,City,32,5111,Pay at Hotel,New,App,1,Change of Plan
+2594,Budget,27,2796,Prepaid,New,Website,1,Price Issue
+2595,Budget,7,4473,Pay at Hotel,New,Agent,1,Price Issue
+2596,City,0,2364,Pay at Hotel,New,Agent,1,Unknown
+2597,Budget,36,4818,Prepaid,Returning,Agent,1,Change of Plan
+2598,City,21,2640,Prepaid,Returning,App,1,Unknown
+2599,City,5,4091,Prepaid,New,Website,0,Not Cancelled
+2600,Resort,20,3687,Prepaid,Returning,Website,0,Not Cancelled
+2601,Resort,31,1526,Pay at Hotel,Returning,Website,1,Payment Failure
+2602,Budget,34,2044,Pay at Hotel,New,App,1,Price Issue
+2603,Budget,14,4260,Pay at Hotel,Returning,Website,1,Price Issue
+2604,City,4,4518,Prepaid,Returning,Website,0,Not Cancelled
+2605,Budget,59,1865,Pay at Hotel,New,Website,1,Payment Failure
+2606,City,55,5571,Prepaid,Returning,Website,1,Better Alternative
+2607,City,45,1082,Pay at Hotel,Returning,App,1,No Show
+2608,Budget,49,1881,Prepaid,New,Agent,1,No Show
+2609,City,47,4685,Pay at Hotel,Returning,Agent,1,Payment Failure
+2610,Resort,5,3681,Pay at Hotel,Returning,Website,1,Price Issue
+2611,Budget,24,3384,Prepaid,Returning,Website,1,No Show
+2612,Resort,55,3770,Pay at Hotel,New,Website,1,Payment Failure
+2613,Budget,45,1952,Pay at Hotel,New,App,1,Unknown
+2614,City,58,4297,Prepaid,Returning,Website,1,Change of Plan
+2615,Budget,55,1747,Prepaid,Returning,App,1,No Show
+2616,Resort,39,5560,Prepaid,New,Website,1,Change of Plan
+2617,City,28,2517,Prepaid,New,Website,1,Price Issue
+2618,Budget,6,866,Prepaid,Returning,Agent,0,Not Cancelled
+2619,Budget,39,1436,Pay at Hotel,New,Website,1,Payment Failure
+2620,Budget,12,1113,Prepaid,Returning,App,0,Not Cancelled
+2621,Resort,37,4197,Pay at Hotel,Returning,Agent,1,No Show
+2622,Resort,17,1364,Pay at Hotel,New,App,1,No Show
+2623,Budget,1,2401,Prepaid,New,Agent,0,Not Cancelled
+2624,City,7,1625,Pay at Hotel,Returning,App,1,No Show
+2625,City,10,4470,Pay at Hotel,Returning,Agent,1,Payment Failure
+2626,Resort,32,1825,Prepaid,New,App,1,Payment Failure
+2627,City,53,3051,Pay at Hotel,Returning,App,1,Better Alternative
+2628,Resort,37,5557,Prepaid,New,Website,1,Payment Failure
+2629,Budget,47,1604,Prepaid,New,Agent,1,Payment Failure
+2630,Resort,26,3251,Prepaid,New,Agent,1,Price Issue
+2631,Resort,19,5431,Pay at Hotel,New,Website,1,Price Issue
+2632,Budget,11,2191,Pay at Hotel,New,App,1,Change of Plan
+2633,City,42,2035,Pay at Hotel,Returning,App,1,Better Alternative
+2634,Resort,30,4832,Pay at Hotel,New,Agent,1,Price Issue
+2635,Resort,26,4080,Prepaid,New,App,1,Better Alternative
+2636,Budget,31,5523,Pay at Hotel,New,Agent,1,Better Alternative
+2637,City,9,5644,Prepaid,New,Agent,0,Not Cancelled
+2638,Resort,2,4349,Pay at Hotel,New,App,1,Unknown
+2639,Budget,44,5000,Pay at Hotel,New,App,1,Unknown
+2640,Resort,26,4941,Pay at Hotel,New,App,1,Unknown
+2641,Budget,34,2154,Pay at Hotel,Returning,Website,1,Better Alternative
+2642,City,30,5877,Pay at Hotel,Returning,Agent,1,No Show
+2643,City,14,5855,Prepaid,Returning,App,0,Not Cancelled
+2644,City,15,2636,Pay at Hotel,Returning,Website,1,Change of Plan
+2645,City,12,3692,Pay at Hotel,New,App,1,Unknown
+2646,Resort,48,3296,Pay at Hotel,Returning,Agent,1,Change of Plan
+2647,Resort,34,3383,Pay at Hotel,New,Website,1,No Show
+2648,City,51,3358,Prepaid,Returning,Agent,1,Unknown
+2649,City,10,4418,Pay at Hotel,Returning,App,1,No Show
+2650,City,58,2359,Prepaid,New,App,1,Change of Plan
+2651,Resort,20,2307,Pay at Hotel,New,App,1,Unknown
+2652,City,50,4871,Prepaid,Returning,Website,1,No Show
+2653,City,53,2863,Prepaid,Returning,Website,1,Payment Failure
+2654,City,10,4442,Prepaid,Returning,Website,0,Not Cancelled
+2655,Budget,29,2800,Prepaid,Returning,Website,1,No Show
+2656,City,59,5807,Prepaid,New,App,1,No Show
+2657,Budget,47,2094,Pay at Hotel,Returning,App,1,Price Issue
+2658,Budget,52,4865,Prepaid,Returning,App,1,Price Issue
+2659,City,34,3552,Pay at Hotel,Returning,Website,1,Better Alternative
+2660,Budget,21,2553,Prepaid,Returning,Website,1,Unknown
+2661,City,37,5010,Prepaid,Returning,App,1,Better Alternative
+2662,Resort,30,2403,Pay at Hotel,New,App,1,Better Alternative
+2663,Resort,13,2122,Prepaid,New,Website,0,Not Cancelled
+2664,Resort,23,3241,Prepaid,New,Agent,1,Payment Failure
+2665,Resort,49,1898,Prepaid,New,App,1,Change of Plan
+2666,Budget,48,5873,Prepaid,New,App,1,Unknown
+2667,City,31,2305,Pay at Hotel,Returning,App,1,No Show
+2668,City,35,1926,Prepaid,New,Website,1,Price Issue
+2669,City,31,1096,Prepaid,New,App,1,Unknown
+2670,Resort,54,3849,Pay at Hotel,Returning,App,1,No Show
+2671,Resort,14,3025,Pay at Hotel,New,App,1,Unknown
+2672,City,42,5958,Prepaid,New,App,1,No Show
+2673,Resort,57,5154,Prepaid,New,App,1,Price Issue
+2674,City,34,4587,Pay at Hotel,New,Agent,1,No Show
+2675,City,2,2896,Prepaid,Returning,Agent,0,Not Cancelled
+2676,City,15,4409,Pay at Hotel,Returning,App,1,Unknown
+2677,City,4,3008,Prepaid,New,App,0,Not Cancelled
+2678,City,20,975,Pay at Hotel,Returning,App,1,No Show
+2679,City,9,5896,Pay at Hotel,New,App,1,Better Alternative
+2680,City,18,3302,Pay at Hotel,Returning,Website,1,Better Alternative
+2681,Resort,24,4799,Prepaid,Returning,Website,1,Payment Failure
+2682,City,3,2467,Prepaid,Returning,Website,0,Not Cancelled
+2683,City,28,5171,Prepaid,Returning,Agent,1,Change of Plan
+2684,Resort,18,3345,Prepaid,Returning,App,0,Not Cancelled
+2685,Resort,42,1475,Pay at Hotel,Returning,Website,1,Price Issue
+2686,Resort,1,2623,Pay at Hotel,Returning,App,1,Price Issue
+2687,City,9,5947,Pay at Hotel,Returning,App,1,No Show
+2688,Budget,42,2156,Prepaid,Returning,Agent,1,Unknown
+2689,Budget,24,3872,Prepaid,Returning,Agent,1,No Show
+2690,Resort,19,4059,Prepaid,Returning,Website,0,Not Cancelled
+2691,Budget,47,1346,Pay at Hotel,New,Website,1,Unknown
+2692,Resort,18,2883,Prepaid,Returning,Agent,0,Not Cancelled
+2693,City,22,2840,Prepaid,New,Agent,1,No Show
+2694,Budget,23,5334,Pay at Hotel,Returning,App,1,Unknown
+2695,City,10,2552,Pay at Hotel,New,App,1,Better Alternative
+2696,Budget,45,2415,Prepaid,New,Website,1,Unknown
+2697,City,33,2649,Pay at Hotel,New,Website,1,Better Alternative
+2698,Budget,54,3442,Prepaid,Returning,Agent,1,Unknown
+2699,City,27,2400,Pay at Hotel,Returning,Website,1,No Show
+2700,City,4,4196,Pay at Hotel,Returning,App,1,No Show
+2701,Budget,58,5202,Pay at Hotel,Returning,Agent,1,Change of Plan
+2702,City,4,4405,Prepaid,New,App,0,Not Cancelled
+2703,City,50,4599,Prepaid,Returning,Agent,1,Price Issue
+2704,City,20,1418,Prepaid,Returning,Agent,0,Not Cancelled
+2705,Budget,11,1932,Pay at Hotel,Returning,App,1,No Show
+2706,Budget,49,2915,Pay at Hotel,Returning,Website,1,Better Alternative
+2707,City,3,3139,Pay at Hotel,Returning,Website,1,Payment Failure
+2708,City,53,3539,Pay at Hotel,Returning,Website,1,No Show
+2709,Budget,48,5076,Prepaid,Returning,Website,1,Unknown
+2710,Budget,41,2287,Prepaid,Returning,App,1,Payment Failure
+2711,City,19,5809,Prepaid,New,Agent,0,Not Cancelled
+2712,City,37,2357,Pay at Hotel,New,App,1,Unknown
+2713,City,24,2913,Pay at Hotel,Returning,Website,1,Better Alternative
+2714,Resort,13,1844,Prepaid,Returning,Website,0,Not Cancelled
+2715,Budget,10,3231,Pay at Hotel,Returning,App,1,Unknown
+2716,Resort,31,2382,Prepaid,Returning,Agent,1,Price Issue
+2717,Budget,10,2108,Pay at Hotel,New,App,1,Unknown
+2718,Budget,17,5717,Pay at Hotel,New,App,1,Payment Failure
+2719,Budget,26,1401,Prepaid,Returning,App,1,Payment Failure
+2720,Budget,54,2420,Prepaid,New,Agent,1,Price Issue
+2721,Budget,53,5680,Pay at Hotel,New,App,1,Payment Failure
+2722,Budget,17,5566,Prepaid,Returning,App,0,Not Cancelled
+2723,Budget,55,5992,Prepaid,Returning,Website,1,Change of Plan
+2724,Resort,22,900,Pay at Hotel,Returning,App,1,Unknown
+2725,City,10,5071,Pay at Hotel,New,Website,1,Change of Plan
+2726,City,20,1037,Pay at Hotel,New,Website,1,Payment Failure
+2727,Resort,43,4825,Prepaid,Returning,Website,1,Unknown
+2728,Resort,4,3718,Pay at Hotel,Returning,Agent,1,Payment Failure
+2729,Resort,22,3342,Pay at Hotel,New,Website,1,Change of Plan
+2730,Resort,40,2803,Pay at Hotel,New,App,1,Payment Failure
+2731,Budget,58,2337,Pay at Hotel,Returning,App,1,No Show
+2732,City,24,1554,Pay at Hotel,New,Website,1,Better Alternative
+2733,Budget,40,4168,Prepaid,Returning,Website,1,Unknown
+2734,City,53,3058,Pay at Hotel,Returning,App,1,No Show
+2735,City,9,4465,Pay at Hotel,New,Website,1,Payment Failure
+2736,Resort,21,5035,Prepaid,New,Agent,1,Payment Failure
+2737,Budget,18,1340,Pay at Hotel,New,Website,1,Better Alternative
+2738,Resort,0,1069,Pay at Hotel,Returning,Agent,1,Payment Failure
+2739,Budget,6,5931,Prepaid,Returning,Agent,0,Not Cancelled
+2740,City,3,4260,Pay at Hotel,Returning,Agent,1,Unknown
+2741,Resort,0,4208,Prepaid,Returning,Website,0,Not Cancelled
+2742,Resort,14,1305,Pay at Hotel,Returning,Agent,1,Better Alternative
+2743,City,39,1929,Prepaid,Returning,Agent,1,Better Alternative
+2744,City,11,2879,Prepaid,New,Website,0,Not Cancelled
+2745,City,21,3945,Pay at Hotel,Returning,Agent,1,Payment Failure
+2746,Resort,21,4042,Prepaid,Returning,Website,1,Unknown
+2747,Budget,49,5988,Prepaid,Returning,App,1,Change of Plan
+2748,Resort,46,5708,Pay at Hotel,Returning,Agent,1,Price Issue
+2749,Budget,16,1161,Pay at Hotel,New,Website,1,Better Alternative
+2750,Resort,28,4520,Prepaid,Returning,App,1,Price Issue
+2751,Resort,45,2256,Pay at Hotel,New,Agent,1,Payment Failure
+2752,City,13,5824,Prepaid,New,Agent,0,Not Cancelled
+2753,Budget,49,4867,Prepaid,Returning,Website,1,Price Issue
+2754,Resort,19,4995,Pay at Hotel,Returning,App,1,No Show
+2755,Resort,49,2481,Pay at Hotel,New,Website,1,Price Issue
+2756,City,47,1852,Prepaid,New,Agent,1,No Show
+2757,City,32,3309,Pay at Hotel,Returning,Agent,1,Change of Plan
+2758,Budget,54,5816,Pay at Hotel,New,Agent,1,Payment Failure
+2759,Resort,58,5527,Prepaid,Returning,Agent,1,Unknown
+2760,Budget,42,1481,Prepaid,Returning,App,1,Price Issue
+2761,Resort,14,4732,Prepaid,New,App,0,Not Cancelled
+2762,Budget,11,2929,Prepaid,Returning,Website,0,Not Cancelled
+2763,City,39,5649,Prepaid,Returning,Website,1,Price Issue
+2764,Resort,53,4816,Prepaid,Returning,Website,1,Better Alternative
+2765,Budget,19,4102,Pay at Hotel,New,Agent,1,Better Alternative
+2766,City,29,1519,Prepaid,New,Website,1,Unknown
+2767,City,37,874,Pay at Hotel,New,App,1,Unknown
+2768,Budget,2,2093,Pay at Hotel,Returning,Website,1,Better Alternative
+2769,Resort,27,2722,Prepaid,New,Website,1,Unknown
+2770,Resort,55,4957,Pay at Hotel,New,App,1,Better Alternative
+2771,City,25,5769,Prepaid,New,App,1,Price Issue
+2772,Resort,29,1119,Pay at Hotel,Returning,Agent,1,Change of Plan
+2773,Resort,12,2949,Prepaid,Returning,App,0,Not Cancelled
+2774,Resort,12,2252,Prepaid,New,App,0,Not Cancelled
+2775,City,1,5769,Prepaid,New,Website,0,Not Cancelled
+2776,Budget,36,2355,Prepaid,New,App,1,No Show
+2777,Resort,48,5007,Pay at Hotel,Returning,Agent,1,Change of Plan
+2778,City,37,3832,Pay at Hotel,New,Website,1,Better Alternative
+2779,City,1,1260,Pay at Hotel,Returning,Agent,1,Better Alternative
+2780,Budget,35,1686,Pay at Hotel,Returning,App,1,Payment Failure
+2781,Resort,53,4333,Pay at Hotel,Returning,Agent,1,No Show
+2782,Resort,25,4736,Prepaid,New,Agent,1,No Show
+2783,Budget,10,1915,Prepaid,New,App,0,Not Cancelled
+2784,Budget,7,1875,Prepaid,Returning,App,0,Not Cancelled
+2785,City,43,4676,Prepaid,Returning,Website,1,Better Alternative
+2786,City,39,5415,Prepaid,Returning,Website,1,Better Alternative
+2787,Budget,42,5707,Pay at Hotel,Returning,Website,1,Unknown
+2788,Resort,21,2724,Prepaid,New,App,1,Better Alternative
+2789,City,19,1726,Prepaid,New,Agent,0,Not Cancelled
+2790,City,7,5452,Pay at Hotel,Returning,Agent,1,Price Issue
+2791,Resort,28,3081,Pay at Hotel,Returning,Website,1,Price Issue
+2792,City,39,1855,Prepaid,Returning,Website,1,Price Issue
+2793,Resort,25,5474,Prepaid,New,App,1,Change of Plan
+2794,Resort,29,1341,Pay at Hotel,Returning,Agent,1,Payment Failure
+2795,Resort,16,2961,Prepaid,New,Website,0,Not Cancelled
+2796,Budget,19,3051,Prepaid,Returning,App,0,Not Cancelled
+2797,Budget,51,1852,Prepaid,New,Website,1,No Show
+2798,Budget,54,5369,Pay at Hotel,New,App,1,Price Issue
+2799,Resort,15,3544,Prepaid,Returning,Agent,0,Not Cancelled
+2800,Resort,45,4669,Prepaid,New,App,1,Payment Failure
+2801,Budget,42,5800,Pay at Hotel,New,Website,1,Price Issue
+2802,City,6,5281,Pay at Hotel,New,Website,1,Change of Plan
+2803,Resort,15,4957,Pay at Hotel,New,Agent,1,Change of Plan
+2804,City,44,5410,Prepaid,Returning,Agent,1,Payment Failure
+2805,City,58,5325,Pay at Hotel,Returning,Website,1,Change of Plan
+2806,Resort,46,5475,Prepaid,Returning,Website,1,Unknown
+2807,Resort,55,2360,Pay at Hotel,Returning,Website,1,Price Issue
+2808,City,47,4562,Prepaid,Returning,Agent,1,Payment Failure
+2809,City,26,1964,Pay at Hotel,New,Website,1,Price Issue
+2810,Budget,52,3522,Prepaid,New,Agent,1,Change of Plan
+2811,Budget,22,3158,Prepaid,New,Website,1,Price Issue
+2812,Resort,23,1270,Pay at Hotel,New,App,1,Change of Plan
+2813,Budget,8,2216,Pay at Hotel,Returning,App,1,Change of Plan
+2814,Budget,34,2268,Prepaid,Returning,Website,1,Price Issue
+2815,Budget,50,1608,Pay at Hotel,New,App,1,Change of Plan
+2816,Budget,19,971,Prepaid,Returning,Agent,0,Not Cancelled
+2817,City,36,4926,Pay at Hotel,New,App,1,Better Alternative
+2818,Resort,41,4942,Pay at Hotel,New,App,1,Price Issue
+2819,Budget,16,5025,Prepaid,Returning,Agent,0,Not Cancelled
+2820,City,46,3199,Pay at Hotel,Returning,App,1,Price Issue
+2821,City,30,5873,Pay at Hotel,Returning,App,1,Change of Plan
+2822,City,54,2445,Prepaid,Returning,Website,1,Change of Plan
+2823,Budget,56,857,Prepaid,Returning,Agent,1,Payment Failure
+2824,Budget,7,1929,Pay at Hotel,Returning,Agent,1,Unknown
+2825,Resort,14,2153,Prepaid,Returning,Website,0,Not Cancelled
+2826,Budget,30,1567,Pay at Hotel,New,Website,1,Better Alternative
+2827,Budget,52,4695,Pay at Hotel,Returning,App,1,Change of Plan
+2828,City,29,1482,Prepaid,New,App,1,Payment Failure
+2829,Resort,45,4254,Prepaid,New,App,1,Change of Plan
+2830,Budget,19,2808,Prepaid,Returning,Website,0,Not Cancelled
+2831,Budget,59,3942,Prepaid,New,Agent,1,Payment Failure
+2832,City,38,2590,Prepaid,Returning,App,1,Better Alternative
+2833,City,52,2277,Prepaid,New,Website,1,Payment Failure
+2834,Budget,54,1685,Pay at Hotel,New,Agent,1,Change of Plan
+2835,Resort,11,4706,Pay at Hotel,New,Website,1,No Show
+2836,Resort,48,5292,Prepaid,Returning,App,1,No Show
+2837,City,16,2338,Pay at Hotel,New,Website,1,Unknown
+2838,City,41,2873,Pay at Hotel,New,Website,1,Change of Plan
+2839,Budget,29,1112,Pay at Hotel,New,Website,1,Price Issue
+2840,City,28,1610,Pay at Hotel,Returning,Website,1,Payment Failure
+2841,Budget,18,3035,Prepaid,New,Agent,0,Not Cancelled
+2842,Resort,45,3657,Pay at Hotel,Returning,App,1,Price Issue
+2843,Resort,10,3563,Pay at Hotel,New,Agent,1,Change of Plan
+2844,Budget,33,2832,Prepaid,New,Website,1,Price Issue
+2845,City,49,2307,Prepaid,New,Website,1,Change of Plan
+2846,Resort,6,5345,Prepaid,Returning,App,0,Not Cancelled
+2847,City,43,3370,Prepaid,New,App,1,Payment Failure
+2848,Resort,57,2694,Pay at Hotel,New,Agent,1,Price Issue
+2849,Budget,33,3505,Prepaid,New,Agent,1,Payment Failure
+2850,Budget,58,1396,Pay at Hotel,New,App,1,Price Issue
+2851,Budget,19,2947,Pay at Hotel,Returning,Agent,1,Change of Plan
+2852,Resort,49,1415,Prepaid,New,Website,1,Change of Plan
+2853,City,37,1747,Prepaid,New,Website,1,Price Issue
+2854,City,23,5451,Prepaid,New,App,1,Unknown
+2855,City,9,5173,Prepaid,New,Agent,0,Not Cancelled
+2856,Resort,31,4564,Prepaid,Returning,Website,1,Better Alternative
+2857,Resort,51,2813,Prepaid,New,App,1,Better Alternative
+2858,Resort,14,4497,Pay at Hotel,New,Agent,1,Payment Failure
+2859,Resort,36,1290,Pay at Hotel,Returning,Website,1,Better Alternative
+2860,Resort,19,5150,Pay at Hotel,New,Agent,1,Better Alternative
+2861,City,2,3228,Pay at Hotel,New,Agent,1,Unknown
+2862,Resort,36,5787,Prepaid,New,Agent,1,Unknown
+2863,Resort,56,1341,Prepaid,Returning,App,1,No Show
+2864,City,39,2087,Pay at Hotel,New,Website,1,No Show
+2865,Resort,7,2433,Pay at Hotel,Returning,App,1,Unknown
+2866,City,39,5720,Pay at Hotel,Returning,Website,1,No Show
+2867,City,43,3726,Prepaid,Returning,Website,1,Unknown
+2868,Budget,55,2152,Prepaid,Returning,App,1,No Show
+2869,Budget,22,5176,Prepaid,Returning,App,1,Change of Plan
+2870,Budget,39,2098,Pay at Hotel,Returning,Website,1,Unknown
+2871,Budget,10,5668,Pay at Hotel,Returning,Website,1,Payment Failure
+2872,Resort,45,4767,Prepaid,New,Website,1,Payment Failure
+2873,Budget,7,5223,Prepaid,New,Agent,0,Not Cancelled
+2874,City,28,3058,Pay at Hotel,Returning,Website,1,Better Alternative
+2875,Resort,29,5818,Pay at Hotel,Returning,App,1,Payment Failure
+2876,Budget,55,5447,Prepaid,Returning,App,1,Better Alternative
+2877,City,59,2873,Pay at Hotel,Returning,App,1,Payment Failure
+2878,Resort,9,1501,Prepaid,Returning,Website,0,Not Cancelled
+2879,Resort,38,2719,Prepaid,Returning,Website,1,Price Issue
+2880,Budget,27,3260,Pay at Hotel,New,Agent,1,Unknown
+2881,Resort,48,5062,Pay at Hotel,New,Agent,1,Payment Failure
+2882,City,35,5064,Pay at Hotel,Returning,App,1,Change of Plan
+2883,Resort,12,5124,Prepaid,Returning,Agent,0,Not Cancelled
+2884,City,31,1166,Pay at Hotel,Returning,Agent,1,Payment Failure
+2885,Resort,35,1327,Pay at Hotel,New,App,1,Unknown
+2886,Budget,36,5686,Prepaid,Returning,Website,1,Better Alternative
+2887,City,25,4518,Prepaid,New,Agent,1,No Show
+2888,Resort,21,4409,Pay at Hotel,New,Website,1,Unknown
+2889,Resort,3,4735,Prepaid,New,App,0,Not Cancelled
+2890,Resort,30,5419,Prepaid,Returning,App,1,Change of Plan
+2891,City,17,5991,Prepaid,Returning,Agent,0,Not Cancelled
+2892,City,37,2953,Pay at Hotel,New,App,1,Unknown
+2893,City,23,2708,Pay at Hotel,New,App,1,Payment Failure
+2894,Budget,55,3812,Prepaid,New,App,1,Price Issue
+2895,Budget,22,5028,Prepaid,New,Agent,1,Payment Failure
+2896,City,21,3822,Prepaid,Returning,Agent,1,Price Issue
+2897,Resort,1,4283,Pay at Hotel,New,Agent,1,Price Issue
+2898,Budget,30,3520,Prepaid,Returning,App,1,Unknown
+2899,City,54,2570,Prepaid,New,Website,1,Payment Failure
+2900,Resort,10,4913,Pay at Hotel,Returning,App,1,Payment Failure
+2901,Budget,27,2577,Prepaid,New,Agent,1,Price Issue
+2902,Resort,45,5012,Pay at Hotel,Returning,Website,1,Better Alternative
+2903,Resort,31,1597,Pay at Hotel,Returning,Website,1,No Show
+2904,Resort,4,4015,Pay at Hotel,Returning,Agent,1,Change of Plan
+2905,Resort,37,4588,Prepaid,New,Website,1,Payment Failure
+2906,Budget,9,3776,Prepaid,Returning,Website,0,Not Cancelled
+2907,Budget,39,4537,Pay at Hotel,New,Agent,1,No Show
+2908,Budget,45,2511,Prepaid,Returning,Website,1,Better Alternative
+2909,City,23,1552,Pay at Hotel,Returning,Website,1,No Show
+2910,Budget,34,3269,Prepaid,New,Agent,1,Payment Failure
+2911,Resort,43,4769,Pay at Hotel,Returning,Website,1,Unknown
+2912,Budget,47,2192,Pay at Hotel,Returning,Website,1,Unknown
+2913,Resort,59,3405,Prepaid,New,Website,1,No Show
+2914,City,22,1477,Prepaid,Returning,Website,1,Payment Failure
+2915,Resort,16,905,Prepaid,Returning,Agent,0,Not Cancelled
+2916,Resort,0,4087,Prepaid,Returning,App,0,Not Cancelled
+2917,Resort,54,5553,Pay at Hotel,Returning,App,1,Better Alternative
+2918,City,30,2746,Pay at Hotel,New,Website,1,Change of Plan
+2919,Budget,30,1895,Prepaid,Returning,Agent,1,Price Issue
+2920,Budget,41,5883,Prepaid,Returning,Agent,1,Change of Plan
+2921,City,56,2582,Pay at Hotel,Returning,Website,1,Payment Failure
+2922,Resort,54,5341,Prepaid,Returning,App,1,Unknown
+2923,Budget,41,4057,Prepaid,Returning,Website,1,Price Issue
+2924,City,52,2797,Prepaid,Returning,Agent,1,No Show
+2925,Budget,55,5669,Prepaid,Returning,Agent,1,No Show
+2926,City,33,2361,Pay at Hotel,Returning,App,1,Change of Plan
+2927,Resort,8,4806,Pay at Hotel,New,Agent,1,Payment Failure
+2928,Budget,21,2475,Prepaid,New,Agent,1,Unknown
+2929,City,12,1922,Pay at Hotel,New,Agent,1,Change of Plan
+2930,Budget,24,4781,Prepaid,New,App,1,Unknown
+2931,Budget,47,2101,Prepaid,Returning,Agent,1,Better Alternative
+2932,Budget,17,1743,Prepaid,Returning,Website,0,Not Cancelled
+2933,Budget,50,5350,Pay at Hotel,New,App,1,No Show
+2934,City,11,1745,Pay at Hotel,New,Website,1,Price Issue
+2935,Resort,39,1400,Pay at Hotel,New,Website,1,Price Issue
+2936,City,16,3500,Pay at Hotel,Returning,App,1,Price Issue
+2937,City,14,5620,Pay at Hotel,Returning,Website,1,Unknown
+2938,City,41,2217,Prepaid,New,App,1,No Show
+2939,Resort,14,2324,Prepaid,New,Website,0,Not Cancelled
+2940,Budget,14,4566,Pay at Hotel,New,App,1,Payment Failure
+2941,Budget,54,1050,Pay at Hotel,New,Agent,1,No Show
+2942,Budget,38,2344,Pay at Hotel,New,Agent,1,No Show
+2943,Resort,12,878,Prepaid,Returning,Website,0,Not Cancelled
+2944,Budget,16,3923,Pay at Hotel,New,Agent,1,Unknown
+2945,Resort,31,1697,Prepaid,Returning,App,1,Price Issue
+2946,Budget,8,5676,Prepaid,New,Website,0,Not Cancelled
+2947,Budget,39,1025,Pay at Hotel,New,Agent,1,Price Issue
+2948,City,19,5970,Prepaid,Returning,Agent,0,Not Cancelled
+2949,Resort,25,2009,Prepaid,New,Website,1,Better Alternative
+2950,City,26,5953,Pay at Hotel,Returning,Agent,1,Price Issue
+2951,City,20,5698,Prepaid,Returning,Agent,0,Not Cancelled
+2952,City,17,5637,Pay at Hotel,New,Website,1,Change of Plan
+2953,Resort,12,2978,Prepaid,New,Agent,0,Not Cancelled
+2954,Resort,15,3479,Pay at Hotel,Returning,Agent,1,Payment Failure
+2955,Budget,8,3685,Pay at Hotel,Returning,Agent,1,Unknown
+2956,City,11,3606,Prepaid,New,Agent,0,Not Cancelled
+2957,Budget,43,1503,Pay at Hotel,Returning,Website,1,Unknown
+2958,City,37,3344,Prepaid,New,App,1,Price Issue
+2959,Resort,18,3170,Prepaid,Returning,App,0,Not Cancelled
+2960,Resort,59,4081,Pay at Hotel,New,Agent,1,Payment Failure
+2961,Resort,6,5510,Prepaid,Returning,Agent,0,Not Cancelled
+2962,City,56,1128,Pay at Hotel,Returning,App,1,Price Issue
+2963,Resort,34,5028,Prepaid,New,Agent,1,Price Issue
+2964,City,47,5730,Prepaid,Returning,App,1,Payment Failure
+2965,Budget,17,920,Pay at Hotel,Returning,Website,1,Payment Failure
+2966,City,15,1764,Prepaid,Returning,Website,0,Not Cancelled
+2967,Budget,54,5024,Prepaid,Returning,Website,1,Change of Plan
+2968,City,38,4475,Prepaid,Returning,Website,1,Unknown
+2969,Budget,3,2876,Prepaid,Returning,Website,0,Not Cancelled
+2970,Resort,58,1132,Prepaid,Returning,Website,1,Unknown
+2971,Budget,24,4168,Prepaid,New,App,1,Unknown
+2972,Resort,31,2116,Prepaid,Returning,Agent,1,Unknown
+2973,Resort,39,1996,Prepaid,Returning,App,1,Better Alternative
+2974,Budget,12,3970,Pay at Hotel,New,Website,1,Price Issue
+2975,City,44,2229,Prepaid,Returning,Agent,1,Payment Failure
+2976,City,16,1155,Prepaid,Returning,Agent,0,Not Cancelled
+2977,City,48,5034,Pay at Hotel,New,Website,1,Change of Plan
+2978,City,36,2326,Pay at Hotel,Returning,Website,1,Better Alternative
+2979,City,5,4697,Pay at Hotel,Returning,Website,1,Change of Plan
+2980,Resort,18,828,Prepaid,New,Website,0,Not Cancelled
+2981,City,12,5826,Pay at Hotel,New,Website,1,Payment Failure
+2982,Resort,56,1813,Pay at Hotel,Returning,Website,1,No Show
+2983,Resort,59,3502,Prepaid,Returning,Agent,1,Change of Plan
+2984,Resort,25,1627,Prepaid,New,Website,1,Price Issue
+2985,Budget,13,5246,Pay at Hotel,Returning,Website,1,Change of Plan
+2986,Budget,30,2824,Pay at Hotel,New,Agent,1,Better Alternative
+2987,Resort,53,1098,Prepaid,New,App,1,Payment Failure
+2988,Budget,3,2665,Prepaid,New,Website,0,Not Cancelled
+2989,City,59,4816,Prepaid,Returning,Agent,1,Change of Plan
+2990,City,38,2911,Prepaid,New,Agent,1,Change of Plan
+2991,Resort,7,1554,Prepaid,New,App,0,Not Cancelled
+2992,City,24,1569,Pay at Hotel,New,Website,1,Change of Plan
+2993,Resort,12,4535,Prepaid,Returning,Website,0,Not Cancelled
+2994,Resort,31,2038,Prepaid,Returning,Website,1,Better Alternative
+2995,City,58,5729,Prepaid,Returning,Agent,1,Better Alternative
+2996,Budget,37,3013,Prepaid,New,Website,1,Price Issue
+2997,City,37,2706,Prepaid,Returning,Website,1,Change of Plan
+2998,City,55,2364,Pay at Hotel,Returning,Website,1,Price Issue
+2999,Resort,27,2018,Prepaid,New,Website,1,No Show
+3000,Resort,52,5401,Pay at Hotel,New,App,1,Better Alternative
